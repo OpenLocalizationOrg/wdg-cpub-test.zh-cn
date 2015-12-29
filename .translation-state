@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "06459c22f25a38d6a90fba01b490dbcb0737cddb",
-  "LastTranslatedCommit": null,
+  "LastTranslatedCommit": "35cc8e50220c9c5da7d3910989d278db6c1a5684",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
       "FileHash": "3c246d6c393687dbeff05e58303c204713ba80a4",
@@ -769,14 +769,14 @@
       "HandoffDateTime": "2015-12-29T10:23:38.1130235Z",
       "HandoffException": null,
       "HandoffFailureTimes": 0,
-      "TargetFileCommit": null,
-      "TargetFilePath": null,
-      "HandbackFilePath": null,
-      "HandbackFileCommit": null,
-      "HandbackDateTime": "0001-01-01T00:00:00",
+      "TargetFileCommit": "35cc8e50220c9c5da7d3910989d278db6c1a5684",
+      "TargetFilePath": "wdg-cpub-test\\Welcome.md",
+      "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.zh-cn.xlf",
+      "HandbackFileCommit": "8ba160151eaf538231e0a391e151536a56deda29",
+      "HandbackDateTime": "2015-12-29T10:28:17.4050752Z",
       "HandbackException": null,
       "HandbackFailureTimes": 0,
-      "UpdatedDateTime": "0001-01-01T00:00:00"
+      "UpdatedDateTime": "2015-12-29T10:28:17.4050752Z"
     },
     "ae0b5dc29f13589847c0ec8d30ef9fb519fd78b1": {
       "FileHash": "ae0b5dc29f13589847c0ec8d30ef9fb519fd78b1",

@@ -1,11 +1,24 @@
 # <a name='report-top'></a> Localization Handback Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/Welcome.md) | InSyncHandedBackSuccess | [Details](#428a60b8e14034519c1756c17019c594f19e5d2046)
 
 ## Item Details
+##### <a name='428a60b8e14034519c1756c17019c594f19e5d2046'></a> Source: [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/Welcome.md)
+* Status: InSyncHandedBackSuccess
+* Target File: [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.zh-cn/blob/35cc8e50220c9c5da7d3910989d278db6c1a5684/wdg-cpub-test/Welcome.md)
+* Handoff File: [Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bdb4bdf793176b32be5c710bc8e5cb826462640b/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.zh-cn.xlf)
+* Handoff Datetime: 2015-12-29 10:23:38
+* Handoff Reason: Include
+* Handback File: [Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/8ba160151eaf538231e0a391e151536a56deda29/ol-handback/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.zh-cn.xlf)
+* Handback Datetime: 2015-12-29 10:28:17
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
