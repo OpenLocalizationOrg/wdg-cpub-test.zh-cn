@@ -8,8 +8,8 @@
 [ Handoff Success Files ](#handoff-success-list)| 35
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 1
-[ Ignored Files ](#ignored-list)| 11
+[ In Sync Handback Files ](#insync-handback-success-list)| 0
+[ Ignored Files ](#ignored-list)| 12
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
 
@@ -57,9 +57,6 @@
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/Welcome.md) | InSyncHandedBackSuccess | [Details](#428a60b8e14034519c1756c17019c594f19e5d2046)
 
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
@@ -75,6 +72,7 @@
  [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/06459c22f25a38d6a90fba01b490dbcb0737cddb/Tools/NuGet/nuget.exe) | Ignored | [Details](#7469c905e04001f8250137d2da57bbc7bec2d3588)
  [wdg-cpub-test\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/06459c22f25a38d6a90fba01b490dbcb0737cddb/wdg-cpub-test/docfx.json) | Ignored | [Details](#ef46e7227eb5de88f180c82961fdc8c6732f6dbf10)
  [wdg-cpub-test\iawilt\iawilt_test\Ben test](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/06459c22f25a38d6a90fba01b490dbcb0737cddb/wdg-cpub-test/iawilt/iawilt_test/Ben test) | Ignored | [Details](#eff8f567d06e11d393836c1fbf24b220fabbd06117)
+ [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/06459c22f25a38d6a90fba01b490dbcb0737cddb/wdg-cpub-test/Welcome.md) | Ignored | [Details](#9d4c6da29c3b306e31457c830cd0768ea45ca4f246)
 
 ## Item Details
 ##### <a name='803607024514788723dfd07b8fdcf04c806865b70'></a> Source: [.gitignore](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/06459c22f25a38d6a90fba01b490dbcb0737cddb/.gitignore)
@@ -549,14 +547,14 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='428a60b8e14034519c1756c17019c594f19e5d2046'></a> Source: [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/Welcome.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.zh-cn/blob/35cc8e50220c9c5da7d3910989d278db6c1a5684/wdg-cpub-test/Welcome.md)
-* Handoff File: [Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bdb4bdf793176b32be5c710bc8e5cb826462640b/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.zh-cn.xlf)
-* Handoff Datetime: 2015-12-29 10:23:38
-* Handoff Reason: Include
-* Handback File: [Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/8ba160151eaf538231e0a391e151536a56deda29/ol-handback/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.zh-cn.xlf)
-* Handback Datetime: 2015-12-29 10:28:17
+##### <a name='9d4c6da29c3b306e31457c830cd0768ea45ca4f246'></a> Source: [wdg-cpub-test\Welcome.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/06459c22f25a38d6a90fba01b490dbcb0737cddb/wdg-cpub-test/Welcome.md)
+* Status: Ignored
+* Target File: 
+* Handoff File: 
+* Handoff Datetime: 0001-01-01 00:00:00
+* Handoff Reason: Ignored
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
 
