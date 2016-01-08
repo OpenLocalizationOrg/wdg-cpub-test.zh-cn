@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "67f98520f21fb1b110344ed7ea4728267f11d867",
+  "LastProcessedCommit": "bb07ee698cabaa68bee22aa40ba06d13daf33e55",
   "LastTranslatedCommit": "57c2a487cc383b9894034c892857a39a8ea05f06",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
@@ -823,6 +823,29 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z"
+    },
+    "34d15078d35ceece173c493a6e487efa75d37405": {
+      "FileHash": "34d15078d35ceece173c493a6e487efa75d37405",
+      "SourceFileCommit": "bb07ee698cabaa68bee22aa40ba06d13daf33e55",
+      "SourceFilePath": "wdg-cpub-test\\Welcome.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "wdg-cpub-test\\Welcome.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.zh-cn.xlf",
+      "HandoffFileCommit": "39f0ffa4350d283cea02bbf5ac44080a28d5df20",
+      "HandoffDateTime": "2016-01-08T12:47:09.6541102Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00"
     }
   }
 }
