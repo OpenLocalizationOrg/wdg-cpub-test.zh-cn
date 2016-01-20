@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "842a1be4156266feee83bc0d14cf677162b5e4b4",
+  "LastProcessedCommit": "3a0bc5468c92797d15d62e245bf29d078d60df88",
   "LastTranslatedCommit": "b768e43a1929be5bab54a088dbcc75d3742043a5",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
@@ -1048,7 +1048,8 @@
       "HandoffReason": 1,
       "DependencyFrom": null,
       "FilePathList": [
-        "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\attestation_signing_a_kernel_driver_for_public_release.md"
+        "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\attestation_signing_a_kernel_driver_for_public_release.md",
+        "wdg-cpub-test\\test-xliff-2.md"
       ],
       "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.zh-cn.xlf",
       "HandoffFileCommit": "8b3ae149b7398bce1273c82ef5e854e4331c97a9",
