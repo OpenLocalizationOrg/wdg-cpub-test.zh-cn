@@ -1,5 +1,5 @@
 {
-  "LastProcessedCommit": "3a0bc5468c92797d15d62e245bf29d078d60df88",
+  "LastProcessedCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
   "LastTranslatedCommit": "b768e43a1929be5bab54a088dbcc75d3742043a5",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
@@ -2836,6 +2836,33 @@
       "HandbackException": null,
       "HandbackFailureTimes": 0,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
+      "ArchiveFilePath": null,
+      "ArchiveFileCommit": null,
+      "ArchiveFileDateTime": "0001-01-01T00:00:00",
+      "ArchiveException": null
+    },
+    "0252b866a2d0c048b6a643cd9e48e006d15cf46c": {
+      "FileHash": "0252b866a2d0c048b6a643cd9e48e006d15cf46c",
+      "SourceFileCommit": "711feb0e9cd1c1e0b257248dce211449e25a8c5b",
+      "SourceFilePath": "wdg-cpub-test\\test-xliff-2.md",
+      "HandoffReason": 1,
+      "DependencyFrom": null,
+      "FilePathList": [
+        "wdg-cpub-test\\test-xliff-2.md"
+      ],
+      "HandoffFilePath": "ol-handoff\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.zh-cn.xlf",
+      "HandoffFileCommit": "e6bbf0e17ba247dba19541a9aff564b1a278af79",
+      "HandoffDateTime": "2016-01-20T03:45:22.7102214Z",
+      "HandoffException": null,
+      "HandoffFailureTimes": 0,
+      "TargetFileCommit": null,
+      "TargetFilePath": null,
+      "HandbackFilePath": null,
+      "HandbackFileCommit": null,
+      "HandbackDateTime": "0001-01-01T00:00:00",
+      "HandbackException": null,
+      "HandbackFailureTimes": 0,
+      "UpdatedDateTime": "0001-01-01T00:00:00",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
       "ArchiveFileDateTime": "0001-01-01T00:00:00",

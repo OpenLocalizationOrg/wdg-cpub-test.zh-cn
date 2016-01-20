@@ -9,8 +9,8 @@
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
-[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 0
-[ In Sync Handback Files ](#insync-handback-success-list)| 104
+[ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 1
+[ In Sync Handback Files ](#insync-handback-success-list)| 103
 [ Ignored Files ](#ignored-list)| 13
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
@@ -24,6 +24,9 @@
 ## <a name='handback-failed-list'></a> Handback Failed File List
 
 ## <a name='outofsync-handback-success-list'></a> Out Of Sync Handback Success File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/test-xliff-2.md) | OutofSyncHandedBackSuccess | [Details](#0252b866a2d0c048b6a643cd9e48e006d15cf46c45)
 
 ## <a name='insync-handback-success-list'></a> In Sync Handback File Success List
  Source File | Status | Details 
@@ -45,10 +48,10 @@
  [wdg-cpub-test\jasgro\test2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/jasgro/test2.md) | InSyncHandedBackSuccess | [Details](#647ebfda6781b808b9ac43674f5033240c554c5025)
  [wdg-cpub-test\jasgro\tools-for-beginners.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/jasgro/tools-for-beginners.md) | InSyncHandedBackSuccess | [Details](#e0dd374c1c5c5936fb4ebc3ee7d0e48e308d1cbb26)
  [wdg-cpub-test\joshbax\HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/joshbax/HelloWorld.md) | InSyncHandedBackSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855627)
- [wdg-cpub-test\joshbax\HelloWorld2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/joshbax/HelloWorld2.md) | InSyncHandedBackSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855628)
- [wdg-cpub-test\joshbax\HelloWorld3.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/joshbax/HelloWorld3.md) | InSyncHandedBackSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855629)
- [wdg-cpub-test\joshbax\HelloWorld4.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/joshbax/HelloWorld4.md) | InSyncHandedBackSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855630)
- [wdg-cpub-test\joshbax\HelloWorld5.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/joshbax/HelloWorld5.md) | InSyncHandedBackSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855631)
+ [wdg-cpub-test\joshbax\HelloWorld2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/joshbax/HelloWorld2.md) | InSyncHandedBackSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855628)
+ [wdg-cpub-test\joshbax\HelloWorld3.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/joshbax/HelloWorld3.md) | InSyncHandedBackSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855629)
+ [wdg-cpub-test\joshbax\HelloWorld4.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/joshbax/HelloWorld4.md) | InSyncHandedBackSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855630)
+ [wdg-cpub-test\joshbax\HelloWorld5.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/joshbax/HelloWorld5.md) | InSyncHandedBackSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855631)
  [wdg-cpub-test\lizross\available_policies.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/lizross/available_policies.md) | InSyncHandedBackSuccess | [Details](#fa27b37a6be2f8e0887ce2a56559c5c4c943fdac32)
  [wdg-cpub-test\lizross\emie_to_improve_compatibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/lizross/emie_to_improve_compatibility.md) | InSyncHandedBackSuccess | [Details](#2df16f5bb8361cadf656d1e62eddf9aba2ceb45833)
  [wdg-cpub-test\lizross\hardware_and_software_requirements.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/lizross/hardware_and_software_requirements.md) | InSyncHandedBackSuccess | [Details](#5d05b35b340b2dfcb038c9e10880f3c5a902c77734)
@@ -62,7 +65,6 @@
  [wdg-cpub-test\tedhudek\tedhudek-home.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/tedhudek/tedhudek-home.md) | InSyncHandedBackSuccess | [Details](#347bd1181dc590d634f5032591cc574f3786c98242)
  [wdg-cpub-test\tedhudek\wdcml-to-open-publish.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/tedhudek/wdcml-to-open-publish.md) | InSyncHandedBackSuccess | [Details](#65a5708190ddfe0bc61006985f5c3f17eafc865643)
  [wdg-cpub-test\tedhudek\workflow.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/tedhudek/workflow.md) | InSyncHandedBackSuccess | [Details](#6a21b92dfe46a00d5243914c41459fe2cf4569b144)
- [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/test-xliff-2.md) | InSyncHandedBackSuccess | [Details](#bc1bd22aaf8c51a4835b167542d480120811490945)
  [wdg-cpub-test\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/TOC.md) | InSyncHandedBackSuccess | [Details](#1a4983ce48e441c39272f65d1655d8c7ca2b497046)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\analyzing_driver_quality_by_using_code_analysis_tools.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/analyzing_driver_quality_by_using_code_analysis_tools.md) | InSyncHandedBackSuccess | [Details](#0b3ee6df3f0d18a76ffbbd3f9ca61f0a2b9efc3947)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\attestation_signing_a_kernel_driver_for_public_release.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/attestation_signing_a_kernel_driver_for_public_release.md) | InSyncHandedBackSuccess | [Details](#bc1bd22aaf8c51a4835b167542d480120811490948)
@@ -123,7 +125,7 @@
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\to_add_test_metadata.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/to_add_test_metadata.md) | InSyncHandedBackSuccess | [Details](#944b2b71b2f22ccef1f8601686134d7ce6f5ef96105)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/TOC.md) | InSyncHandedBackSuccess | [Details](#4f5bfb807ecf4cc2e5715fbbf544d2491340714c106)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md) | InSyncHandedBackSuccess | [Details](#2434c94f583589d368ce55e6c5d26150cec8ce15107)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_the_device_fundamental_tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_the_device_fundamental_tests.md) | InSyncHandedBackSuccess | [Details](#2434c94f583589d368ce55e6c5d26150cec8ce15108)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_the_device_fundamental_tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_the_device_fundamental_tests.md) | InSyncHandedBackSuccess | [Details](#2434c94f583589d368ce55e6c5d26150cec8ce15108)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\umdf_verifier_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/umdf_verifier_properties_for_driver_package_projects.md) | InSyncHandedBackSuccess | [Details](#a9b1e0eb7445100c3cd81ce979e54703c87254ad109)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md) | InSyncHandedBackSuccess | [Details](#b0477a3ded515799ddbf6dc256d7a1f8376228c6110)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\validating_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/validating_universal_drivers.md) | InSyncHandedBackSuccess | [Details](#798d98ae3b3b36679756fb2c3bb4bac44092a4bf111)
@@ -136,22 +138,22 @@
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.gitignore](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/.gitignore) | Ignored | [Details](#803607024514788723dfd07b8fdcf04c806865b70)
- [.localization-config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/.localization-config) | Ignored | [Details](#685f82d720f02ecb23272063f7f234af675579221)
- [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/.openpublishing.build.mdproj) | Ignored | [Details](#39a1ec920f8f95c0152f04241c339463545b9bfe2)
- [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/.openpublishing.publish.config.json) | Ignored | [Details](#8eecabd3ae8e6ddd6d0e0d1d1a442cd0ad7a75fa3)
- [HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/HelloWorld.md) | Ignored | [Details](#ee4e5473b0707009cf7b442f48a9340566ddaaa14)
- [packages.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/packages.config) | Ignored | [Details](#35e64e3675af499b08de0a295cbd0394dce36fbf5)
- [README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/README.md) | Ignored | [Details](#628ce7b359157a4c8c79d02622d30781cfb9ad896)
- [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/Tools/NuGet/Nuget.Config) | Ignored | [Details](#37d5a2d0c8a81313cf7e92800e699f2f86a9f9f97)
- [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/Tools/NuGet/nuget.exe) | Ignored | [Details](#7469c905e04001f8250137d2da57bbc7bec2d3588)
- [wdg-cpub-test\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/docfx.json) | Ignored | [Details](#ef46e7227eb5de88f180c82961fdc8c6732f6dbf10)
- [wdg-cpub-test\iawilt\iawilt_test\Ben test](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/iawilt/iawilt_test/Ben test) | Ignored | [Details](#eff8f567d06e11d393836c1fbf24b220fabbd06117)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\common\wedge.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/common/wedge.gif) | Ignored | [Details](#cb4c1f48a6689d260b479437f66a250a5bf5d7fd52)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/docfx.json) | Ignored | [Details](#a57e172cf19fe083f68a6586ff8e77a4b9282e1669)
+ [.gitignore](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/.gitignore) | Ignored | [Details](#803607024514788723dfd07b8fdcf04c806865b70)
+ [.localization-config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/.localization-config) | Ignored | [Details](#685f82d720f02ecb23272063f7f234af675579221)
+ [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/.openpublishing.build.mdproj) | Ignored | [Details](#39a1ec920f8f95c0152f04241c339463545b9bfe2)
+ [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/.openpublishing.publish.config.json) | Ignored | [Details](#8eecabd3ae8e6ddd6d0e0d1d1a442cd0ad7a75fa3)
+ [HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/HelloWorld.md) | Ignored | [Details](#ee4e5473b0707009cf7b442f48a9340566ddaaa14)
+ [packages.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/packages.config) | Ignored | [Details](#35e64e3675af499b08de0a295cbd0394dce36fbf5)
+ [README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/README.md) | Ignored | [Details](#628ce7b359157a4c8c79d02622d30781cfb9ad896)
+ [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/Tools/NuGet/Nuget.Config) | Ignored | [Details](#37d5a2d0c8a81313cf7e92800e699f2f86a9f9f97)
+ [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/Tools/NuGet/nuget.exe) | Ignored | [Details](#7469c905e04001f8250137d2da57bbc7bec2d3588)
+ [wdg-cpub-test\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/docfx.json) | Ignored | [Details](#ef46e7227eb5de88f180c82961fdc8c6732f6dbf10)
+ [wdg-cpub-test\iawilt\iawilt_test\Ben test](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/iawilt/iawilt_test/Ben test) | Ignored | [Details](#eff8f567d06e11d393836c1fbf24b220fabbd06117)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\common\wedge.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/common/wedge.gif) | Ignored | [Details](#cb4c1f48a6689d260b479437f66a250a5bf5d7fd52)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/docfx.json) | Ignored | [Details](#a57e172cf19fe083f68a6586ff8e77a4b9282e1669)
 
 ## Item Details
-##### <a name='803607024514788723dfd07b8fdcf04c806865b70'></a> Source: [.gitignore](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/.gitignore)
+##### <a name='803607024514788723dfd07b8fdcf04c806865b70'></a> Source: [.gitignore](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/.gitignore)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -163,7 +165,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='685f82d720f02ecb23272063f7f234af675579221'></a> Source: [.localization-config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/.localization-config)
+##### <a name='685f82d720f02ecb23272063f7f234af675579221'></a> Source: [.localization-config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -175,7 +177,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='39a1ec920f8f95c0152f04241c339463545b9bfe2'></a> Source: [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/.openpublishing.build.mdproj)
+##### <a name='39a1ec920f8f95c0152f04241c339463545b9bfe2'></a> Source: [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/.openpublishing.build.mdproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -187,7 +189,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8eecabd3ae8e6ddd6d0e0d1d1a442cd0ad7a75fa3'></a> Source: [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/.openpublishing.publish.config.json)
+##### <a name='8eecabd3ae8e6ddd6d0e0d1d1a442cd0ad7a75fa3'></a> Source: [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/.openpublishing.publish.config.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -199,7 +201,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ee4e5473b0707009cf7b442f48a9340566ddaaa14'></a> Source: [HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/HelloWorld.md)
+##### <a name='ee4e5473b0707009cf7b442f48a9340566ddaaa14'></a> Source: [HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/HelloWorld.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -211,7 +213,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='35e64e3675af499b08de0a295cbd0394dce36fbf5'></a> Source: [packages.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/packages.config)
+##### <a name='35e64e3675af499b08de0a295cbd0394dce36fbf5'></a> Source: [packages.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/packages.config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -223,7 +225,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='628ce7b359157a4c8c79d02622d30781cfb9ad896'></a> Source: [README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/README.md)
+##### <a name='628ce7b359157a4c8c79d02622d30781cfb9ad896'></a> Source: [README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/README.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -235,7 +237,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='37d5a2d0c8a81313cf7e92800e699f2f86a9f9f97'></a> Source: [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/Tools/NuGet/Nuget.Config)
+##### <a name='37d5a2d0c8a81313cf7e92800e699f2f86a9f9f97'></a> Source: [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/Tools/NuGet/Nuget.Config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -247,7 +249,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='7469c905e04001f8250137d2da57bbc7bec2d3588'></a> Source: [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/Tools/NuGet/nuget.exe)
+##### <a name='7469c905e04001f8250137d2da57bbc7bec2d3588'></a> Source: [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/Tools/NuGet/nuget.exe)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -271,7 +273,7 @@
 * Handback Datetime: 2016-01-05 10:26:18
 * [Back to Top](#report-top)
 
-##### <a name='ef46e7227eb5de88f180c82961fdc8c6732f6dbf10'></a> Source: [wdg-cpub-test\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/docfx.json)
+##### <a name='ef46e7227eb5de88f180c82961fdc8c6732f6dbf10'></a> Source: [wdg-cpub-test\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/docfx.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -360,7 +362,7 @@
 * Dependency From: wdg-cpub-test\domars\Directions_To_Update_Existing_Topic_Using_Browser.md
 * [Back to Top](#report-top)
 
-##### <a name='eff8f567d06e11d393836c1fbf24b220fabbd06117'></a> Source: [wdg-cpub-test\iawilt\iawilt_test\Ben test](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/iawilt/iawilt_test/Ben test)
+##### <a name='eff8f567d06e11d393836c1fbf24b220fabbd06117'></a> Source: [wdg-cpub-test\iawilt\iawilt_test\Ben test](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/iawilt/iawilt_test/Ben test)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -495,7 +497,7 @@
 * Handback Datetime: 2016-01-05 10:26:18
 * [Back to Top](#report-top)
 
-##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d7855628'></a> Source: [wdg-cpub-test\joshbax\HelloWorld2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/joshbax/HelloWorld2.md)
+##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d7855628'></a> Source: [wdg-cpub-test\joshbax\HelloWorld2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/joshbax/HelloWorld2.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\joshbax\HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.zh-cn/blob/57c2a487cc383b9894034c892857a39a8ea05f06/wdg-cpub-test/joshbax/HelloWorld.md)
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ad151402d4fd7fd107a40bc5c8a3885816899282/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.zh-cn.xlf)
@@ -507,7 +509,7 @@
 * Handback Datetime: 2016-01-05 10:26:18
 * [Back to Top](#report-top)
 
-##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d7855629'></a> Source: [wdg-cpub-test\joshbax\HelloWorld3.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/joshbax/HelloWorld3.md)
+##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d7855629'></a> Source: [wdg-cpub-test\joshbax\HelloWorld3.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/joshbax/HelloWorld3.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\joshbax\HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.zh-cn/blob/57c2a487cc383b9894034c892857a39a8ea05f06/wdg-cpub-test/joshbax/HelloWorld.md)
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ad151402d4fd7fd107a40bc5c8a3885816899282/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.zh-cn.xlf)
@@ -519,7 +521,7 @@
 * Handback Datetime: 2016-01-05 10:26:18
 * [Back to Top](#report-top)
 
-##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d7855630'></a> Source: [wdg-cpub-test\joshbax\HelloWorld4.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/joshbax/HelloWorld4.md)
+##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d7855630'></a> Source: [wdg-cpub-test\joshbax\HelloWorld4.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/joshbax/HelloWorld4.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\joshbax\HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.zh-cn/blob/57c2a487cc383b9894034c892857a39a8ea05f06/wdg-cpub-test/joshbax/HelloWorld.md)
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ad151402d4fd7fd107a40bc5c8a3885816899282/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.zh-cn.xlf)
@@ -531,7 +533,7 @@
 * Handback Datetime: 2016-01-05 10:26:18
 * [Back to Top](#report-top)
 
-##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d7855631'></a> Source: [wdg-cpub-test\joshbax\HelloWorld5.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/joshbax/HelloWorld5.md)
+##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d7855631'></a> Source: [wdg-cpub-test\joshbax\HelloWorld5.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/joshbax/HelloWorld5.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\joshbax\HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.zh-cn/blob/57c2a487cc383b9894034c892857a39a8ea05f06/wdg-cpub-test/joshbax/HelloWorld.md)
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ad151402d4fd7fd107a40bc5c8a3885816899282/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.zh-cn.xlf)
@@ -703,16 +705,19 @@
 * Handback Datetime: 2016-01-05 10:26:18
 * [Back to Top](#report-top)
 
-##### <a name='bc1bd22aaf8c51a4835b167542d480120811490945'></a> Source: [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/test-xliff-2.md)
-* Status: InSyncHandedBackSuccess
-* Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\attestation_signing_a_kernel_driver_for_public_release.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.zh-cn/blob/b768e43a1929be5bab54a088dbcc75d3742043a5/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/attestation_signing_a_kernel_driver_for_public_release.md)
-* Handoff File: [attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/8b3ae149b7398bce1273c82ef5e854e4331c97a9/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.zh-cn.xlf)
-* Handoff Datetime: 2016-01-08 20:35:16
+##### <a name='0252b866a2d0c048b6a643cd9e48e006d15cf46c45'></a> Source: [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/test-xliff-2.md)
+* Status: OutofSyncHandedBackSuccess
+* Target File: 
+* Handoff File: [test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/e6bbf0e17ba247dba19541a9aff564b1a278af79/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.zh-cn.xlf)
+* Handoff Datetime: 2016-01-20 03:45:22
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
-* Handback File: [attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/17754d7745466ed93fe855d7a83cdf2dd3d7ae6f/ol-handback/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.zh-cn.xlf)
-* Handback Datetime: 2016-01-11 04:50:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\attestation_signing_a_kernel_driver_for_public_release.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.zh-cn/blob/b768e43a1929be5bab54a088dbcc75d3742043a5/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/attestation_signing_a_kernel_driver_for_public_release.md)
+* Current Handback File: [attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/17754d7745466ed93fe855d7a83cdf2dd3d7ae6f/ol-handback/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.zh-cn.xlf)
+* Current Handback Datetime: 2016-01-11 04:50:00
 * [Back to Top](#report-top)
 
 ##### <a name='1a4983ce48e441c39272f65d1655d8c7ca2b497046'></a> Source: [wdg-cpub-test\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/TOC.md)
@@ -787,7 +792,7 @@
 * Handback Datetime: 2016-01-11 04:50:00
 * [Back to Top](#report-top)
 
-##### <a name='cb4c1f48a6689d260b479437f66a250a5bf5d7fd52'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\common\wedge.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/common/wedge.gif)
+##### <a name='cb4c1f48a6689d260b479437f66a250a5bf5d7fd52'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\common\wedge.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/common/wedge.gif)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -991,7 +996,7 @@
 * Handback Datetime: 2016-01-11 04:50:00
 * [Back to Top](#report-top)
 
-##### <a name='a57e172cf19fe083f68a6586ff8e77a4b9282e1669'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/docfx.json)
+##### <a name='a57e172cf19fe083f68a6586ff8e77a4b9282e1669'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/docfx.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1467,7 +1472,7 @@
 * Handback Datetime: 2016-01-11 04:50:00
 * [Back to Top](#report-top)
 
-##### <a name='2434c94f583589d368ce55e6c5d26150cec8ce15108'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_the_device_fundamental_tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/3a0bc5468c92797d15d62e245bf29d078d60df88/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_the_device_fundamental_tests.md)
+##### <a name='2434c94f583589d368ce55e6c5d26150cec8ce15108'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_the_device_fundamental_tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_the_device_fundamental_tests.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.zh-cn/blob/b768e43a1929be5bab54a088dbcc75d3742043a5/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md)
 * Handoff File: [troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/8b3ae149b7398bce1273c82ef5e854e4331c97a9/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.zh-cn.xlf)

@@ -1,11 +1,29 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/test-xliff-2.md) | OutofSyncHandedBackSuccess | [Details](#0252b866a2d0c048b6a643cd9e48e006d15cf46c45)
 
 ## Item Details
+##### <a name='0252b866a2d0c048b6a643cd9e48e006d15cf46c45'></a> Source: [wdg-cpub-test\test-xliff-2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/711feb0e9cd1c1e0b257248dce211449e25a8c5b/wdg-cpub-test/test-xliff-2.md)
+* Status: OutofSyncHandedBackSuccess
+* Target File: 
+* Handoff File: [test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/e6bbf0e17ba247dba19541a9aff564b1a278af79/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/test-xliff-2.9e74d19c2a06ffac1ddb5240e10c103cbf0db315.zh-cn.xlf)
+* Handoff Datetime: 2016-01-20 03:45:22
+* Handoff Reason: Include
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Current Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\attestation_signing_a_kernel_driver_for_public_release.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.zh-cn/blob/b768e43a1929be5bab54a088dbcc75d3742043a5/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/attestation_signing_a_kernel_driver_for_public_release.md)
+* Current Handback File: [attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandback/blob/17754d7745466ed93fe855d7a83cdf2dd3d7ae6f/ol-handback/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.zh-cn.xlf)
+* Current Handback Datetime: 2016-01-11 04:50:00
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
