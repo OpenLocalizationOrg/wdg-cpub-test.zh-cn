@@ -1,6 +1,6 @@
 {
   "LastProcessedCommit": "b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084",
-  "LastTranslatedCommit": "22c152a31fea43a99e536e22e0e68e19bba6dc64",
+  "LastTranslatedCommit": "dd3b92dd182535f02bf0aa15a7a2d72090c82c82",
   "Items": {
     "3c246d6c393687dbeff05e58303c204713ba80a4": {
       "FileHash": "3c246d6c393687dbeff05e58303c204713ba80a4",
@@ -21,7 +21,7 @@
       "TargetFilePath": "wdg-cpub-test\\dhale\\dev_accessibility\\readme.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\readme.af6253305c53dd1b0aae6b09cb2e883c85e0a5f1.zh-cn.xlf",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -31,7 +31,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -57,7 +57,7 @@
       "TargetFilePath": "wdg-cpub-test\\domars\\Directions_To_Update_Existing_Topic_Using_Browser.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\Directions_To_Update_Existing_Topic_Using_Browser.467f0472275ff2bf87dc67094be537d8ed3ee882.zh-cn.xlf",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -67,7 +67,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -95,7 +95,7 @@
       "TargetFilePath": "wdg-cpub-test\\domars\\images\\Browser_Edit_Button_Screen_Shot.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\36f650b486398eec8dda23bcce6de967a49b8425.png",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -105,7 +105,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -133,7 +133,7 @@
       "TargetFilePath": "wdg-cpub-test\\domars\\images\\Browser_Commit_Changes_Screen_Shot.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\044a112ca2e00f71a2a8d04b2e9aa8bd2628f5ed.png",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -143,7 +143,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -171,7 +171,7 @@
       "TargetFilePath": "wdg-cpub-test\\domars\\images\\Browser_Pull_Request_Screen_Shot.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\61d96a22a5f72b0e5f41de91f1ec3320f0f9888e.png",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -181,7 +181,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -209,7 +209,7 @@
       "TargetFilePath": "wdg-cpub-test\\domars\\images\\Browser_New_Pull_Request_Screen_Shot.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\f43cbe8759da606676de094fd0024cb7c86551ec.png",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -219,7 +219,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -247,7 +247,7 @@
       "TargetFilePath": "wdg-cpub-test\\domars\\images\\Browser_Comparing_Changes_Screen_Shot.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\3dcb3c57b957dd388a5115f830f1c1cb2cf6936e.png",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -257,7 +257,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -283,7 +283,7 @@
       "TargetFilePath": "wdg-cpub-test\\iawilt\\iawilt_test\\test.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\test.32f64f5d1fb6a6d1c28f2fdcde27666d5ae6d241.zh-cn.xlf",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -293,7 +293,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -319,7 +319,7 @@
       "TargetFilePath": "wdg-cpub-test\\jasgro\\JasGro-home.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\JasGro-home.ba84114f220b838b887e90f9f4cd08731827ca7e.zh-cn.xlf",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -329,7 +329,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -357,7 +357,7 @@
       "TargetFilePath": "wdg-cpub-test\\jasgro\\test2.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\test2.07a4be2c106a040b3bdba866b593683135789f3f.zh-cn.xlf",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -367,7 +367,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -393,7 +393,7 @@
       "TargetFilePath": "wdg-cpub-test\\jasgro\\table_creation_tools.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\table_creation_tools.5ac47164b84c765dfffb92438e12fbe35019767e.zh-cn.xlf",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -403,7 +403,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -429,7 +429,7 @@
       "TargetFilePath": "wdg-cpub-test\\jasgro\\test1.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\test1.7f0f552458431654d6ec10125262b97426875375.zh-cn.xlf",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -439,7 +439,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -467,7 +467,7 @@
       "TargetFilePath": "wdg-cpub-test\\images\\jasgro\\pigeon.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\51b695b5f279ee59c19fa59c6b5b4b9ed521ef8e.png",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -477,7 +477,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -503,7 +503,7 @@
       "TargetFilePath": "wdg-cpub-test\\jasgro\\tools-for-beginners.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\tools-for-beginners.c71176847e2ebf0c8813ff5acbcc8f660f8adee2.zh-cn.xlf",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -513,7 +513,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -543,7 +543,7 @@
       "TargetFilePath": "wdg-cpub-test\\joshbax\\HelloWorld.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.zh-cn.xlf",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -553,7 +553,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -586,7 +586,7 @@
       "TargetFilePath": "wdg-cpub-test\\images\\github-logo.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\90d7dca36f340986a0c7b98525226d3fd282aa6a.png",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -596,7 +596,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -629,7 +629,7 @@
       "TargetFilePath": "wdg-cpub-test\\images\\markdown-logo.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\ced6981729e25a31e25e8bbac32f2a822851abb0.png",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -639,7 +639,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -665,7 +665,7 @@
       "TargetFilePath": "wdg-cpub-test\\lizross\\available_policies.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\available_policies.ff49108befeca60e0cb8e2a505ce332559123ced.zh-cn.xlf",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -675,7 +675,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -701,7 +701,7 @@
       "TargetFilePath": "wdg-cpub-test\\lizross\\emie_to_improve_compatibility.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\emie_to_improve_compatibility.01466982c77753bd70eee0c62860ff289eab85fd.zh-cn.xlf",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -711,7 +711,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -739,7 +739,7 @@
       "TargetFilePath": "wdg-cpub-test\\lizross\\images\\EmIEOpeninIE.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\c60b61e09592ccc99e5af898dcef91d310e8d794.png",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -749,7 +749,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -777,7 +777,7 @@
       "TargetFilePath": "wdg-cpub-test\\lizross\\images\\Edge_EmIE_GroupPolicySiteList.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\3db200b5df5b492cd6cfcc04c59db9a3bffc1db1.png",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -787,7 +787,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -815,7 +815,7 @@
       "TargetFilePath": "wdg-cpub-test\\lizross\\images\\Edge_EmIE_RegistrySiteList.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\c4ad8cd0e62f8f177e1b945b19b0ae2667a08e51.png",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -825,7 +825,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -853,7 +853,7 @@
       "TargetFilePath": "wdg-cpub-test\\lizross\\images\\SendintranettoIE.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\13db3344d2ab0ff7d5350584470566ac2b128e12.png",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -863,7 +863,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -889,7 +889,7 @@
       "TargetFilePath": "wdg-cpub-test\\lizross\\hardware_and_software_requirements.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\hardware_and_software_requirements.b95d588b7b44b2bbc115562bda4a63386f1b62fb.zh-cn.xlf",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -899,7 +899,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -925,7 +925,7 @@
       "TargetFilePath": "wdg-cpub-test\\lizross\\msedge_deployment_guide_for_it_pros.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\msedge_deployment_guide_for_it_pros.b5fb018fe51efcf49ab261fda90e80e2c708e2c5.zh-cn.xlf",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -935,7 +935,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -961,7 +961,7 @@
       "TargetFilePath": "wdg-cpub-test\\macapara\\macapara.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\macapara.1f4a6c8a550f2dadc79422a1faf545785d5e7174.zh-cn.xlf",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -971,7 +971,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -997,7 +997,7 @@
       "TargetFilePath": "wdg-cpub-test\\tedhudek\\markdown-tips.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\markdown-tips.0223efeae412507af7c4547e7e0aa549e87ea60a.zh-cn.xlf",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1007,7 +1007,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1033,7 +1033,7 @@
       "TargetFilePath": "wdg-cpub-test\\tedhudek\\tedhudek-home.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\tedhudek-home.cd82e1b999ca1e8e89601b96d7b6ed332d44c137.zh-cn.xlf",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1043,7 +1043,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1069,7 +1069,7 @@
       "TargetFilePath": "wdg-cpub-test\\tedhudek\\wdcml-to-open-publish.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\wdcml-to-open-publish.a4dd794f0bf7ce39cc12ecded434499fcb86d4f4.zh-cn.xlf",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1079,7 +1079,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1105,7 +1105,7 @@
       "TargetFilePath": "wdg-cpub-test\\tedhudek\\workflow.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\workflow.c81c0151d66bf0be9587301c3f7e2255d13a9e00.zh-cn.xlf",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1115,7 +1115,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1141,7 +1141,7 @@
       "TargetFilePath": "wdg-cpub-test\\TOC.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\TOC.a9ee67cb4f35ab2cb1a9b412181346e45899f313.zh-cn.xlf",
       "HandbackFileCommit": "a71a640ae281def414fcc1404f3538b7d37a45a0",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1151,7 +1151,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-05T10:26:18.9197876Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1317,7 +1317,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\analyzing_driver_quality_by_using_code_analysis_tools.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\analyzing_driver_quality_by_using_code_analysis_tools.fa3d557dd7b16334872b19b7d288e2179b421f36.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1327,7 +1327,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1354,7 +1354,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\attestation_signing_a_kernel_driver_for_public_release.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\attestation_signing_a_kernel_driver_for_public_release.60952bf9330143f0f7f5ec5a32dd4e53f311b511.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1364,7 +1364,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1392,7 +1392,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\attestation_driver_signing_submission_dashboard.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\e0f09dec7a25d3016140c132c7e6f0411589b8f3.png",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1402,7 +1402,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1430,7 +1430,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\b_wes_driversigning_v2.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\21987b89a2bd6120f2fbb8084c822d6cf0f5b73e.png",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1440,7 +1440,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1466,7 +1466,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\avoiding_floating_point_errors_in_custom_build_environments.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\avoiding_floating_point_errors_in_custom_build_environments.cee0e6d04ff683ed75853cbaefdb3cb80a9ba8b9.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1476,7 +1476,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1502,7 +1502,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\building_a_driver.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\building_a_driver.cbc09280250e99cd2659c1df5d0ad4fc537f9081.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1512,7 +1512,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1538,7 +1538,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\building_drivers_for_different_versions_of_windows.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\building_drivers_for_different_versions_of_windows.a7c7436aaf4de0b7c53827a0fa712ca3bde1a84c.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1548,7 +1548,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1574,7 +1574,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\converting_wdk_8_1_projects_to_wdk_10.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\converting_wdk_8_1_projects_to_wdk_10.474e5e2dbbaf162065af3c72ae497364a406ed87.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1584,7 +1584,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1610,7 +1610,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\counters_manifest_preprocessor_properties_for_driver_projects.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\counters_manifest_preprocessor_properties_for_driver_projects.eeeab85b33933cf108a80d82f2b8adc624e8e2ed.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1620,7 +1620,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1646,7 +1646,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\create_a_custom_driver_installation_script.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\create_a_custom_driver_installation_script.357dbb9021e614bca1c5fa19d9777bca3fffefb9.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1656,7 +1656,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1682,7 +1682,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\creating_a_device_metadata_package.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\creating_a_device_metadata_package.d2e96cda60fffef1c4ac7d8c69c5442ec20ed839.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1692,7 +1692,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1718,7 +1718,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\creating_a_driver_from_existing_source_files.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\creating_a_driver_from_existing_source_files.21b428e353639aad4f789fbce2c093e8dafd9dc2.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1728,7 +1728,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1754,7 +1754,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\creating_a_driver_package.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\creating_a_driver_package.73e06db2ddf1087ccf602c36d1ff122837314e31.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1764,7 +1764,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1792,7 +1792,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\VsSlnExplorer.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\bd0c6c5437446ea0c01d45fd1049fff8f8b3790c.png",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1802,7 +1802,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1830,7 +1830,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\VsDrvrPkgProps.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\65302587cbc9b4aa1c3633df61751962844f9e2c.png",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1840,7 +1840,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1868,7 +1868,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\MultipleDriversSingleSolution.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\b4d01e34c4ef81ab40804f4cf5b6981d2cdd91bd.png",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1878,7 +1878,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1904,7 +1904,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\creating_a_driver_verification_log.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\creating_a_driver_verification_log.96eff15d7e468242b14cf46aedc5527782908604.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1914,7 +1914,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1940,7 +1940,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\creating_a_log_file_for_static_driver_verifier.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\creating_a_log_file_for_static_driver_verifier.c33f99351b08661a50d5fd3977e69e4a534e5dbf.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1950,7 +1950,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -1976,7 +1976,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\creating_a_log_file_for_the_code_analysis_tool.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\creating_a_log_file_for_the_code_analysis_tool.9af7d60829f22ab6d9d9660d5f3fe961d7f765df.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -1986,7 +1986,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2012,7 +2012,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\creating_a_new_driver.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\creating_a_new_driver.2beda9848f2913454930779b42c798c7a14e4b30.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2022,7 +2022,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2048,7 +2048,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\creating_a_new_filter_driver.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\creating_a_new_filter_driver.d70f3a12da3192fe8e7ff943a58111b6eaaff602.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2058,7 +2058,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2084,7 +2084,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\creating_a_new_software_driver.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\creating_a_new_software_driver.080b52a3e470fa06b9cbbef274ae2a9a61c3524d.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2094,7 +2094,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2120,7 +2120,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\debugging_a_driver.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\debugging_a_driver.d0f46f354896826a092820cf39261d4f410dbeed.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2130,7 +2130,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2156,7 +2156,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\deploying_a_driver_to_a_test_computer.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\deploying_a_driver_to_a_test_computer.5d1d0565bb41ea5d115f7a9b856ba02546d36a95.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2166,7 +2166,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2192,7 +2192,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\deployment_properties_for_driver_projects.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\deployment_properties_for_driver_projects.0608b2ac61637bfa80027bab956bf36221bc7bbc.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2202,7 +2202,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2228,7 +2228,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\distributing_a_driver_package_win8.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\distributing_a_driver_package_win8.12755b11f7f467f14f730a8c28f8eaa90468c4eb.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2238,7 +2238,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2264,7 +2264,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\driver_model_convergence.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\driver_model_convergence.a1a2d739cd3547a1e600d802ab77a42dc77bc286.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2274,7 +2274,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2300,7 +2300,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\driver_model_settings_properties_for_driver_projects.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\driver_model_settings_properties_for_driver_projects.fcf119a52613a74a749a980980ec95063a23b0a1.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2310,7 +2310,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2336,7 +2336,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\driver_signing_properties.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\driver_signing_properties.cb7fe7fb67183b04c9e6c6bfdb1d289dd5729a80.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2346,7 +2346,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2372,7 +2372,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\driver_verifier_properties_for__driver_projects.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\driver_verifier_properties_for__driver_projects.8af174283d96ea6ec207ff10ade1775c8f05918b.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2382,7 +2382,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2408,7 +2408,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\getting_started_with_universal_drivers.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\getting_started_with_universal_drivers.f719b648b017e312575ebdca030512f0c5325b94.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2418,7 +2418,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2444,7 +2444,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\how_to_select_and_configure_the_device_fundamental_tests.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\how_to_select_and_configure_the_device_fundamental_tests.12af8415bd7bce765f79bc6a510ea434fdd37296.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2454,7 +2454,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2480,7 +2480,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\how_to_test_a_driver_at_runtime_from_a_command_prompt.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\how_to_test_a_driver_at_runtime_from_a_command_prompt.dd9b45b531d935ce5ab79c83e50b2d632e3e16fa.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2490,7 +2490,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2516,7 +2516,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\how_to_write_a_driver_test_.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\how_to_write_a_driver_test_.61f137f1ad3610a554d2e28e0410d98bfb985887.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2526,7 +2526,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2552,7 +2552,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\inf2cat_properties_for_driver_package_projects.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\inf2cat_properties_for_driver_package_projects.b6ddd3185a2c07176103bc47e341f746b0f23082.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2562,7 +2562,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2588,7 +2588,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\installing_a_universal_driver.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\installing_a_universal_driver.b7a0455a19eec512588540d32d294dc4dc588629.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2598,7 +2598,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2624,7 +2624,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\Installing_the_Enterprise_WDK.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\Installing_the_Enterprise_WDK.52bff242f4316ede62303abfe9b38068827b4926.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2634,7 +2634,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2660,7 +2660,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\installing_the_wdk_build_environment_in_a_lab.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\installing_the_wdk_build_environment_in_a_lab.4b0d0259f015b7af204488eb719a7cd8fdad089d.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2670,7 +2670,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2696,7 +2696,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\kmdf_verifier_properties_for_driver_package_projects.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\kmdf_verifier_properties_for_driver_package_projects.6de1407e3bb459c6c459466f7a405125c1537873.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2706,7 +2706,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2732,7 +2732,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\message_compiler_properties_for_driver_projects.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\message_compiler_properties_for_driver_projects.3f85a4a66d609368eb1e66eea78b63ae5f6c1b5b.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2742,7 +2742,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2768,7 +2768,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\mof_compiler_properties_for_driver_projects.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\mof_compiler_properties_for_driver_projects.b84cd2cc7370511be671c43efa7c43bac0f3de27.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2778,7 +2778,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2804,7 +2804,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\preparing_a_computer_for_manual_driver_deployment.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\preparing_a_computer_for_manual_driver_deployment.51ad54b679016cd1d0c801b7c7f7b9ab197d661d.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2814,7 +2814,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2840,7 +2840,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\read_the_driver_test_results_log.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\read_the_driver_test_results_log.eb789dceaf151302de89217fe530e346162f78b8.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2850,7 +2850,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2878,7 +2878,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\ert_test_results.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\df36e47e5bdc8ec928da08d1e7e8f66d7f421837.png",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2888,7 +2888,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2914,7 +2914,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\README.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\README.61953ed54565669063acc19192c50e7fa0b2d6c5.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2924,7 +2924,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2950,7 +2950,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\run_the_hck_test_suites_in_the_wdk.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\run_the_hck_test_suites_in_the_wdk.626ab9e426be669c2b7872664e5b36e04a040e48.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2960,7 +2960,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -2986,7 +2986,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\signing_a_driver.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\signing_a_driver.d8f891ef3713e655606ee7c5f10708fd6b1cad77.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -2996,7 +2996,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3022,7 +3022,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\signing_a_driver_during_development_and_testing.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\signing_a_driver_during_development_and_testing.81a60998378a6f28726d548997445d60ddbfcb20.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3032,7 +3032,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3060,7 +3060,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\SigningADriver01.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\95f73079b57688206bf3238e1a509f0b81ba8da2.png",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3070,7 +3070,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3096,7 +3096,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\signing_a_driver_for_public_release.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\signing_a_driver_for_public_release.0493fdc06d8757a97e7a3d5b6b456d0f1b2ece55.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3106,7 +3106,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3132,7 +3132,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\stampinf_properties_for_driver_projects.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\stampinf_properties_for_driver_projects.2326d09cab960412f419e514a8f362ce1b3a1baf.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3142,7 +3142,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3168,7 +3168,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\strategies_for_testing_drivers_during_development.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\strategies_for_testing_drivers_during_development.16bcb49fb4d79448be1c3bead0b002ad114c8071.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3178,7 +3178,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3204,7 +3204,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\test_a_driver_package.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\test_a_driver_package.d17f8c0f32052a7cd3e7f2b181d1976478f5ae51.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3214,7 +3214,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3240,7 +3240,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\testing_a_driver.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\testing_a_driver.094134d3f100ae97179f8b35217317ca1dd92543.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3250,7 +3250,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3276,7 +3276,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\testing_a_driver_at_runtime.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\testing_a_driver_at_runtime.7297ee08eda57f78f10cb96021bb26e1b26031cb.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3286,7 +3286,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3312,7 +3312,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\to_add_test_metadata.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\to_add_test_metadata.5628c4aeece116648c1aa37d87b85a14b59bc8f8.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3322,7 +3322,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3348,7 +3348,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\TOC.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\TOC.18945f002d8614ade84dd70a7a3a886036563906.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3358,7 +3358,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3385,7 +3385,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3395,7 +3395,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3421,7 +3421,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\umdf_verifier_properties_for_driver_package_projects.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\umdf_verifier_properties_for_driver_package_projects.c74447a594f54cbf33538e4d86c298df572586e7.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3431,7 +3431,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3457,7 +3457,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.b387aa692a8e081d84588efa3f26e0baf9a6d11f.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3467,7 +3467,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3493,7 +3493,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\validating_universal_drivers.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\validating_universal_drivers.f62e7538d9469f919649024785de1ce56d1d51d1.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3503,7 +3503,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3529,7 +3529,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\visual_studio_driver_development_environment.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\visual_studio_driver_development_environment.8000e0deea179f6875a81edfb7b928b8889c0d63.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3539,7 +3539,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3565,7 +3565,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\what_happens_when_you_provision_a_computer__wdk_8_0_.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\what_happens_when_you_provision_a_computer__wdk_8_0_.a7c85524b6e8ece19940ef2541798bb113898dd1.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3575,7 +3575,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3601,7 +3601,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\what_happens_when_you_provision_a_computer__wdk_8_1_.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\what_happens_when_you_provision_a_computer__wdk_8_1_.8ad0b1b3a0a4a147e38782bf64c94e3f9c4e3fe3.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3611,7 +3611,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3637,7 +3637,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\windows_10_editions_for_universal_drivers.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\windows_10_editions_for_universal_drivers.4cd87125419ce917f638854e2b8bf422e6600f23.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3647,7 +3647,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3675,7 +3675,7 @@
       "TargetFilePath": "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\images\\TargetPlatform.png",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\3ce2fdf00618bcc50d2d3b9454a1c522096e9053.png",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3685,7 +3685,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
@@ -3711,7 +3711,7 @@
       "TargetFilePath": "wdg-cpub-test\\Welcome.md",
       "HandbackFilePath": "ol-handback\\OpenLocalizationOrg\\wdg-cpub-test.zh-cn\\master\\Welcome.ecbb965b6e13825c7524206fa12c4cc64183e55b.zh-cn.xlf",
       "HandbackFileCommit": "17754d7745466ed93fe855d7a83cdf2dd3d7ae6f",
-      "HandbackDateTime": "2016-02-22T08:48:45.2948844Z",
+      "HandbackDateTime": "2016-02-22T08:49:27.6663226Z",
       "HandbackException": {
         "internal_error_code": "handback_type_is_mismatch_with_handoff_type",
         "internal_error_message": "The handback type archive is not match with handoff type null.",
@@ -3721,7 +3721,7 @@
         "stack_trace": null,
         "extended_information": null
       },
-      "HandbackFailureTimes": 1,
+      "HandbackFailureTimes": 2,
       "UpdatedDateTime": "2016-01-11T04:50:00.1360566Z",
       "ArchiveFilePath": null,
       "ArchiveFileCommit": null,
