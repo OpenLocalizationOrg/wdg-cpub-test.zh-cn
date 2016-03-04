@@ -5,115 +5,116 @@
  -------- | ----- 
  Total Files | 819
 [ Handoff Failed Files ](#handoff-failed-list)| 2
-[ Handoff Success Files ](#handoff-success-list)| 449
+[ Handoff Success Files ](#handoff-success-list)| 450
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 1
 [ In Sync Handback Files ](#insync-handback-success-list)| 103
-[ Ignored Files ](#ignored-list)| 264
+[ Ignored Files ](#ignored-list)| 263
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [wdg-cpub-test\ndolci1\audio-video-camera\capture-device-controls-for-photo-and-video-capture.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/audio-video-camera/capture-device-controls-for-photo-and-video-capture.md) | HandedOffFailed | [Details](#a74e5e1953eb68cb3f74fac6dd2d93fc64964816205)
- [wdg-cpub-test\ndolci1\graphics\images\animation-child-rectangles.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/images/animation-child-rectangles.gif) | HandedOffFailed | [Details](#2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141519)
+ [wdg-cpub-test\ndolci1\graphics\images\animation-child-rectangles.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/images/animation-child-rectangles.gif) | HandedOffFailed | [Details](#2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141519)
 
 ## <a name='handoff-success-list'></a> Handoff Success File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
+ [wdg-cpub-test\get-app-acquisitions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/get-app-acquisitions.md) | HandedOffSuccess | [Details](#7fe04f6758778a76bbcc265aa17b24479848146717)
  [wdg-cpub-test\ndolci\debug-test-perf\best-practices-for-your-app-s-startup-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/best-practices-for-your-app-s-startup-performance.md) | HandedOffSuccess | [Details](#be88c0d132c573bfc8958ccbc8fc9b95718b032142)
- [wdg-cpub-test\ndolci\debug-test-perf\beta-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/beta-testing.md) | HandedOffSuccess | [Details](#737b2a64d7a96bc90c19a10d4e754e2c2f075b9843)
+ [wdg-cpub-test\ndolci\debug-test-perf\beta-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/beta-testing.md) | HandedOffSuccess | [Details](#737b2a64d7a96bc90c19a10d4e754e2c2f075b9843)
  [wdg-cpub-test\ndolci\debug-test-perf\debugging-and-testing-apps-portal.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/f63cfe3b59d43dcf0b73762912f03d1206d3291f/wdg-cpub-test/ndolci/debug-test-perf/debugging-and-testing-apps-portal.md) | HandedOffSuccess | [Details](#3e0f69dac4bda8a9f481d74dda8740da2d6fc26844)
  [wdg-cpub-test\ndolci\debug-test-perf\deploying-and-debugging-uwp-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/f63cfe3b59d43dcf0b73762912f03d1206d3291f/wdg-cpub-test/ndolci/debug-test-perf/deploying-and-debugging-uwp-apps.md) | HandedOffSuccess | [Details](#cfedddf73b38bcbd5099260d271accfeefcbfcb745)
- [wdg-cpub-test\ndolci\debug-test-perf\images\debug-device-target-list.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/debug-device-target-list.png) | HandedOffSuccess | [Details](#de64362d21f090b76586193191ed6df624521fd046)
- [wdg-cpub-test\ndolci\debug-test-perf\images\debug-property-pages.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/debug-property-pages.png) | HandedOffSuccess | [Details](#be67298c637f11a63d6f7973c658b7d7258fbc9647)
- [wdg-cpub-test\ndolci\debug-test-perf\images\debug-remote-connections.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/debug-remote-connections.png) | HandedOffSuccess | [Details](#3c13afd3c3794a7173390bb719c152d2be9ae62248)
- [wdg-cpub-test\ndolci\debug-test-perf\images\debug-remote-machine-config.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/debug-remote-machine-config.png) | HandedOffSuccess | [Details](#b57f6bfba888a9cb57bfc2242b3c6d9b65867b5249)
- [wdg-cpub-test\ndolci\debug-test-perf\images\em-accelerometer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/em-accelerometer.png) | HandedOffSuccess | [Details](#3b5af7218d84235781ffc7e51764f154365f4ec750)
- [wdg-cpub-test\ndolci\debug-test-perf\images\em-drive.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/em-drive.png) | HandedOffSuccess | [Details](#2ac42acfeb68e181714b37fd7d6675f8484fc29451)
- [wdg-cpub-test\ndolci\debug-test-perf\images\em-frameratecounters.PNG](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/em-frameratecounters.PNG) | HandedOffSuccess | [Details](#49d5c6b9b25d3dee65e09aeb7726c3695132bc6052)
- [wdg-cpub-test\ndolci\debug-test-perf\images\em-list.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/em-list.png) | HandedOffSuccess | [Details](#ea673383ad3164af72a73e80425c7e4b0982aa4253)
- [wdg-cpub-test\ndolci\debug-test-perf\images\em-multipoint.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/em-multipoint.png) | HandedOffSuccess | [Details](#8330a2966313c8c81bf3082cccf18cdfd97612c054)
- [wdg-cpub-test\ndolci\debug-test-perf\images\em-network.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/em-network.png) | HandedOffSuccess | [Details](#ca8c6bd1bba1a76f7e2fcc4673b055f7768a963155)
- [wdg-cpub-test\ndolci\debug-test-perf\images\em-notifications.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/em-notifications.png) | HandedOffSuccess | [Details](#f7abe9d85d0dc10b263ebbe90fe9f3d72a1069a356)
- [wdg-cpub-test\ndolci\debug-test-perf\images\em-sdcard.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/em-sdcard.png) | HandedOffSuccess | [Details](#fbead21ab5fb26b1f04a0cdb0c39770106cbc2f057)
- [wdg-cpub-test\ndolci\debug-test-perf\images\em-sensors.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/em-sensors.png) | HandedOffSuccess | [Details](#8f814bc4fa6eb794dc1d2d21fce479f2093ee76d58)
- [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-nfc-hce.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-nfc-hce.png) | HandedOffSuccess | [Details](#32a52771b9a99c2d29c8b77f37b880bbdbdf612d59)
- [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-nfc-proximity.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-nfc-proximity.png) | HandedOffSuccess | [Details](#45ff0e690ec5ac6c1e2db1c789cf558851cdd67260)
- [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-showing-mouse-input-button-bar.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-showing-mouse-input-button-bar.png) | HandedOffSuccess | [Details](#fe7567cf0d82bf502aeb102aac071fd560b0d47e61)
- [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-with-mouse-enabled.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-with-mouse-enabled.png) | HandedOffSuccess | [Details](#e273d46684a3fe6d157892b7db4999dce035401c62)
- [wdg-cpub-test\ndolci\debug-test-perf\images\interop-transitions.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/interop-transitions.png) | HandedOffSuccess | [Details](#68f2e5c1d62a0d70574037395b80f1d0c70fb43a63)
- [wdg-cpub-test\ndolci\debug-test-perf\images\layout-perf-ex1.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/layout-perf-ex1.png) | HandedOffSuccess | [Details](#7a21e1ce72a44d286995acbb76a4813054f8753364)
- [wdg-cpub-test\ndolci\debug-test-perf\images\layout-perf-ex2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/layout-perf-ex2.png) | HandedOffSuccess | [Details](#055fc04e0997c7ab9ee8da2762587fd01d8b949f65)
- [wdg-cpub-test\ndolci\debug-test-perf\images\layout-perf-ex3.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/layout-perf-ex3.png) | HandedOffSuccess | [Details](#70174df9d165e4b9845ed2300000bf0dd571890566)
- [wdg-cpub-test\ndolci\debug-test-perf\images\live-visual-tree.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/live-visual-tree.png) | HandedOffSuccess | [Details](#f1edb548dee0c9f192acedc13d7ba31c1bb4728e67)
- [wdg-cpub-test\ndolci\debug-test-perf\images\solidvenn.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/solidvenn.png) | HandedOffSuccess | [Details](#b8cb5db84b4f8675c88c6f2a68299770f9f2895b68)
- [wdg-cpub-test\ndolci\debug-test-perf\images\translucentvenn.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/translucentvenn.png) | HandedOffSuccess | [Details](#294384ee98e324679fafb2b71b289a893394c8b969)
- [wdg-cpub-test\ndolci\debug-test-perf\images\videowithneighbors.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/videowithneighbors.png) | HandedOffSuccess | [Details](#6d1a9a148c0284c7eb58787e97562dad238d89e870)
- [wdg-cpub-test\ndolci\debug-test-perf\images\videowithoverlay.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/videowithoverlay.png) | HandedOffSuccess | [Details](#37eeaaeaec2acf7ee51ab3cfa7b145faae08388f71)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\debug-device-target-list.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/debug-device-target-list.png) | HandedOffSuccess | [Details](#de64362d21f090b76586193191ed6df624521fd046)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\debug-property-pages.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/debug-property-pages.png) | HandedOffSuccess | [Details](#be67298c637f11a63d6f7973c658b7d7258fbc9647)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\debug-remote-connections.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/debug-remote-connections.png) | HandedOffSuccess | [Details](#3c13afd3c3794a7173390bb719c152d2be9ae62248)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\debug-remote-machine-config.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/debug-remote-machine-config.png) | HandedOffSuccess | [Details](#b57f6bfba888a9cb57bfc2242b3c6d9b65867b5249)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\em-accelerometer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/em-accelerometer.png) | HandedOffSuccess | [Details](#3b5af7218d84235781ffc7e51764f154365f4ec750)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\em-drive.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/em-drive.png) | HandedOffSuccess | [Details](#2ac42acfeb68e181714b37fd7d6675f8484fc29451)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\em-frameratecounters.PNG](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/em-frameratecounters.PNG) | HandedOffSuccess | [Details](#49d5c6b9b25d3dee65e09aeb7726c3695132bc6052)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\em-list.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/em-list.png) | HandedOffSuccess | [Details](#ea673383ad3164af72a73e80425c7e4b0982aa4253)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\em-multipoint.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/em-multipoint.png) | HandedOffSuccess | [Details](#8330a2966313c8c81bf3082cccf18cdfd97612c054)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\em-network.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/em-network.png) | HandedOffSuccess | [Details](#ca8c6bd1bba1a76f7e2fcc4673b055f7768a963155)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\em-notifications.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/em-notifications.png) | HandedOffSuccess | [Details](#f7abe9d85d0dc10b263ebbe90fe9f3d72a1069a356)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\em-sdcard.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/em-sdcard.png) | HandedOffSuccess | [Details](#fbead21ab5fb26b1f04a0cdb0c39770106cbc2f057)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\em-sensors.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/em-sensors.png) | HandedOffSuccess | [Details](#8f814bc4fa6eb794dc1d2d21fce479f2093ee76d58)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-nfc-hce.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-nfc-hce.png) | HandedOffSuccess | [Details](#32a52771b9a99c2d29c8b77f37b880bbdbdf612d59)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-nfc-proximity.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-nfc-proximity.png) | HandedOffSuccess | [Details](#45ff0e690ec5ac6c1e2db1c789cf558851cdd67260)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-showing-mouse-input-button-bar.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-showing-mouse-input-button-bar.png) | HandedOffSuccess | [Details](#fe7567cf0d82bf502aeb102aac071fd560b0d47e61)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-with-mouse-enabled.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-with-mouse-enabled.png) | HandedOffSuccess | [Details](#e273d46684a3fe6d157892b7db4999dce035401c62)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\interop-transitions.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/interop-transitions.png) | HandedOffSuccess | [Details](#68f2e5c1d62a0d70574037395b80f1d0c70fb43a63)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\layout-perf-ex1.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/layout-perf-ex1.png) | HandedOffSuccess | [Details](#7a21e1ce72a44d286995acbb76a4813054f8753364)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\layout-perf-ex2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/layout-perf-ex2.png) | HandedOffSuccess | [Details](#055fc04e0997c7ab9ee8da2762587fd01d8b949f65)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\layout-perf-ex3.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/layout-perf-ex3.png) | HandedOffSuccess | [Details](#70174df9d165e4b9845ed2300000bf0dd571890566)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\live-visual-tree.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/live-visual-tree.png) | HandedOffSuccess | [Details](#f1edb548dee0c9f192acedc13d7ba31c1bb4728e67)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\solidvenn.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/solidvenn.png) | HandedOffSuccess | [Details](#b8cb5db84b4f8675c88c6f2a68299770f9f2895b68)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\translucentvenn.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/translucentvenn.png) | HandedOffSuccess | [Details](#294384ee98e324679fafb2b71b289a893394c8b969)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\videowithneighbors.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/videowithneighbors.png) | HandedOffSuccess | [Details](#6d1a9a148c0284c7eb58787e97562dad238d89e870)
+ [wdg-cpub-test\ndolci\debug-test-perf\images\videowithoverlay.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/videowithoverlay.png) | HandedOffSuccess | [Details](#37eeaaeaec2acf7ee51ab3cfa7b145faae08388f71)
  [wdg-cpub-test\ndolci\debug-test-perf\improve-garbage-collection-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/improve-garbage-collection-performance.md) | HandedOffSuccess | [Details](#048a75c84f26aa5538b036d1f5a8649f92aed5cb72)
- [wdg-cpub-test\ndolci\debug-test-perf\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/index.md) | HandedOffSuccess | [Details](#61034c9ad90b04e14b6af0cb82151b3dbd833f9c73)
+ [wdg-cpub-test\ndolci\debug-test-perf\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/index.md) | HandedOffSuccess | [Details](#61034c9ad90b04e14b6af0cb82151b3dbd833f9c73)
  [wdg-cpub-test\ndolci\debug-test-perf\keep-the-ui-thread-responsive.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/keep-the-ui-thread-responsive.md) | HandedOffSuccess | [Details](#397e9052630e502710429e61453740ab7828f1cf74)
  [wdg-cpub-test\ndolci\debug-test-perf\listview-and-gridview-data-optimization.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/listview-and-gridview-data-optimization.md) | HandedOffSuccess | [Details](#6d661cd0e37976c81cddea56d307ab47e322ef9d75)
- [wdg-cpub-test\ndolci\debug-test-perf\mvvm-performance-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/mvvm-performance-tips.md) | HandedOffSuccess | [Details](#d7ec7fb242eaddc508823a67716860807c7a2ec376)
- [wdg-cpub-test\ndolci\debug-test-perf\optimize-animations-and-media.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/optimize-animations-and-media.md) | HandedOffSuccess | [Details](#d490d2a7fb51e7008748809bc4822871e4193cca77)
+ [wdg-cpub-test\ndolci\debug-test-perf\mvvm-performance-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/mvvm-performance-tips.md) | HandedOffSuccess | [Details](#d7ec7fb242eaddc508823a67716860807c7a2ec376)
+ [wdg-cpub-test\ndolci\debug-test-perf\optimize-animations-and-media.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/optimize-animations-and-media.md) | HandedOffSuccess | [Details](#d490d2a7fb51e7008748809bc4822871e4193cca77)
  [wdg-cpub-test\ndolci\debug-test-perf\optimize-file-access.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/optimize-file-access.md) | HandedOffSuccess | [Details](#7a6f02b929b55b11323fa326ee56b46379ea9b6c78)
- [wdg-cpub-test\ndolci\debug-test-perf\optimize-gridview-and-listview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/optimize-gridview-and-listview.md) | HandedOffSuccess | [Details](#768b7a3560e479b40655006b006142cd81a6fcab79)
+ [wdg-cpub-test\ndolci\debug-test-perf\optimize-gridview-and-listview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/optimize-gridview-and-listview.md) | HandedOffSuccess | [Details](#768b7a3560e479b40655006b006142cd81a6fcab79)
  [wdg-cpub-test\ndolci\debug-test-perf\optimize-suspend-resume.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/optimize-suspend-resume.md) | HandedOffSuccess | [Details](#e4782444dda3df8c9940f2f2ae6d897b9047473880)
- [wdg-cpub-test\ndolci\debug-test-perf\optimize-xaml-loading.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/optimize-xaml-loading.md) | HandedOffSuccess | [Details](#8af4044cd67c6200c1095ac0ef5b0d96cc8dfc0881)
- [wdg-cpub-test\ndolci\debug-test-perf\optimize-your-xaml-layout.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/optimize-your-xaml-layout.md) | HandedOffSuccess | [Details](#5aed046a3158e54e637895797b325dde6aec44e882)
- [wdg-cpub-test\ndolci\debug-test-perf\performance-and-xaml-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/performance-and-xaml-ui.md) | HandedOffSuccess | [Details](#214e972e0239ce7feb783fb3447b22e94361cfef83)
+ [wdg-cpub-test\ndolci\debug-test-perf\optimize-xaml-loading.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/optimize-xaml-loading.md) | HandedOffSuccess | [Details](#8af4044cd67c6200c1095ac0ef5b0d96cc8dfc0881)
+ [wdg-cpub-test\ndolci\debug-test-perf\optimize-your-xaml-layout.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/optimize-your-xaml-layout.md) | HandedOffSuccess | [Details](#5aed046a3158e54e637895797b325dde6aec44e882)
+ [wdg-cpub-test\ndolci\debug-test-perf\performance-and-xaml-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/performance-and-xaml-ui.md) | HandedOffSuccess | [Details](#214e972e0239ce7feb783fb3447b22e94361cfef83)
  [wdg-cpub-test\ndolci\debug-test-perf\planning-and-measuring-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/planning-and-measuring-performance.md) | HandedOffSuccess | [Details](#3d982bde6c957170d32e27786632ae0c4c23979484)
  [wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/test-with-the-emulator.md) | HandedOffSuccess | [Details](#ad044a75e03fe997f96397348c0c5021d197999985)
- [wdg-cpub-test\ndolci\debug-test-perf\tools-for-profiling-and-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/tools-for-profiling-and-performance.md) | HandedOffSuccess | [Details](#8f40f64f2e00f88fba1ec94593d27a1b67c781d986)
- [wdg-cpub-test\ndolci\debug-test-perf\windows-app-certification-kit.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/windows-app-certification-kit.md) | HandedOffSuccess | [Details](#b3aa1ffc57a489f3a54b8c2d0d629889ec67038d88)
+ [wdg-cpub-test\ndolci\debug-test-perf\tools-for-profiling-and-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/tools-for-profiling-and-performance.md) | HandedOffSuccess | [Details](#8f40f64f2e00f88fba1ec94593d27a1b67c781d986)
+ [wdg-cpub-test\ndolci\debug-test-perf\windows-app-certification-kit.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/windows-app-certification-kit.md) | HandedOffSuccess | [Details](#b3aa1ffc57a489f3a54b8c2d0d629889ec67038d88)
  [wdg-cpub-test\ndolci\debug-test-perf\windows-app-certification-kit-tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/windows-app-certification-kit-tests.md) | HandedOffSuccess | [Details](#a187a45bfeb3b92d77bf5bab0fccd99e8249cf7d87)
  [wdg-cpub-test\ndolci\debug-test-perf\windows-runtime-components-and-optimizing-interop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/windows-runtime-components-and-optimizing-interop.md) | HandedOffSuccess | [Details](#57cb81d8450d3d71b421ae77536872d244b3e50989)
- [wdg-cpub-test\ndolci\devices-sensors\aep-service-class-ids.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/aep-service-class-ids.md) | HandedOffSuccess | [Details](#c103e66504ab4b9a3756fac36a8f9d98ca9c9cde90)
- [wdg-cpub-test\ndolci\devices-sensors\bluetooth.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/bluetooth.md) | HandedOffSuccess | [Details](#0b09a8c2db2f5b95c859ebc9fca183664849531791)
- [wdg-cpub-test\ndolci\devices-sensors\build-a-device-selector.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/build-a-device-selector.md) | HandedOffSuccess | [Details](#c89f6ce329999b80f1db978fcbecaf26ac6581ac92)
- [wdg-cpub-test\ndolci\devices-sensors\calibrate-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/calibrate-sensors.md) | HandedOffSuccess | [Details](#0874bb83fa13a28a65cb078f1d7d1cfb5ea5babc93)
- [wdg-cpub-test\ndolci\devices-sensors\customize-the-print-preview-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/customize-the-print-preview-ui.md) | HandedOffSuccess | [Details](#0d54435494e25794492314ea2b6b195d57bfba9e94)
- [wdg-cpub-test\ndolci\devices-sensors\device-information-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/device-information-properties.md) | HandedOffSuccess | [Details](#3472c03607d175eb035af43b5031a58cb710b3ec95)
- [wdg-cpub-test\ndolci\devices-sensors\enable-device-capabilities.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/enable-device-capabilities.md) | HandedOffSuccess | [Details](#e2ec538c17a3387dfca692ada49aeea5342fbd9a96)
- [wdg-cpub-test\ndolci\devices-sensors\enumerate-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/enumerate-devices.md) | HandedOffSuccess | [Details](#600056e9d2eaf3f410428f12e7f21e3d00911b5798)
- [wdg-cpub-test\ndolci\devices-sensors\enumerate-devices-over-a-network.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/enumerate-devices-over-a-network.md) | HandedOffSuccess | [Details](#a71c22649f233483aa63e2e2a60277e64c2d007d97)
- [wdg-cpub-test\ndolci\devices-sensors\epson-esc-pos-with-formatting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/epson-esc-pos-with-formatting.md) | HandedOffSuccess | [Details](#c126bac0f54e4623a2c4cad92232fecd526d491e99)
- [wdg-cpub-test\ndolci\devices-sensors\gatt-scenarios.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/gatt-scenarios.md) | HandedOffSuccess | [Details](#6be3595796d13730b7bc1345d85828314d5925a7100)
+ [wdg-cpub-test\ndolci\devices-sensors\aep-service-class-ids.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/aep-service-class-ids.md) | HandedOffSuccess | [Details](#c103e66504ab4b9a3756fac36a8f9d98ca9c9cde90)
+ [wdg-cpub-test\ndolci\devices-sensors\bluetooth.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/bluetooth.md) | HandedOffSuccess | [Details](#0b09a8c2db2f5b95c859ebc9fca183664849531791)
+ [wdg-cpub-test\ndolci\devices-sensors\build-a-device-selector.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/build-a-device-selector.md) | HandedOffSuccess | [Details](#c89f6ce329999b80f1db978fcbecaf26ac6581ac92)
+ [wdg-cpub-test\ndolci\devices-sensors\calibrate-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/calibrate-sensors.md) | HandedOffSuccess | [Details](#0874bb83fa13a28a65cb078f1d7d1cfb5ea5babc93)
+ [wdg-cpub-test\ndolci\devices-sensors\customize-the-print-preview-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/customize-the-print-preview-ui.md) | HandedOffSuccess | [Details](#0d54435494e25794492314ea2b6b195d57bfba9e94)
+ [wdg-cpub-test\ndolci\devices-sensors\device-information-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/device-information-properties.md) | HandedOffSuccess | [Details](#3472c03607d175eb035af43b5031a58cb710b3ec95)
+ [wdg-cpub-test\ndolci\devices-sensors\enable-device-capabilities.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/enable-device-capabilities.md) | HandedOffSuccess | [Details](#e2ec538c17a3387dfca692ada49aeea5342fbd9a96)
+ [wdg-cpub-test\ndolci\devices-sensors\enumerate-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/enumerate-devices.md) | HandedOffSuccess | [Details](#600056e9d2eaf3f410428f12e7f21e3d00911b5798)
+ [wdg-cpub-test\ndolci\devices-sensors\enumerate-devices-over-a-network.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/enumerate-devices-over-a-network.md) | HandedOffSuccess | [Details](#a71c22649f233483aa63e2e2a60277e64c2d007d97)
+ [wdg-cpub-test\ndolci\devices-sensors\epson-esc-pos-with-formatting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/epson-esc-pos-with-formatting.md) | HandedOffSuccess | [Details](#c126bac0f54e4623a2c4cad92232fecd526d491e99)
+ [wdg-cpub-test\ndolci\devices-sensors\gatt-scenarios.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/gatt-scenarios.md) | HandedOffSuccess | [Details](#6be3595796d13730b7bc1345d85828314d5925a7100)
  [wdg-cpub-test\ndolci\devices-sensors\get-battery-info.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/get-battery-info.md) | HandedOffSuccess | [Details](#a598d060504de24ed866dba1ce053866d53d495e101)
  [wdg-cpub-test\ndolci\devices-sensors\host-card-emulation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/host-card-emulation.md) | HandedOffSuccess | [Details](#2d1fa53aea846db7bcba6caa86dc661a2453d1d1102)
- [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer1.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer1.png) | HandedOffSuccess | [Details](#34ce1ba42c93457b28691e358831a508597b298f114)
- [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer2.png) | HandedOffSuccess | [Details](#ad405137416569d6e655743fbf94c8c80f93755c115)
- [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape.png) | HandedOffSuccess | [Details](#db61344d5f58e7e9974e86abc07dd44c3429167a109)
- [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-180.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-180.png) | HandedOffSuccess | [Details](#dc7225c2a9f6ad98c98e4e02eeecc555288b4157105)
- [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-180-with-text.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-180-with-text.png) | HandedOffSuccess | [Details](#280322bf9a41f156f092e9b52d1c6536c386e27b104)
- [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-180-with-text-inverted.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-180-with-text-inverted.png) | HandedOffSuccess | [Details](#4da08a6e9faf12bb5dc7caf4f346dc50ae378ac8103)
- [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-270.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-270.png) | HandedOffSuccess | [Details](#0d10b05a511c945d903d6bd82be796202912d483106)
- [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-90.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-90.png) | HandedOffSuccess | [Details](#c43ef20d6b9d6422c0306d81e891e519666e3310107)
- [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-with-text.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-with-text.png) | HandedOffSuccess | [Details](#d1dfac2bf4fd565909a296de37cdcc7d88b2f66c108)
- [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait.png) | HandedOffSuccess | [Details](#002511e038f43b765ad0e70703796fa3f6f1f54a113)
- [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait-180.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait-180.png) | HandedOffSuccess | [Details](#90c7ecda71cf0000fd5b8bb0adfd17e1e0e03dfd110)
- [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait-270.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait-270.png) | HandedOffSuccess | [Details](#c19c414d13095c61971d3d0fe7ef2820bfb0d6cc111)
- [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait-90.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait-90.png) | HandedOffSuccess | [Details](#85ca5217a6a62cad158009e9c26a5a9e4607b82a112)
- [wdg-cpub-test\ndolci\devices-sensors\images\ap-tools.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/ap-tools.png) | HandedOffSuccess | [Details](#1e45b813bb59c1c92dc98602387180ae11d43249116)
- [wdg-cpub-test\ndolci\devices-sensors\images\batchsample.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/batchsample.png) | HandedOffSuccess | [Details](#5f0f8f74ecf3a67cf978683559ec0994695068fe117)
- [wdg-cpub-test\ndolci\devices-sensors\images\compass.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/compass.png) | HandedOffSuccess | [Details](#6e4afeadfe36ce4b91f6c9617ee00814924f2770118)
- [wdg-cpub-test\ndolci\devices-sensors\images\eulers-formula.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/eulers-formula.png) | HandedOffSuccess | [Details](#4f625926cc2e273d91c1f0179fc5bb3e78fbf3ad119)
- [wdg-cpub-test\ndolci\devices-sensors\images\gyrometer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/gyrometer.png) | HandedOffSuccess | [Details](#6084dfebd13ad8f42139027580920b2c316db9a0120)
- [wdg-cpub-test\ndolci\devices-sensors\images\inclinometer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/inclinometer.png) | HandedOffSuccess | [Details](#edd67b20e8ca923aedcc76f7ee4726c2d302c972121)
- [wdg-cpub-test\ndolci\devices-sensors\images\nfc-architecture.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/nfc-architecture.png) | HandedOffSuccess | [Details](#58236135d6c51eeca583aa62721d60d2244a3f69122)
- [wdg-cpub-test\ndolci\devices-sensors\images\nfc-settings.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/nfc-settings.png) | HandedOffSuccess | [Details](#d0ca1c2b792d95199b7c692d4be7852a6413440d123)
- [wdg-cpub-test\ndolci\devices-sensors\images\orientation-formula.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/orientation-formula.png) | HandedOffSuccess | [Details](#7245ab445177e9240f9294539c5fa108ccf52add124)
- [wdg-cpub-test\ndolci\devices-sensors\images\orientation-sensor.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/orientation-sensor.png) | HandedOffSuccess | [Details](#7551619cd5856be67a81dd891dd7b75cafa45877125)
+ [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer1.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer1.png) | HandedOffSuccess | [Details](#34ce1ba42c93457b28691e358831a508597b298f114)
+ [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer2.png) | HandedOffSuccess | [Details](#ad405137416569d6e655743fbf94c8c80f93755c115)
+ [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape.png) | HandedOffSuccess | [Details](#db61344d5f58e7e9974e86abc07dd44c3429167a109)
+ [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-180.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-180.png) | HandedOffSuccess | [Details](#dc7225c2a9f6ad98c98e4e02eeecc555288b4157105)
+ [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-180-with-text.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-180-with-text.png) | HandedOffSuccess | [Details](#280322bf9a41f156f092e9b52d1c6536c386e27b104)
+ [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-180-with-text-inverted.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-180-with-text-inverted.png) | HandedOffSuccess | [Details](#4da08a6e9faf12bb5dc7caf4f346dc50ae378ac8103)
+ [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-270.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-270.png) | HandedOffSuccess | [Details](#0d10b05a511c945d903d6bd82be796202912d483106)
+ [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-90.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-90.png) | HandedOffSuccess | [Details](#c43ef20d6b9d6422c0306d81e891e519666e3310107)
+ [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-with-text.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-with-text.png) | HandedOffSuccess | [Details](#d1dfac2bf4fd565909a296de37cdcc7d88b2f66c108)
+ [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait.png) | HandedOffSuccess | [Details](#002511e038f43b765ad0e70703796fa3f6f1f54a113)
+ [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait-180.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait-180.png) | HandedOffSuccess | [Details](#90c7ecda71cf0000fd5b8bb0adfd17e1e0e03dfd110)
+ [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait-270.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait-270.png) | HandedOffSuccess | [Details](#c19c414d13095c61971d3d0fe7ef2820bfb0d6cc111)
+ [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait-90.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait-90.png) | HandedOffSuccess | [Details](#85ca5217a6a62cad158009e9c26a5a9e4607b82a112)
+ [wdg-cpub-test\ndolci\devices-sensors\images\ap-tools.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/ap-tools.png) | HandedOffSuccess | [Details](#1e45b813bb59c1c92dc98602387180ae11d43249116)
+ [wdg-cpub-test\ndolci\devices-sensors\images\batchsample.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/batchsample.png) | HandedOffSuccess | [Details](#5f0f8f74ecf3a67cf978683559ec0994695068fe117)
+ [wdg-cpub-test\ndolci\devices-sensors\images\compass.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/compass.png) | HandedOffSuccess | [Details](#6e4afeadfe36ce4b91f6c9617ee00814924f2770118)
+ [wdg-cpub-test\ndolci\devices-sensors\images\eulers-formula.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/eulers-formula.png) | HandedOffSuccess | [Details](#4f625926cc2e273d91c1f0179fc5bb3e78fbf3ad119)
+ [wdg-cpub-test\ndolci\devices-sensors\images\gyrometer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/gyrometer.png) | HandedOffSuccess | [Details](#6084dfebd13ad8f42139027580920b2c316db9a0120)
+ [wdg-cpub-test\ndolci\devices-sensors\images\inclinometer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/inclinometer.png) | HandedOffSuccess | [Details](#edd67b20e8ca923aedcc76f7ee4726c2d302c972121)
+ [wdg-cpub-test\ndolci\devices-sensors\images\nfc-architecture.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/nfc-architecture.png) | HandedOffSuccess | [Details](#58236135d6c51eeca583aa62721d60d2244a3f69122)
+ [wdg-cpub-test\ndolci\devices-sensors\images\nfc-settings.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/nfc-settings.png) | HandedOffSuccess | [Details](#d0ca1c2b792d95199b7c692d4be7852a6413440d123)
+ [wdg-cpub-test\ndolci\devices-sensors\images\orientation-formula.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/orientation-formula.png) | HandedOffSuccess | [Details](#7245ab445177e9240f9294539c5fa108ccf52add124)
+ [wdg-cpub-test\ndolci\devices-sensors\images\orientation-sensor.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/orientation-sensor.png) | HandedOffSuccess | [Details](#7551619cd5856be67a81dd891dd7b75cafa45877125)
  [wdg-cpub-test\ndolci\devices-sensors\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/index.md) | HandedOffSuccess | [Details](#ed2e8f2a6446157d8b9e8203187c2511de67c2b0126)
- [wdg-cpub-test\ndolci\devices-sensors\pair-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/pair-devices.md) | HandedOffSuccess | [Details](#b699966ff42592315712b31af9cb988f1bf491c4127)
+ [wdg-cpub-test\ndolci\devices-sensors\pair-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/pair-devices.md) | HandedOffSuccess | [Details](#b699966ff42592315712b31af9cb988f1bf491c4127)
  [wdg-cpub-test\ndolci\devices-sensors\print-from-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/print-from-your-app.md) | HandedOffSuccess | [Details](#1c87aafa49fcda98adb14d3c24547f5f99f2c686128)
- [wdg-cpub-test\ndolci\devices-sensors\printing-and-scanning.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/printing-and-scanning.md) | HandedOffSuccess | [Details](#ae20f9950305c6993d40fcb1056b5ba2a6bbb777129)
- [wdg-cpub-test\ndolci\devices-sensors\scan-from-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/scan-from-your-app.md) | HandedOffSuccess | [Details](#4c3e627e012ab8de22ced3409fbfe90e6874a4c6130)
+ [wdg-cpub-test\ndolci\devices-sensors\printing-and-scanning.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/printing-and-scanning.md) | HandedOffSuccess | [Details](#ae20f9950305c6993d40fcb1056b5ba2a6bbb777129)
+ [wdg-cpub-test\ndolci\devices-sensors\scan-from-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/scan-from-your-app.md) | HandedOffSuccess | [Details](#4c3e627e012ab8de22ced3409fbfe90e6874a4c6130)
  [wdg-cpub-test\ndolci\devices-sensors\send-or-receive-files-with-rfcomm.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/send-or-receive-files-with-rfcomm.md) | HandedOffSuccess | [Details](#c0dca85e790f9ee5a341df0a26425eef4f8c2af4131)
- [wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/sensor-orientation.md) | HandedOffSuccess | [Details](#82667297691be83e91bde76fd47c8521e9c572d5132)
- [wdg-cpub-test\ndolci\devices-sensors\sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/sensors.md) | HandedOffSuccess | [Details](#fd4c27b6fbef674c5c4f63b01083db888cdd1fe6133)
+ [wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/sensor-orientation.md) | HandedOffSuccess | [Details](#82667297691be83e91bde76fd47c8521e9c572d5132)
+ [wdg-cpub-test\ndolci\devices-sensors\sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/sensors.md) | HandedOffSuccess | [Details](#fd4c27b6fbef674c5c4f63b01083db888cdd1fe6133)
  [wdg-cpub-test\ndolci\devices-sensors\use-the-accelerometer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/use-the-accelerometer.md) | HandedOffSuccess | [Details](#ff7cf9d6a8f71496688b8f1daabf928c6265ed30134)
  [wdg-cpub-test\ndolci\devices-sensors\use-the-compass.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/use-the-compass.md) | HandedOffSuccess | [Details](#c6694ef614387b3e68e0f2d1101043520e5ebc72135)
  [wdg-cpub-test\ndolci\devices-sensors\use-the-gyrometer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/use-the-gyrometer.md) | HandedOffSuccess | [Details](#847b9bafac7af83c5840194c2965418d42fdac42136)
@@ -121,13 +122,13 @@
  [wdg-cpub-test\ndolci\devices-sensors\use-the-light-sensor.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/use-the-light-sensor.md) | HandedOffSuccess | [Details](#23ef6e2231e0cd55f1d342ec7c24c14016f3a61c138)
  [wdg-cpub-test\ndolci\devices-sensors\use-the-orientation-sensor.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/use-the-orientation-sensor.md) | HandedOffSuccess | [Details](#2a517942d67a59f7b9ce4449d24a9a4d9ff3471d139)
  [wdg-cpub-test\ndolci\files\access-the-sd-card.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/files/access-the-sd-card.md) | HandedOffSuccess | [Details](#254fb7dabe51081c017a674e64e78d9b7401e2a1140)
- [wdg-cpub-test\ndolci\files\file-access-permissions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/files/file-access-permissions.md) | HandedOffSuccess | [Details](#2b16e149a84dc1273676164a9e353cb68d99ff56141)
+ [wdg-cpub-test\ndolci\files\file-access-permissions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/files/file-access-permissions.md) | HandedOffSuccess | [Details](#2b16e149a84dc1273676164a9e353cb68d99ff56141)
  [wdg-cpub-test\ndolci\files\how-to-track-recently-used-files-and-folders.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/files/how-to-track-recently-used-files-and-folders.md) | HandedOffSuccess | [Details](#cf55c6bafedfced3fe74ddb819446de8f0b3a1ba142)
- [wdg-cpub-test\ndolci\files\images\app-to-app-diagram-600px.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/files/images/app-to-app-diagram-600px.png) | HandedOffSuccess | [Details](#1223021b5904a53a7ae4f06400037d597608eeea143)
- [wdg-cpub-test\ndolci\files\images\phone-media-locations.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/files/images/phone-media-locations.png) | HandedOffSuccess | [Details](#9a5d025932240178a724c75df457cf6e2e3dead6144)
- [wdg-cpub-test\ndolci\files\images\phone-media-queries.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/files/images/phone-media-queries.png) | HandedOffSuccess | [Details](#c380c2394ff9d39c56af5f382a131a8460a4a136145)
- [wdg-cpub-test\ndolci\files\images\picker-multifile-600px.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/files/images/picker-multifile-600px.png) | HandedOffSuccess | [Details](#6d4b6e3ac9146763af8ef8e02271aafa2047e50c146)
- [wdg-cpub-test\ndolci\files\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/files/index.md) | HandedOffSuccess | [Details](#393b2ce0f3858fed078d593d0a6c1862c4c90548147)
+ [wdg-cpub-test\ndolci\files\images\app-to-app-diagram-600px.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/files/images/app-to-app-diagram-600px.png) | HandedOffSuccess | [Details](#1223021b5904a53a7ae4f06400037d597608eeea143)
+ [wdg-cpub-test\ndolci\files\images\phone-media-locations.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/files/images/phone-media-locations.png) | HandedOffSuccess | [Details](#9a5d025932240178a724c75df457cf6e2e3dead6144)
+ [wdg-cpub-test\ndolci\files\images\phone-media-queries.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/files/images/phone-media-queries.png) | HandedOffSuccess | [Details](#c380c2394ff9d39c56af5f382a131a8460a4a136145)
+ [wdg-cpub-test\ndolci\files\images\picker-multifile-600px.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/files/images/picker-multifile-600px.png) | HandedOffSuccess | [Details](#6d4b6e3ac9146763af8ef8e02271aafa2047e50c146)
+ [wdg-cpub-test\ndolci\files\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/files/index.md) | HandedOffSuccess | [Details](#393b2ce0f3858fed078d593d0a6c1862c4c90548147)
  [wdg-cpub-test\ndolci\files\quickstart-accessing-homegroup-content.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/files/quickstart-accessing-homegroup-content.md) | HandedOffSuccess | [Details](#66f54e44cf1292ef6551415dccfec16fe103a799148)
  [wdg-cpub-test\ndolci\files\quickstart-determining-availability-of-microsoft-onedrive-files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/files/quickstart-determining-availability-of-microsoft-onedrive-files.md) | HandedOffSuccess | [Details](#c9e0d72ff7446a92325989688ac5f2f66c4e0e4d149)
  [wdg-cpub-test\ndolci\files\quickstart-getting-file-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/files/quickstart-getting-file-properties.md) | HandedOffSuccess | [Details](#ee7cedb1acd4cc270cfd01f6fde2e87c39dc4e91150)
@@ -137,10 +138,10 @@
  [wdg-cpub-test\ndolci\files\quickstart-save-a-file-with-a-picker.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/files/quickstart-save-a-file-with-a-picker.md) | HandedOffSuccess | [Details](#b16e1f4e40fd5089e180168ac61109833fa60f4f154)
  [wdg-cpub-test\ndolci\files\quickstart-using-file-and-folder-pickers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/files/quickstart-using-file-and-folder-pickers.md) | HandedOffSuccess | [Details](#33e9bd3116c540fb452378bfd3f8a8056863c188155)
  [wdg-cpub-test\ndolci1\app-to-app\copy-and-paste.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/app-to-app/copy-and-paste.md) | HandedOffSuccess | [Details](#a447cb93cfba0156012f968c7aac99a72b82de0f193)
- [wdg-cpub-test\ndolci1\app-to-app\drag-and-drop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/drag-and-drop.md) | HandedOffSuccess | [Details](#23cb0dafe7afdbe10fbf31094ed6ba7886f7e67e194)
+ [wdg-cpub-test\ndolci1\app-to-app\drag-and-drop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/drag-and-drop.md) | HandedOffSuccess | [Details](#23cb0dafe7afdbe10fbf31094ed6ba7886f7e67e194)
  [wdg-cpub-test\ndolci1\app-to-app\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/app-to-app/index.md) | HandedOffSuccess | [Details](#38f2349a274f59376240e301236742d0bd1b44dd195)
- [wdg-cpub-test\ndolci1\app-to-app\receive-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/receive-data.md) | HandedOffSuccess | [Details](#0ec2875d4a647b4e1ab96105f0542f67d8d32174196)
- [wdg-cpub-test\ndolci1\app-to-app\share-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/share-data.md) | HandedOffSuccess | [Details](#b34d0b68388aa72abab4f30bf7e41d6707195b19197)
+ [wdg-cpub-test\ndolci1\app-to-app\receive-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/receive-data.md) | HandedOffSuccess | [Details](#0ec2875d4a647b4e1ab96105f0542f67d8d32174196)
+ [wdg-cpub-test\ndolci1\app-to-app\share-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/share-data.md) | HandedOffSuccess | [Details](#b34d0b68388aa72abab4f30bf7e41d6707195b19197)
  [wdg-cpub-test\ndolci1\audio-video-camera\adaptive-streaming.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/audio-video-camera/adaptive-streaming.md) | HandedOffSuccess | [Details](#4834d6ece9f4b49cc62f2a0cd5eb9983d82f1579199)
  [wdg-cpub-test\ndolci1\audio-video-camera\adaptive-streaming-with-playready.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/audio-video-camera/adaptive-streaming-with-playready.md) | HandedOffSuccess | [Details](#16e745134da1d9486337ada18f8ccc0b4b16d2ae198)
  [wdg-cpub-test\ndolci1\audio-video-camera\audio-graphs.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/audio-video-camera/audio-graphs.md) | HandedOffSuccess | [Details](#78a88cfc48d10aa7fe99b85eee7daa1a0984d9eb200)
@@ -173,62 +174,62 @@
  [wdg-cpub-test\ndolci1\audio-video-camera\system-media-transport-controls.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/audio-video-camera/system-media-transport-controls.md) | HandedOffSuccess | [Details](#37174a3ba249fdfc56e0b646d11c4198792a812a419)
  [wdg-cpub-test\ndolci1\audio-video-camera\transcode-media-files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/audio-video-camera/transcode-media-files.md) | HandedOffSuccess | [Details](#21d6901001698aeb54968399180527f3a5beb240420)
  [wdg-cpub-test\ndolci1\audio-video-camera\variable-photo-sequence.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/audio-video-camera/variable-photo-sequence.md) | HandedOffSuccess | [Details](#3618fc4f12f0f91c2e9c97d2eba5169ff86ae2ef421)
- [wdg-cpub-test\ndolci1\contacts-and-calendar\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/contacts-and-calendar/index.md) | HandedOffSuccess | [Details](#37acbf3b8bdcf7f3c18f70ec8f9fdde5f986e458422)
+ [wdg-cpub-test\ndolci1\contacts-and-calendar\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/contacts-and-calendar/index.md) | HandedOffSuccess | [Details](#37acbf3b8bdcf7f3c18f70ec8f9fdde5f986e458422)
  [wdg-cpub-test\ndolci1\contacts-and-calendar\managing-appointments.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/contacts-and-calendar/managing-appointments.md) | HandedOffSuccess | [Details](#c58d97080c330f62e5b3507a3ac2ca069d39fb0e423)
- [wdg-cpub-test\ndolci1\contacts-and-calendar\selecting-contacts.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/contacts-and-calendar/selecting-contacts.md) | HandedOffSuccess | [Details](#007e676257bcd6b11332baf98582703d23f3abd3424)
- [wdg-cpub-test\ndolci1\contacts-and-calendar\sending-an-sms-message.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/contacts-and-calendar/sending-an-sms-message.md) | HandedOffSuccess | [Details](#88704dcaec3f258a8d0eb43b33721d4f31cc0a75425)
- [wdg-cpub-test\ndolci1\contacts-and-calendar\sending-email.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/contacts-and-calendar/sending-email.md) | HandedOffSuccess | [Details](#aace8855fa91c6375887e9837f67f911502e6748426)
+ [wdg-cpub-test\ndolci1\contacts-and-calendar\selecting-contacts.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/contacts-and-calendar/selecting-contacts.md) | HandedOffSuccess | [Details](#007e676257bcd6b11332baf98582703d23f3abd3424)
+ [wdg-cpub-test\ndolci1\contacts-and-calendar\sending-an-sms-message.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/contacts-and-calendar/sending-an-sms-message.md) | HandedOffSuccess | [Details](#88704dcaec3f258a8d0eb43b33721d4f31cc0a75425)
+ [wdg-cpub-test\ndolci1\contacts-and-calendar\sending-email.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/contacts-and-calendar/sending-email.md) | HandedOffSuccess | [Details](#aace8855fa91c6375887e9837f67f911502e6748426)
  [wdg-cpub-test\ndolci1\data-access\entity-framework-7-with-sqlite-for-csharp-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/data-access/entity-framework-7-with-sqlite-for-csharp-apps.md) | HandedOffSuccess | [Details](#6b2c5c9b60ae41f63acfbe4aafc70fa10c3b0d4f427)
- [wdg-cpub-test\ndolci1\data-access\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/data-access/index.md) | HandedOffSuccess | [Details](#76404ac78178634ceb026fe5baace6b730c0dbcb428)
+ [wdg-cpub-test\ndolci1\data-access\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/data-access/index.md) | HandedOffSuccess | [Details](#76404ac78178634ceb026fe5baace6b730c0dbcb428)
  [wdg-cpub-test\ndolci1\data-access\sqlite-databases.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/data-access/sqlite-databases.md) | HandedOffSuccess | [Details](#cafcbb7be32538c326fde520c82b151f7d49ddd2429)
  [wdg-cpub-test\ndolci1\data-binding\data-binding-in-depth.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/data-binding/data-binding-in-depth.md) | HandedOffSuccess | [Details](#a90f434035e360ed2caaadd1452f6cdaf60d4c4a430)
  [wdg-cpub-test\ndolci1\data-binding\data-binding-quickstart.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/data-binding/data-binding-quickstart.md) | HandedOffSuccess | [Details](#2a843ebbc528590bb4b14be27aa97878f57fb645431)
- [wdg-cpub-test\ndolci1\data-binding\displaying-data-in-the-designer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/data-binding/displaying-data-in-the-designer.md) | HandedOffSuccess | [Details](#f9a087407671e3d81447777a52531e0663e01d4d432)
+ [wdg-cpub-test\ndolci1\data-binding\displaying-data-in-the-designer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/data-binding/displaying-data-in-the-designer.md) | HandedOffSuccess | [Details](#f9a087407671e3d81447777a52531e0663e01d4d432)
  [wdg-cpub-test\ndolci1\data-binding\how-to-bind-to-hierarchical-data-and-create-a-master-details-view.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/data-binding/how-to-bind-to-hierarchical-data-and-create-a-master-details-view.md) | HandedOffSuccess | [Details](#b4486b0c615a34490b94127597453848d5ccd9cb433)
- [wdg-cpub-test\ndolci1\data-binding\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/data-binding/index.md) | HandedOffSuccess | [Details](#05077cfa25a79cdd5edfbe0bbc5d4bbc8025be35434)
+ [wdg-cpub-test\ndolci1\data-binding\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/data-binding/index.md) | HandedOffSuccess | [Details](#05077cfa25a79cdd5edfbe0bbc5d4bbc8025be35434)
  [wdg-cpub-test\ndolci1\debug-test-perf\best-practices-for-your-app-s-startup-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/debug-test-perf/best-practices-for-your-app-s-startup-performance.md) | HandedOffSuccess | [Details](#b17d11b6904840a2c8b242fa4f3781347ef0bd9c435)
- [wdg-cpub-test\ndolci1\debug-test-perf\beta-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/beta-testing.md) | HandedOffSuccess | [Details](#4304643a25282e02cfca174eb4d4d23576e64f0d436)
+ [wdg-cpub-test\ndolci1\debug-test-perf\beta-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/beta-testing.md) | HandedOffSuccess | [Details](#4304643a25282e02cfca174eb4d4d23576e64f0d436)
  [wdg-cpub-test\ndolci1\debug-test-perf\debugging-and-testing-apps-portal.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/debug-test-perf/debugging-and-testing-apps-portal.md) | HandedOffSuccess | [Details](#af0a0370f2c394221408305103f6fdc0cb80d630437)
  [wdg-cpub-test\ndolci1\debug-test-perf\deploying-and-debugging-uwp-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/debug-test-perf/deploying-and-debugging-uwp-apps.md) | HandedOffSuccess | [Details](#d2694857b5a717ab8247df29ff881631f97a40a0438)
  [wdg-cpub-test\ndolci1\debug-test-perf\improve-garbage-collection-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/debug-test-perf/improve-garbage-collection-performance.md) | HandedOffSuccess | [Details](#4d48e0a8011192d2d96a9fb9c1cea9801523a15d439)
- [wdg-cpub-test\ndolci1\debug-test-perf\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/index.md) | HandedOffSuccess | [Details](#a5ddb41bb030c88f74f4f2bc14cfd9a54f1a9219440)
+ [wdg-cpub-test\ndolci1\debug-test-perf\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/index.md) | HandedOffSuccess | [Details](#a5ddb41bb030c88f74f4f2bc14cfd9a54f1a9219440)
  [wdg-cpub-test\ndolci1\debug-test-perf\keep-the-ui-thread-responsive.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/debug-test-perf/keep-the-ui-thread-responsive.md) | HandedOffSuccess | [Details](#cb177339575201039a47bb32f3d43a05da351a21441)
  [wdg-cpub-test\ndolci1\debug-test-perf\listview-and-gridview-data-optimization.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/debug-test-perf/listview-and-gridview-data-optimization.md) | HandedOffSuccess | [Details](#2e38cd45843a15226b1456fecd150523c2add6bc442)
- [wdg-cpub-test\ndolci1\debug-test-perf\mvvm-performance-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/mvvm-performance-tips.md) | HandedOffSuccess | [Details](#fe8c385a9f94116e69011245b666c706a07ec806443)
- [wdg-cpub-test\ndolci1\debug-test-perf\optimize-animations-and-media.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/optimize-animations-and-media.md) | HandedOffSuccess | [Details](#590d41f5e2dba044b0355aa5cf2291f6f2e17a0b444)
+ [wdg-cpub-test\ndolci1\debug-test-perf\mvvm-performance-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/mvvm-performance-tips.md) | HandedOffSuccess | [Details](#fe8c385a9f94116e69011245b666c706a07ec806443)
+ [wdg-cpub-test\ndolci1\debug-test-perf\optimize-animations-and-media.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/optimize-animations-and-media.md) | HandedOffSuccess | [Details](#590d41f5e2dba044b0355aa5cf2291f6f2e17a0b444)
  [wdg-cpub-test\ndolci1\debug-test-perf\optimize-file-access.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/debug-test-perf/optimize-file-access.md) | HandedOffSuccess | [Details](#8753f4bcff9dc358f14351c8110176352a22f793445)
- [wdg-cpub-test\ndolci1\debug-test-perf\optimize-gridview-and-listview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/optimize-gridview-and-listview.md) | HandedOffSuccess | [Details](#b4923b2cae33b625fb88fc0c3659b70071406365446)
+ [wdg-cpub-test\ndolci1\debug-test-perf\optimize-gridview-and-listview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/optimize-gridview-and-listview.md) | HandedOffSuccess | [Details](#b4923b2cae33b625fb88fc0c3659b70071406365446)
  [wdg-cpub-test\ndolci1\debug-test-perf\optimize-suspend-resume.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/debug-test-perf/optimize-suspend-resume.md) | HandedOffSuccess | [Details](#d3728b491d6010ffa642b3fbe9ca9033225ba616447)
- [wdg-cpub-test\ndolci1\debug-test-perf\optimize-xaml-loading.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/optimize-xaml-loading.md) | HandedOffSuccess | [Details](#3fa7c0e3360635282968078432798793de8da191448)
- [wdg-cpub-test\ndolci1\debug-test-perf\optimize-your-xaml-layout.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/optimize-your-xaml-layout.md) | HandedOffSuccess | [Details](#e36152b1446788ffd387cea77fdc64914284366c449)
- [wdg-cpub-test\ndolci1\debug-test-perf\performance-and-xaml-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/performance-and-xaml-ui.md) | HandedOffSuccess | [Details](#93096acf7e39a74921f1e1424f9efce1c14c830a450)
+ [wdg-cpub-test\ndolci1\debug-test-perf\optimize-xaml-loading.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/optimize-xaml-loading.md) | HandedOffSuccess | [Details](#3fa7c0e3360635282968078432798793de8da191448)
+ [wdg-cpub-test\ndolci1\debug-test-perf\optimize-your-xaml-layout.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/optimize-your-xaml-layout.md) | HandedOffSuccess | [Details](#e36152b1446788ffd387cea77fdc64914284366c449)
+ [wdg-cpub-test\ndolci1\debug-test-perf\performance-and-xaml-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/performance-and-xaml-ui.md) | HandedOffSuccess | [Details](#93096acf7e39a74921f1e1424f9efce1c14c830a450)
  [wdg-cpub-test\ndolci1\debug-test-perf\planning-and-measuring-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/debug-test-perf/planning-and-measuring-performance.md) | HandedOffSuccess | [Details](#540b6d68ed9b9f32a6a0ee3211621c896441aaf2451)
  [wdg-cpub-test\ndolci1\debug-test-perf\test-with-the-emulator.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/debug-test-perf/test-with-the-emulator.md) | HandedOffSuccess | [Details](#66ab95fb95fc58ac972b664439826d310a3eebfc452)
- [wdg-cpub-test\ndolci1\debug-test-perf\tools-for-profiling-and-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/tools-for-profiling-and-performance.md) | HandedOffSuccess | [Details](#e619f11107c41b4fe6fe191d96ed719c80a8b84b453)
- [wdg-cpub-test\ndolci1\debug-test-perf\windows-app-certification-kit.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/windows-app-certification-kit.md) | HandedOffSuccess | [Details](#393f3a9bd0d8060a440137b8461fb89f68cdb4f5455)
+ [wdg-cpub-test\ndolci1\debug-test-perf\tools-for-profiling-and-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/tools-for-profiling-and-performance.md) | HandedOffSuccess | [Details](#e619f11107c41b4fe6fe191d96ed719c80a8b84b453)
+ [wdg-cpub-test\ndolci1\debug-test-perf\windows-app-certification-kit.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/windows-app-certification-kit.md) | HandedOffSuccess | [Details](#393f3a9bd0d8060a440137b8461fb89f68cdb4f5455)
  [wdg-cpub-test\ndolci1\debug-test-perf\windows-app-certification-kit-tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/debug-test-perf/windows-app-certification-kit-tests.md) | HandedOffSuccess | [Details](#27b66b2e5fbb7dbf18c018334d3a3af1da564bf4454)
  [wdg-cpub-test\ndolci1\debug-test-perf\windows-runtime-components-and-optimizing-interop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/debug-test-perf/windows-runtime-components-and-optimizing-interop.md) | HandedOffSuccess | [Details](#faec1058546489c4c8873a13ca46fdb8fcfc2070456)
- [wdg-cpub-test\ndolci1\devices-sensors\aep-service-class-ids.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/aep-service-class-ids.md) | HandedOffSuccess | [Details](#6b693f18c99c31e744497428a8b405204d7c69d3457)
- [wdg-cpub-test\ndolci1\devices-sensors\bluetooth.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/bluetooth.md) | HandedOffSuccess | [Details](#75d55b591cd207215302b327b520f2eb0ab5fb93458)
- [wdg-cpub-test\ndolci1\devices-sensors\build-a-device-selector.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/build-a-device-selector.md) | HandedOffSuccess | [Details](#fdc5470c3b2e911f370e6f2b26a0c1608f194cab459)
- [wdg-cpub-test\ndolci1\devices-sensors\calibrate-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/calibrate-sensors.md) | HandedOffSuccess | [Details](#50b1e94a910d6742ee4a4a4d26bec5a04ef94444460)
- [wdg-cpub-test\ndolci1\devices-sensors\customize-the-print-preview-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/customize-the-print-preview-ui.md) | HandedOffSuccess | [Details](#66dc4a7824d767244892ec923b422ced83bfcdf2461)
- [wdg-cpub-test\ndolci1\devices-sensors\device-information-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/device-information-properties.md) | HandedOffSuccess | [Details](#164d63f97a88838b8f43ad501c7bde9f1c60bde6462)
- [wdg-cpub-test\ndolci1\devices-sensors\enable-device-capabilities.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/enable-device-capabilities.md) | HandedOffSuccess | [Details](#896d0466b1b60a08e555eea39823c3059284210a463)
- [wdg-cpub-test\ndolci1\devices-sensors\enumerate-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/enumerate-devices.md) | HandedOffSuccess | [Details](#5e313a5fe607c19dc894b42153956c9d90ff1f92465)
- [wdg-cpub-test\ndolci1\devices-sensors\enumerate-devices-over-a-network.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/enumerate-devices-over-a-network.md) | HandedOffSuccess | [Details](#dc14cb7f060fc8b0b65a6a6e744c0ea41448272a464)
- [wdg-cpub-test\ndolci1\devices-sensors\epson-esc-pos-with-formatting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/epson-esc-pos-with-formatting.md) | HandedOffSuccess | [Details](#15046b9b3ce1dd577d4477fc40c0a10aa46f41d1466)
- [wdg-cpub-test\ndolci1\devices-sensors\gatt-scenarios.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/gatt-scenarios.md) | HandedOffSuccess | [Details](#731f10276c48850bda9636fc3f11aa6609cef53b467)
+ [wdg-cpub-test\ndolci1\devices-sensors\aep-service-class-ids.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/aep-service-class-ids.md) | HandedOffSuccess | [Details](#6b693f18c99c31e744497428a8b405204d7c69d3457)
+ [wdg-cpub-test\ndolci1\devices-sensors\bluetooth.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/bluetooth.md) | HandedOffSuccess | [Details](#75d55b591cd207215302b327b520f2eb0ab5fb93458)
+ [wdg-cpub-test\ndolci1\devices-sensors\build-a-device-selector.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/build-a-device-selector.md) | HandedOffSuccess | [Details](#fdc5470c3b2e911f370e6f2b26a0c1608f194cab459)
+ [wdg-cpub-test\ndolci1\devices-sensors\calibrate-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/calibrate-sensors.md) | HandedOffSuccess | [Details](#50b1e94a910d6742ee4a4a4d26bec5a04ef94444460)
+ [wdg-cpub-test\ndolci1\devices-sensors\customize-the-print-preview-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/customize-the-print-preview-ui.md) | HandedOffSuccess | [Details](#66dc4a7824d767244892ec923b422ced83bfcdf2461)
+ [wdg-cpub-test\ndolci1\devices-sensors\device-information-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/device-information-properties.md) | HandedOffSuccess | [Details](#164d63f97a88838b8f43ad501c7bde9f1c60bde6462)
+ [wdg-cpub-test\ndolci1\devices-sensors\enable-device-capabilities.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/enable-device-capabilities.md) | HandedOffSuccess | [Details](#896d0466b1b60a08e555eea39823c3059284210a463)
+ [wdg-cpub-test\ndolci1\devices-sensors\enumerate-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/enumerate-devices.md) | HandedOffSuccess | [Details](#5e313a5fe607c19dc894b42153956c9d90ff1f92465)
+ [wdg-cpub-test\ndolci1\devices-sensors\enumerate-devices-over-a-network.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/enumerate-devices-over-a-network.md) | HandedOffSuccess | [Details](#dc14cb7f060fc8b0b65a6a6e744c0ea41448272a464)
+ [wdg-cpub-test\ndolci1\devices-sensors\epson-esc-pos-with-formatting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/epson-esc-pos-with-formatting.md) | HandedOffSuccess | [Details](#15046b9b3ce1dd577d4477fc40c0a10aa46f41d1466)
+ [wdg-cpub-test\ndolci1\devices-sensors\gatt-scenarios.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/gatt-scenarios.md) | HandedOffSuccess | [Details](#731f10276c48850bda9636fc3f11aa6609cef53b467)
  [wdg-cpub-test\ndolci1\devices-sensors\get-battery-info.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/devices-sensors/get-battery-info.md) | HandedOffSuccess | [Details](#8a1699fff9632b4975995412bd921a823a7753f8468)
  [wdg-cpub-test\ndolci1\devices-sensors\host-card-emulation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/devices-sensors/host-card-emulation.md) | HandedOffSuccess | [Details](#0c03f1deae6ac47fcedff4ef9f4c41b896d7114e469)
  [wdg-cpub-test\ndolci1\devices-sensors\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/devices-sensors/index.md) | HandedOffSuccess | [Details](#950b985610d431d6cd0f2f8c50f16a2a264fd065470)
- [wdg-cpub-test\ndolci1\devices-sensors\pair-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/pair-devices.md) | HandedOffSuccess | [Details](#6abdd7d04a0bc87fcd75797baaafcd9c9e07505b471)
+ [wdg-cpub-test\ndolci1\devices-sensors\pair-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/pair-devices.md) | HandedOffSuccess | [Details](#6abdd7d04a0bc87fcd75797baaafcd9c9e07505b471)
  [wdg-cpub-test\ndolci1\devices-sensors\print-from-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/devices-sensors/print-from-your-app.md) | HandedOffSuccess | [Details](#59cb381d33e749b32e8dbd07b7d8f1df3b50b125472)
- [wdg-cpub-test\ndolci1\devices-sensors\printing-and-scanning.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/printing-and-scanning.md) | HandedOffSuccess | [Details](#1c2c8588bacb03820375344b1c6233f196f50ec5473)
- [wdg-cpub-test\ndolci1\devices-sensors\scan-from-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/scan-from-your-app.md) | HandedOffSuccess | [Details](#ada98e12d8d2ac555f4d7f785e95a00c1aa8bf9f474)
+ [wdg-cpub-test\ndolci1\devices-sensors\printing-and-scanning.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/printing-and-scanning.md) | HandedOffSuccess | [Details](#1c2c8588bacb03820375344b1c6233f196f50ec5473)
+ [wdg-cpub-test\ndolci1\devices-sensors\scan-from-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/scan-from-your-app.md) | HandedOffSuccess | [Details](#ada98e12d8d2ac555f4d7f785e95a00c1aa8bf9f474)
  [wdg-cpub-test\ndolci1\devices-sensors\send-or-receive-files-with-rfcomm.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/devices-sensors/send-or-receive-files-with-rfcomm.md) | HandedOffSuccess | [Details](#3e3933b64f9f20b56db9a065d0b6f3e1c398b5e2475)
- [wdg-cpub-test\ndolci1\devices-sensors\sensor-orientation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/sensor-orientation.md) | HandedOffSuccess | [Details](#9b14f1c2887a3e1178dc7161189f2817e101cce5476)
- [wdg-cpub-test\ndolci1\devices-sensors\sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/sensors.md) | HandedOffSuccess | [Details](#df5d20a4f6d3945bdc94f791003d68576ca3b95e477)
+ [wdg-cpub-test\ndolci1\devices-sensors\sensor-orientation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/sensor-orientation.md) | HandedOffSuccess | [Details](#9b14f1c2887a3e1178dc7161189f2817e101cce5476)
+ [wdg-cpub-test\ndolci1\devices-sensors\sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/sensors.md) | HandedOffSuccess | [Details](#df5d20a4f6d3945bdc94f791003d68576ca3b95e477)
  [wdg-cpub-test\ndolci1\devices-sensors\use-the-accelerometer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/devices-sensors/use-the-accelerometer.md) | HandedOffSuccess | [Details](#ca6aa744b47f93202085aeb40acb3f01bf6d00d2478)
  [wdg-cpub-test\ndolci1\devices-sensors\use-the-compass.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/devices-sensors/use-the-compass.md) | HandedOffSuccess | [Details](#25300c90f2c9553078ecaf7a9c66a8251b8be23b479)
  [wdg-cpub-test\ndolci1\devices-sensors\use-the-gyrometer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/devices-sensors/use-the-gyrometer.md) | HandedOffSuccess | [Details](#9b272573b49798a062f06f433fdd6c61613cfb83480)
@@ -237,9 +238,9 @@
  [wdg-cpub-test\ndolci1\devices-sensors\use-the-orientation-sensor.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/devices-sensors/use-the-orientation-sensor.md) | HandedOffSuccess | [Details](#e082c1eb5460a8b6cbadfd248b6ad43931172130483)
  [wdg-cpub-test\ndolci1\enterprise\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/enterprise/index.md) | HandedOffSuccess | [Details](#e46763c012a16f8e80c2dff5fc3bffa6c49c70d7485)
  [wdg-cpub-test\ndolci1\files\access-the-sd-card.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/files/access-the-sd-card.md) | HandedOffSuccess | [Details](#40dee9bc5bf8f77f3c5e78ff5013b3ed04959884486)
- [wdg-cpub-test\ndolci1\files\file-access-permissions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/files/file-access-permissions.md) | HandedOffSuccess | [Details](#b5dfa9fa2c29b79359612f7381669481ed401033487)
+ [wdg-cpub-test\ndolci1\files\file-access-permissions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/files/file-access-permissions.md) | HandedOffSuccess | [Details](#b5dfa9fa2c29b79359612f7381669481ed401033487)
  [wdg-cpub-test\ndolci1\files\how-to-track-recently-used-files-and-folders.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/files/how-to-track-recently-used-files-and-folders.md) | HandedOffSuccess | [Details](#c1b88a124f704e345c3c6853b2d0af627931a038488)
- [wdg-cpub-test\ndolci1\files\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/files/index.md) | HandedOffSuccess | [Details](#a11b02e4f35de86ccafdf504b5d046146f5e8812489)
+ [wdg-cpub-test\ndolci1\files\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/files/index.md) | HandedOffSuccess | [Details](#a11b02e4f35de86ccafdf504b5d046146f5e8812489)
  [wdg-cpub-test\ndolci1\files\quickstart-accessing-homegroup-content.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/files/quickstart-accessing-homegroup-content.md) | HandedOffSuccess | [Details](#7eddb8333419d19e490df1e6eb8650de9609c38e490)
  [wdg-cpub-test\ndolci1\files\quickstart-determining-availability-of-microsoft-onedrive-files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/files/quickstart-determining-availability-of-microsoft-onedrive-files.md) | HandedOffSuccess | [Details](#c58e0a03339807af945df60e7281fe220865c281491)
  [wdg-cpub-test\ndolci1\files\quickstart-getting-file-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/files/quickstart-getting-file-properties.md) | HandedOffSuccess | [Details](#db7d61c5fdc1d098c04a3a06c5d7cea6f36ba9b3492)
@@ -248,31 +249,31 @@
  [wdg-cpub-test\ndolci1\files\quickstart-reading-and-writing-files.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/files/quickstart-reading-and-writing-files.md) | HandedOffSuccess | [Details](#73d1597e8aa7679ecfea44b667b604ae402d516e495)
  [wdg-cpub-test\ndolci1\files\quickstart-save-a-file-with-a-picker.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/files/quickstart-save-a-file-with-a-picker.md) | HandedOffSuccess | [Details](#f8b1c4a57dec3d0a865852e2650a9ccc13fe2240496)
  [wdg-cpub-test\ndolci1\files\quickstart-using-file-and-folder-pickers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/files/quickstart-using-file-and-folder-pickers.md) | HandedOffSuccess | [Details](#b3c59d66a7c582910f33691c31e13863455adf5a497)
- [wdg-cpub-test\ndolci1\get-started\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/get-started/account-types-locations-and-fees.md) | HandedOffSuccess | [Details](#d0712383af8e62261a0adf84be3a2af8e5941e64498)
+ [wdg-cpub-test\ndolci1\get-started\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/get-started/account-types-locations-and-fees.md) | HandedOffSuccess | [Details](#d0712383af8e62261a0adf84be3a2af8e5941e64498)
  [wdg-cpub-test\ndolci1\get-started\create-a-basic-windows-10-app-in-cpp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/get-started/create-a-basic-windows-10-app-in-cpp.md) | HandedOffSuccess | [Details](#1dcd35b41e215558005b1056c0384986ab86753b499)
  [wdg-cpub-test\ndolci1\get-started\create-a-hello-world-app-js-universal.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/get-started/create-a-hello-world-app-js-universal.md) | HandedOffSuccess | [Details](#2f9b56da71d2b73859043cc145bf84f1972e92d7500)
  [wdg-cpub-test\ndolci1\get-started\create-a-hello-world-app-xaml-universal.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/get-started/create-a-hello-world-app-xaml-universal.md) | HandedOffSuccess | [Details](#05358eaace659edd690c939d4c93be9aff6ba023501)
- [wdg-cpub-test\ndolci1\get-started\enable-your-device-for-development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/get-started/enable-your-device-for-development.md) | HandedOffSuccess | [Details](#ee2bde728bf1df26366c8e59e3c787effa97c0d5502)
- [wdg-cpub-test\ndolci1\get-started\get-set-up.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/get-started/get-set-up.md) | HandedOffSuccess | [Details](#5a92b2591e7157c09dc3c54b1eb271e28f7d60b4503)
- [wdg-cpub-test\ndolci1\get-started\learn-more.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/get-started/learn-more.md) | HandedOffSuccess | [Details](#743e8333cf77ef7e2ea8d21a82c53009d750cd85505)
- [wdg-cpub-test\ndolci1\get-started\managing-your-profile.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/get-started/managing-your-profile.md) | HandedOffSuccess | [Details](#5412c65acbca0604ade4e0a60871e14d0bab775c506)
- [wdg-cpub-test\ndolci1\get-started\opening-a-developer-account.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/get-started/opening-a-developer-account.md) | HandedOffSuccess | [Details](#e1247f7cc6f8c3744d50810c03d8652e8a24a372507)
- [wdg-cpub-test\ndolci1\get-started\sign-up.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/get-started/sign-up.md) | HandedOffSuccess | [Details](#b251660b79f7076f636a9c8c55a60363e07530da508)
+ [wdg-cpub-test\ndolci1\get-started\enable-your-device-for-development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/get-started/enable-your-device-for-development.md) | HandedOffSuccess | [Details](#ee2bde728bf1df26366c8e59e3c787effa97c0d5502)
+ [wdg-cpub-test\ndolci1\get-started\get-set-up.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/get-started/get-set-up.md) | HandedOffSuccess | [Details](#5a92b2591e7157c09dc3c54b1eb271e28f7d60b4503)
+ [wdg-cpub-test\ndolci1\get-started\learn-more.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/get-started/learn-more.md) | HandedOffSuccess | [Details](#743e8333cf77ef7e2ea8d21a82c53009d750cd85505)
+ [wdg-cpub-test\ndolci1\get-started\managing-your-profile.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/get-started/managing-your-profile.md) | HandedOffSuccess | [Details](#5412c65acbca0604ade4e0a60871e14d0bab775c506)
+ [wdg-cpub-test\ndolci1\get-started\opening-a-developer-account.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/get-started/opening-a-developer-account.md) | HandedOffSuccess | [Details](#e1247f7cc6f8c3744d50810c03d8652e8a24a372507)
+ [wdg-cpub-test\ndolci1\get-started\sign-up.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/get-started/sign-up.md) | HandedOffSuccess | [Details](#b251660b79f7076f636a9c8c55a60363e07530da508)
  [wdg-cpub-test\ndolci1\get-started\whats-a-uwp.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/get-started/whats-a-uwp.md) | HandedOffSuccess | [Details](#2be64c2913b1341b945338b4923dba9ff5ad05a1509)
  [wdg-cpub-test\ndolci1\get-started\your-first-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/get-started/your-first-app.md) | HandedOffSuccess | [Details](#4adc00dd1386fb0505e21823fce9a0fa4cf223ba510)
- [wdg-cpub-test\ndolci1\graphics\3-d-perspective-effects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/3-d-perspective-effects.md) | HandedOffSuccess | [Details](#ab7be29098105236c45e8990dd0cd36e9b0ba30c511)
- [wdg-cpub-test\ndolci1\graphics\animations-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/animations-overview.md) | HandedOffSuccess | [Details](#2fa0ffa67d6c2903b99534c4726dfde5073a6c1c512)
+ [wdg-cpub-test\ndolci1\graphics\3-d-perspective-effects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/3-d-perspective-effects.md) | HandedOffSuccess | [Details](#ab7be29098105236c45e8990dd0cd36e9b0ba30c511)
+ [wdg-cpub-test\ndolci1\graphics\animations-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/animations-overview.md) | HandedOffSuccess | [Details](#2fa0ffa67d6c2903b99534c4726dfde5073a6c1c512)
  [wdg-cpub-test\ndolci1\graphics\composition-animation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/graphics/composition-animation.md) | HandedOffSuccess | [Details](#c9abe8937b77fc9bd9d9c3b426c7adec7816fb75513)
- [wdg-cpub-test\ndolci1\graphics\composition-brushes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/composition-brushes.md) | HandedOffSuccess | [Details](#35dcae7a582f7ff74bce0ed8e9525aea0adc993a514)
+ [wdg-cpub-test\ndolci1\graphics\composition-brushes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/composition-brushes.md) | HandedOffSuccess | [Details](#35dcae7a582f7ff74bce0ed8e9525aea0adc993a514)
  [wdg-cpub-test\ndolci1\graphics\composition-effects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/graphics/composition-effects.md) | HandedOffSuccess | [Details](#c7ceaf4d2d016619c2a3d1e6ac4cd148352305f6515)
- [wdg-cpub-test\ndolci1\graphics\composition-native-interop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/composition-native-interop.md) | HandedOffSuccess | [Details](#aa06fa4d0dda5524ace7a2278cd49729c7a14c2e516)
- [wdg-cpub-test\ndolci1\graphics\composition-visual-tree.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/composition-visual-tree.md) | HandedOffSuccess | [Details](#0f49dc9a32861d10afe76ff6612d37720725eeee517)
- [wdg-cpub-test\ndolci1\graphics\drawing-shapes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/drawing-shapes.md) | HandedOffSuccess | [Details](#f71dd2fb2f144c3bc1b1a680837f6dfd8c84f925518)
- [wdg-cpub-test\ndolci1\graphics\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/index.md) | HandedOffSuccess | [Details](#612821e7db46ce0c7c851e32f984408125150829520)
- [wdg-cpub-test\ndolci1\graphics\key-frame-and-easing-function-animations.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/key-frame-and-easing-function-animations.md) | HandedOffSuccess | [Details](#7eb519c64fd9f0bc8b669c758b6aad0e9d4b4d5f521)
+ [wdg-cpub-test\ndolci1\graphics\composition-native-interop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/composition-native-interop.md) | HandedOffSuccess | [Details](#aa06fa4d0dda5524ace7a2278cd49729c7a14c2e516)
+ [wdg-cpub-test\ndolci1\graphics\composition-visual-tree.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/composition-visual-tree.md) | HandedOffSuccess | [Details](#0f49dc9a32861d10afe76ff6612d37720725eeee517)
+ [wdg-cpub-test\ndolci1\graphics\drawing-shapes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/drawing-shapes.md) | HandedOffSuccess | [Details](#f71dd2fb2f144c3bc1b1a680837f6dfd8c84f925518)
+ [wdg-cpub-test\ndolci1\graphics\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/index.md) | HandedOffSuccess | [Details](#612821e7db46ce0c7c851e32f984408125150829520)
+ [wdg-cpub-test\ndolci1\graphics\key-frame-and-easing-function-animations.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/key-frame-and-easing-function-animations.md) | HandedOffSuccess | [Details](#7eb519c64fd9f0bc8b669c758b6aad0e9d4b4d5f521)
  [wdg-cpub-test\ndolci1\graphics\storyboarded-animations.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/graphics/storyboarded-animations.md) | HandedOffSuccess | [Details](#5b8d2d39befdcbe5845e6fe9327614e6a66632cc522)
- [wdg-cpub-test\ndolci1\graphics\transforms-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/transforms-overview.md) | HandedOffSuccess | [Details](#bd147a56fcb996b5f11ae813c073f70a9c350afd523)
- [wdg-cpub-test\ndolci1\graphics\using-brushes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/using-brushes.md) | HandedOffSuccess | [Details](#01bedffa0a8a7b39869ac46bd788c487bba43903524)
+ [wdg-cpub-test\ndolci1\graphics\transforms-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/transforms-overview.md) | HandedOffSuccess | [Details](#bd147a56fcb996b5f11ae813c073f70a9c350afd523)
+ [wdg-cpub-test\ndolci1\graphics\using-brushes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/using-brushes.md) | HandedOffSuccess | [Details](#01bedffa0a8a7b39869ac46bd788c487bba43903524)
  [wdg-cpub-test\ndolci1\graphics\visual-layer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/graphics/visual-layer.md) | HandedOffSuccess | [Details](#d5f1f92bb1616ffc5aa315e4805b02a8fefb8178525)
  [wdg-cpub-test\ndolci1\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/index.md) | HandedOffSuccess | [Details](#e6d3687946ff667cb2669fe42c72325d3f7dbdbb526)
  [wdg-cpub-test\ndolci1\monetize\add-ads-to-apps-with-microsoft-advertising.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/monetize/add-ads-to-apps-with-microsoft-advertising.md) | HandedOffSuccess | [Details](#46caa280af512498dea823200678398b15e8cb42527)
@@ -296,48 +297,48 @@
  [wdg-cpub-test\ndolci1\monetize\view-and-grant-products-from-a-service.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/monetize/view-and-grant-products-from-a-service.md) | HandedOffSuccess | [Details](#7131f2d748f4c08977ab2060523b1611f57f5e5c545)
  [wdg-cpub-test\ndolci1\networking\background-transfers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/networking/background-transfers.md) | HandedOffSuccess | [Details](#8659075e945c9479119ea2e04bdacd903d89c41f546)
  [wdg-cpub-test\ndolci1\networking\httpclient.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/networking/httpclient.md) | HandedOffSuccess | [Details](#2ba0c22d0dc6d60c19e65fee5b28a74184d1bd06551)
- [wdg-cpub-test\ndolci1\networking\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/networking/index.md) | HandedOffSuccess | [Details](#a9c0e6deaa76b995a98cbfb4c373065f8c635e4c552)
+ [wdg-cpub-test\ndolci1\networking\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/networking/index.md) | HandedOffSuccess | [Details](#a9c0e6deaa76b995a98cbfb4c373065f8c635e4c552)
  [wdg-cpub-test\ndolci1\networking\network-communications-in-the-background.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/networking/network-communications-in-the-background.md) | HandedOffSuccess | [Details](#98bba1eee21627ee185d0446aeeeba77a7f0bc20553)
- [wdg-cpub-test\ndolci1\networking\networking-basics.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/networking/networking-basics.md) | HandedOffSuccess | [Details](#c2cb4cffdd8252207df28eab2484bc40c430efc9554)
+ [wdg-cpub-test\ndolci1\networking\networking-basics.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/networking/networking-basics.md) | HandedOffSuccess | [Details](#c2cb4cffdd8252207df28eab2484bc40c430efc9554)
  [wdg-cpub-test\ndolci1\networking\sockets.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/networking/sockets.md) | HandedOffSuccess | [Details](#ed83c7fcbe16c2c01b36f4a906622517e4b52502555)
  [wdg-cpub-test\ndolci1\networking\web-feeds.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/networking/web-feeds.md) | HandedOffSuccess | [Details](#c30b559ac044f389c7bdd716ee67d83be59f9039556)
- [wdg-cpub-test\ndolci1\networking\websockets.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/networking/websockets.md) | HandedOffSuccess | [Details](#afdeb64341edcb977dadab00a0dc705e79c60809557)
- [wdg-cpub-test\ndolci1\networking\which-networking-technology.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/networking/which-networking-technology.md) | HandedOffSuccess | [Details](#00de660fa7d41a6b9b0698d0857864d25036ace3558)
+ [wdg-cpub-test\ndolci1\networking\websockets.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/networking/websockets.md) | HandedOffSuccess | [Details](#afdeb64341edcb977dadab00a0dc705e79c60809557)
+ [wdg-cpub-test\ndolci1\networking\which-networking-technology.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/networking/which-networking-technology.md) | HandedOffSuccess | [Details](#00de660fa7d41a6b9b0698d0857864d25036ace3558)
  [wdg-cpub-test\ndolci1\packaging\app-capability-declarations.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/packaging/app-capability-declarations.md) | HandedOffSuccess | [Details](#fd15703f573d3bcf8174442f4bfb738293ec9056559)
- [wdg-cpub-test\ndolci1\packaging\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/packaging/index.md) | HandedOffSuccess | [Details](#6b7e829169a788ec298a8537f4364dc1c20ad5b1560)
- [wdg-cpub-test\ndolci1\packaging\install-universal-windows-apps-with-the-winappdeploycmd-tool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/packaging/install-universal-windows-apps-with-the-winappdeploycmd-tool.md) | HandedOffSuccess | [Details](#896c64a0ad4fc2506a5b2c84bb3d34fc624fb153561)
+ [wdg-cpub-test\ndolci1\packaging\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/packaging/index.md) | HandedOffSuccess | [Details](#6b7e829169a788ec298a8537f4364dc1c20ad5b1560)
+ [wdg-cpub-test\ndolci1\packaging\install-universal-windows-apps-with-the-winappdeploycmd-tool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/packaging/install-universal-windows-apps-with-the-winappdeploycmd-tool.md) | HandedOffSuccess | [Details](#896c64a0ad4fc2506a5b2c84bb3d34fc624fb153561)
  [wdg-cpub-test\ndolci1\packaging\packaging-uwp-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/packaging/packaging-uwp-apps.md) | HandedOffSuccess | [Details](#1367b398b991652f0db6225470f73f9eaa3796e0562)
- [wdg-cpub-test\ndolci1\porting\getting-started-animation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/getting-started-animation.md) | HandedOffSuccess | [Details](#f25e6aa8324bc8d80d6741fde3d3b6b24611a78e563)
+ [wdg-cpub-test\ndolci1\porting\getting-started-animation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/getting-started-animation.md) | HandedOffSuccess | [Details](#f25e6aa8324bc8d80d6741fde3d3b6b24611a78e563)
  [wdg-cpub-test\ndolci1\porting\getting-started-choosing-a-programming-language.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/getting-started-choosing-a-programming-language.md) | HandedOffSuccess | [Details](#8a72c918c2d1e69225e03fd37e3244fd272e39d8564)
  [wdg-cpub-test\ndolci1\porting\getting-started-common-controls.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/getting-started-common-controls.md) | HandedOffSuccess | [Details](#79f3f234966f76e0a7addbeef4e4f7abb530d160565)
  [wdg-cpub-test\ndolci1\porting\getting-started-creating-a-project.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/getting-started-creating-a-project.md) | HandedOffSuccess | [Details](#b7a4815162519cce1741ca5807431f28f8e4e99e566)
- [wdg-cpub-test\ndolci1\porting\getting-started-getting-around-in-visual-studio.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/getting-started-getting-around-in-visual-studio.md) | HandedOffSuccess | [Details](#53aa1138567bbb0d9d241783157c919df37402ac567)
+ [wdg-cpub-test\ndolci1\porting\getting-started-getting-around-in-visual-studio.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/getting-started-getting-around-in-visual-studio.md) | HandedOffSuccess | [Details](#53aa1138567bbb0d9d241783157c919df37402ac567)
  [wdg-cpub-test\ndolci1\porting\getting-started-navigation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/getting-started-navigation.md) | HandedOffSuccess | [Details](#b29b3a2822da6791ac3de48ff4d3ca714c58366f568)
  [wdg-cpub-test\ndolci1\porting\getting-started-what-next.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/getting-started-what-next.md) | HandedOffSuccess | [Details](#6bcf2971c169b66561d7199e621fbf751d8cb9fd569)
  [wdg-cpub-test\ndolci1\porting\getting-started-with-uwp-for-ios-developers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/getting-started-with-uwp-for-ios-developers.md) | HandedOffSuccess | [Details](#b5adbbb1bff8b457b0eb968d79d01d518673e709570)
  [wdg-cpub-test\ndolci1\porting\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/index.md) | HandedOffSuccess | [Details](#62a787f6025c3306d22f340c954b58b9d649adc2571)
  [wdg-cpub-test\ndolci1\porting\ios-to-uwp-root.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/ios-to-uwp-root.md) | HandedOffSuccess | [Details](#96f64adb8831783f84cc8cb3b4d85e897c414308572)
  [wdg-cpub-test\ndolci1\porting\selecting-an-approach-to-ios-and-uwp-app-development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/selecting-an-approach-to-ios-and-uwp-app-development.md) | HandedOffSuccess | [Details](#483404efdc87db8da2715a061b33712b8e95f234573)
- [wdg-cpub-test\ndolci1\porting\setting-up-your-mac-with-windows-10.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/setting-up-your-mac-with-windows-10.md) | HandedOffSuccess | [Details](#ed8a73be55682e0e0711672d5be289abce7a2a5b574)
- [wdg-cpub-test\ndolci1\porting\update-your-visual-studio-2015-rc-project-to-rtm.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/update-your-visual-studio-2015-rc-project-to-rtm.md) | HandedOffSuccess | [Details](#d445a197c7b6eb20441b93a5d875d71fb3185f3d575)
+ [wdg-cpub-test\ndolci1\porting\setting-up-your-mac-with-windows-10.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/setting-up-your-mac-with-windows-10.md) | HandedOffSuccess | [Details](#ed8a73be55682e0e0711672d5be289abce7a2a5b574)
+ [wdg-cpub-test\ndolci1\porting\update-your-visual-studio-2015-rc-project-to-rtm.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/update-your-visual-studio-2015-rc-project-to-rtm.md) | HandedOffSuccess | [Details](#d445a197c7b6eb20441b93a5d875d71fb3185f3d575)
  [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-case-study-bookstore1.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-case-study-bookstore1.md) | HandedOffSuccess | [Details](#42a467217a899c25bab315314763b2ba6d7ac77a576)
  [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-case-study-bookstore2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-case-study-bookstore2.md) | HandedOffSuccess | [Details](#339649bed07b3dee79a9c67ff920d832389c5c60577)
  [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-case-study-quizgame.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-case-study-quizgame.md) | HandedOffSuccess | [Details](#4084dab88acb9b3522856321a2571ab5abd12dc6578)
- [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-input-and-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-input-and-sensors.md) | HandedOffSuccess | [Details](#987e44b081f1d50dac2252a0a72f0ab7c1433b59579)
+ [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-input-and-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-input-and-sensors.md) | HandedOffSuccess | [Details](#987e44b081f1d50dac2252a0a72f0ab7c1433b59579)
  [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-porting-to-a-uwp-project.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-porting-to-a-uwp-project.md) | HandedOffSuccess | [Details](#465c03fa5f7ec302c287a13d39e4a8806fd840c7580)
- [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-porting-xaml-and-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-porting-xaml-and-ui.md) | HandedOffSuccess | [Details](#8958b5d1320d93bb3a4eb45902a845b0132f2c1b581)
+ [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-porting-xaml-and-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-porting-xaml-and-ui.md) | HandedOffSuccess | [Details](#8958b5d1320d93bb3a4eb45902a845b0132f2c1b581)
  [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-root.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-root.md) | HandedOffSuccess | [Details](#6988cf265ff97e37f2a250e438416fdaeeed568a582)
  [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-troubleshooting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-troubleshooting.md) | HandedOffSuccess | [Details](#8c9d7aeec7691cb25c00ce3f6c6cfa077a05efc4583)
  [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-business-and-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-business-and-data.md) | HandedOffSuccess | [Details](#3d65d8644039235c2dd987cab11dcfa22965815c584)
  [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-case-study-bookstore1.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-case-study-bookstore1.md) | HandedOffSuccess | [Details](#ceece7f2442bfdb00b1a34c90d5947fffbdacb36585)
  [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-case-study-bookstore2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-case-study-bookstore2.md) | HandedOffSuccess | [Details](#be53e89322c9bba9adca321d161b3e46618c7dd6586)
- [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-form-factors-and-ux.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-form-factors-and-ux.md) | HandedOffSuccess | [Details](#b6e33c1df9d6ddb9f45ea6882bdf20f059d6789e587)
- [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-input-and-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-input-and-sensors.md) | HandedOffSuccess | [Details](#643aa46fd5d69ea9d88ac8ee67428337fa4c0164588)
- [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-namespace-and-class-mappings.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-namespace-and-class-mappings.md) | HandedOffSuccess | [Details](#7edc8de3b71803be304e8fc376c24dd00bddc9ce589)
+ [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-form-factors-and-ux.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-form-factors-and-ux.md) | HandedOffSuccess | [Details](#b6e33c1df9d6ddb9f45ea6882bdf20f059d6789e587)
+ [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-input-and-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-input-and-sensors.md) | HandedOffSuccess | [Details](#643aa46fd5d69ea9d88ac8ee67428337fa4c0164588)
+ [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-namespace-and-class-mappings.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-namespace-and-class-mappings.md) | HandedOffSuccess | [Details](#7edc8de3b71803be304e8fc376c24dd00bddc9ce589)
  [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-porting-to-a-uwp-project.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-porting-to-a-uwp-project.md) | HandedOffSuccess | [Details](#88b336f697775addd58d82ca735742d7c521e3b6590)
- [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-porting-xaml-and-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-porting-xaml-and-ui.md) | HandedOffSuccess | [Details](#4a9e71a4ec58278205bb325fd875959ff9948fb5591)
+ [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-porting-xaml-and-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-porting-xaml-and-ui.md) | HandedOffSuccess | [Details](#4a9e71a4ec58278205bb325fd875959ff9948fb5591)
  [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-root.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-root.md) | HandedOffSuccess | [Details](#b55a4f942eb5d8e80d50dcc7a8b418680a8deb88592)
- [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-troubleshooting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-troubleshooting.md) | HandedOffSuccess | [Details](#cb09ba3c6a44ec7eef1ccb9e80609352582a0e3e593)
+ [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-troubleshooting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-troubleshooting.md) | HandedOffSuccess | [Details](#cb09ba3c6a44ec7eef1ccb9e80609352582a0e3e593)
  [wdg-cpub-test\ndolci1\publish\about-house-ads.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/publish/about-house-ads.md) | HandedOffSuccess | [Details](#4732871d80cae8e13c64b8833113ed90252f6878594)
  [wdg-cpub-test\ndolci1\publish\acquisitions-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/publish/acquisitions-report.md) | HandedOffSuccess | [Details](#2d030fc40286b3474252b8f9be0392cb6a4e3d57595)
  [wdg-cpub-test\ndolci1\publish\ad-mediation-report.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/publish/ad-mediation-report.md) | HandedOffSuccess | [Details](#011fa6fb219acefd41dfc58381d58991c0ac61e0596)
@@ -412,12 +413,12 @@
  [wdg-cpub-test\ndolci1\publish\write-a-great-app-description.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/publish/write-a-great-app-description.md) | HandedOffSuccess | [Details](#5cfa664707c48becb82f95c6ceee9203c44c226a665)
  [wdg-cpub-test\ndolci1\threading-async\asynchronous-programming-in-cpp-universal-windows-platform-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/threading-async/asynchronous-programming-in-cpp-universal-windows-platform-apps.md) | HandedOffSuccess | [Details](#dfb615b990e140b99a70c4978f7d660fc6d77178666)
  [wdg-cpub-test\ndolci1\threading-async\asynchronous-programming-universal-windows-platform-apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/threading-async/asynchronous-programming-universal-windows-platform-apps.md) | HandedOffSuccess | [Details](#a8a4e8a0ee85a865b993d3a6ff74c38c7d553587667)
- [wdg-cpub-test\ndolci1\threading-async\best-practices-for-using-the-thread-pool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/best-practices-for-using-the-thread-pool.md) | HandedOffSuccess | [Details](#93c48f2e8199e10237b148f6a3ea3a08a6703dac684)
+ [wdg-cpub-test\ndolci1\threading-async\best-practices-for-using-the-thread-pool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/best-practices-for-using-the-thread-pool.md) | HandedOffSuccess | [Details](#93c48f2e8199e10237b148f6a3ea3a08a6703dac684)
  [wdg-cpub-test\ndolci1\threading-async\call-asynchronous-apis-in-csharp-or-visual-basic.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/threading-async/call-asynchronous-apis-in-csharp-or-visual-basic.md) | HandedOffSuccess | [Details](#8d626d907c089daa2426c2905b269d6ba37f5ae6685)
- [wdg-cpub-test\ndolci1\threading-async\create-a-periodic-work-item.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/create-a-periodic-work-item.md) | HandedOffSuccess | [Details](#ecf1ccbba7b55bf5715f78bb72822b83e25272df686)
- [wdg-cpub-test\ndolci1\threading-async\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/index.md) | HandedOffSuccess | [Details](#b34d9448dbe2707cb715e47eac11dfe64f74b5dc687)
- [wdg-cpub-test\ndolci1\threading-async\submit-a-work-item-to-the-thread-pool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/submit-a-work-item-to-the-thread-pool.md) | HandedOffSuccess | [Details](#2d6bc6d750027e26359e24d4d95ad4c52d9c86e9688)
- [wdg-cpub-test\ndolci1\threading-async\use-a-timer-to-submit-a-work-item.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/use-a-timer-to-submit-a-work-item.md) | HandedOffSuccess | [Details](#f418ec9cfe9f8f26b6c74e5b5ae42098f0e4f9cf689)
+ [wdg-cpub-test\ndolci1\threading-async\create-a-periodic-work-item.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/create-a-periodic-work-item.md) | HandedOffSuccess | [Details](#ecf1ccbba7b55bf5715f78bb72822b83e25272df686)
+ [wdg-cpub-test\ndolci1\threading-async\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/index.md) | HandedOffSuccess | [Details](#b34d9448dbe2707cb715e47eac11dfe64f74b5dc687)
+ [wdg-cpub-test\ndolci1\threading-async\submit-a-work-item-to-the-thread-pool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/submit-a-work-item-to-the-thread-pool.md) | HandedOffSuccess | [Details](#2d6bc6d750027e26359e24d4d95ad4c52d9c86e9688)
+ [wdg-cpub-test\ndolci1\threading-async\use-a-timer-to-submit-a-work-item.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/use-a-timer-to-submit-a-work-item.md) | HandedOffSuccess | [Details](#f418ec9cfe9f8f26b6c74e5b5ae42098f0e4f9cf689)
  [wdg-cpub-test\ndolci1\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/TOC.md) | HandedOffSuccess | [Details](#bae136dc1838614c357e781c47b3ac7ccb3bbd0c690)
  [wdg-cpub-test\ndolci1\usability\accessibility\accessibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/usability/accessibility/accessibility.md) | HandedOffSuccess | [Details](#abce6619263c08d0e4be6cd185db18add9b1436c695)
  [wdg-cpub-test\ndolci1\usability\accessibility\accessibility-checklist.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/usability/accessibility/accessibility-checklist.md) | HandedOffSuccess | [Details](#d696d06e6634c99824b230a1f7c4a088cbaf2ff2691)
@@ -441,35 +442,35 @@
  [wdg-cpub-test\ndolci1\usability\globalizing\use-global-ready-formats.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/usability/globalizing/use-global-ready-formats.md) | HandedOffSuccess | [Details](#2c5596d34f93543d1a4069c282b9490423b9ef1e710)
  [wdg-cpub-test\ndolci1\usability\globalizing\use-patterns-to-format-dates-and-times.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/usability/globalizing/use-patterns-to-format-dates-and-times.md) | HandedOffSuccess | [Details](#335d74c9cfda98c9d3b979870a36dbe6c37c06a4711)
  [wdg-cpub-test\ndolci1\xaml-platform\attached-properties-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/xaml-platform/attached-properties-overview.md) | HandedOffSuccess | [Details](#c20a0d1bcfda3c28c6289b7c745ef2e7f8a612cb712)
- [wdg-cpub-test\ndolci1\xaml-platform\binding-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/binding-markup-extension.md) | HandedOffSuccess | [Details](#08c085ae4e52a249bcaafe839f8baff8ca74c8d9713)
+ [wdg-cpub-test\ndolci1\xaml-platform\binding-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/binding-markup-extension.md) | HandedOffSuccess | [Details](#08c085ae4e52a249bcaafe839f8baff8ca74c8d9713)
  [wdg-cpub-test\ndolci1\xaml-platform\custom-attached-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/xaml-platform/custom-attached-properties.md) | HandedOffSuccess | [Details](#4433307ce4ea0a0e9f43328bfab0c594e4bbad0d714)
  [wdg-cpub-test\ndolci1\xaml-platform\custom-dependency-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/xaml-platform/custom-dependency-properties.md) | HandedOffSuccess | [Details](#f9be158bcfd777c2285ff8865063220fc13ae42c715)
- [wdg-cpub-test\ndolci1\xaml-platform\customresource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/customresource-markup-extension.md) | HandedOffSuccess | [Details](#fb2d2fcd4b5697c6ebf3f3c7b2123c85104c2939716)
+ [wdg-cpub-test\ndolci1\xaml-platform\customresource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/customresource-markup-extension.md) | HandedOffSuccess | [Details](#fb2d2fcd4b5697c6ebf3f3c7b2123c85104c2939716)
  [wdg-cpub-test\ndolci1\xaml-platform\dependency-properties-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/xaml-platform/dependency-properties-overview.md) | HandedOffSuccess | [Details](#6535ae83d4ff031c9515487fb6201694c3c95745717)
  [wdg-cpub-test\ndolci1\xaml-platform\events-and-routed-events-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/xaml-platform/events-and-routed-events-overview.md) | HandedOffSuccess | [Details](#bcc64cfc51aa038349c2de9d8fc6a91ca2560c66718)
  [wdg-cpub-test\ndolci1\xaml-platform\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/xaml-platform/index.md) | HandedOffSuccess | [Details](#80ee3b2cfdb64b23169a9c70e89cde5098016334719)
- [wdg-cpub-test\ndolci1\xaml-platform\move-draw-commands-syntax.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/move-draw-commands-syntax.md) | HandedOffSuccess | [Details](#f971a8891a41542db8e6fb9b943db052849e8913720)
- [wdg-cpub-test\ndolci1\xaml-platform\property-path-syntax.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/property-path-syntax.md) | HandedOffSuccess | [Details](#ae1fb98bf424be747ca3b04696198940836415fa721)
- [wdg-cpub-test\ndolci1\xaml-platform\relativesource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/relativesource-markup-extension.md) | HandedOffSuccess | [Details](#afccd56780f303dd8daf72267928a047385673df722)
- [wdg-cpub-test\ndolci1\xaml-platform\staticresource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/staticresource-markup-extension.md) | HandedOffSuccess | [Details](#3fdf144163d14ae3b0c6b5555ccb69b8c76872ef723)
- [wdg-cpub-test\ndolci1\xaml-platform\templatebinding-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/templatebinding-markup-extension.md) | HandedOffSuccess | [Details](#e6969bf7938c29b34f28c02e0f5c565be2ca2417725)
- [wdg-cpub-test\ndolci1\xaml-platform\template-settings-classes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/template-settings-classes.md) | HandedOffSuccess | [Details](#321ba601c83b996d5e9a4edef60a52c3934216e7724)
- [wdg-cpub-test\ndolci1\xaml-platform\themeresource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/themeresource-markup-extension.md) | HandedOffSuccess | [Details](#d872648c0412de391a43d88c1425a9ddea44e6ed726)
- [wdg-cpub-test\ndolci1\xaml-platform\xaml-and-whitespace.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/xaml-and-whitespace.md) | HandedOffSuccess | [Details](#01112910296923a767e3968f35d286e661cf29e5736)
- [wdg-cpub-test\ndolci1\xaml-platform\xaml-intrinsic-data-types.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/xaml-intrinsic-data-types.md) | HandedOffSuccess | [Details](#2c36a6c3b75da75567b5bcd368812c98927b4a85737)
- [wdg-cpub-test\ndolci1\xaml-platform\xaml-namescopes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/xaml-namescopes.md) | HandedOffSuccess | [Details](#67beb04cc87765a4c2edb249a61ba300cd9a7544738)
+ [wdg-cpub-test\ndolci1\xaml-platform\move-draw-commands-syntax.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/move-draw-commands-syntax.md) | HandedOffSuccess | [Details](#f971a8891a41542db8e6fb9b943db052849e8913720)
+ [wdg-cpub-test\ndolci1\xaml-platform\property-path-syntax.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/property-path-syntax.md) | HandedOffSuccess | [Details](#ae1fb98bf424be747ca3b04696198940836415fa721)
+ [wdg-cpub-test\ndolci1\xaml-platform\relativesource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/relativesource-markup-extension.md) | HandedOffSuccess | [Details](#afccd56780f303dd8daf72267928a047385673df722)
+ [wdg-cpub-test\ndolci1\xaml-platform\staticresource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/staticresource-markup-extension.md) | HandedOffSuccess | [Details](#3fdf144163d14ae3b0c6b5555ccb69b8c76872ef723)
+ [wdg-cpub-test\ndolci1\xaml-platform\templatebinding-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/templatebinding-markup-extension.md) | HandedOffSuccess | [Details](#e6969bf7938c29b34f28c02e0f5c565be2ca2417725)
+ [wdg-cpub-test\ndolci1\xaml-platform\template-settings-classes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/template-settings-classes.md) | HandedOffSuccess | [Details](#321ba601c83b996d5e9a4edef60a52c3934216e7724)
+ [wdg-cpub-test\ndolci1\xaml-platform\themeresource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/themeresource-markup-extension.md) | HandedOffSuccess | [Details](#d872648c0412de391a43d88c1425a9ddea44e6ed726)
+ [wdg-cpub-test\ndolci1\xaml-platform\xaml-and-whitespace.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/xaml-and-whitespace.md) | HandedOffSuccess | [Details](#01112910296923a767e3968f35d286e661cf29e5736)
+ [wdg-cpub-test\ndolci1\xaml-platform\xaml-intrinsic-data-types.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/xaml-intrinsic-data-types.md) | HandedOffSuccess | [Details](#2c36a6c3b75da75567b5bcd368812c98927b4a85737)
+ [wdg-cpub-test\ndolci1\xaml-platform\xaml-namescopes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/xaml-namescopes.md) | HandedOffSuccess | [Details](#67beb04cc87765a4c2edb249a61ba300cd9a7544738)
  [wdg-cpub-test\ndolci1\xaml-platform\xaml-namespaces-and-namespace-mapping.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/xaml-platform/xaml-namespaces-and-namespace-mapping.md) | HandedOffSuccess | [Details](#1e9d37634964a2859e6f670b3449acfa84564f9b739)
  [wdg-cpub-test\ndolci1\xaml-platform\xaml-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/xaml-platform/xaml-overview.md) | HandedOffSuccess | [Details](#0650191324964593b8b3fc54b757648253b95caa740)
  [wdg-cpub-test\ndolci1\xaml-platform\xaml-syntax-guide.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/xaml-platform/xaml-syntax-guide.md) | HandedOffSuccess | [Details](#af817df780f291b6367a374e535cce22a84ba4c1741)
  [wdg-cpub-test\ndolci1\xaml-platform\x-bind-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/xaml-platform/x-bind-markup-extension.md) | HandedOffSuccess | [Details](#21a0bb43b644f2edf56d7e7bb8031c5966750121727)
- [wdg-cpub-test\ndolci1\xaml-platform\x-class-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/x-class-attribute.md) | HandedOffSuccess | [Details](#daca0d528ae54849d010e3799fa6ee299fe7d3f2728)
- [wdg-cpub-test\ndolci1\xaml-platform\x-deferloadstrategy-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/x-deferloadstrategy-attribute.md) | HandedOffSuccess | [Details](#1b4209d74a1dde9a4d5695d3e2f9e3bbec7568c4729)
+ [wdg-cpub-test\ndolci1\xaml-platform\x-class-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/x-class-attribute.md) | HandedOffSuccess | [Details](#daca0d528ae54849d010e3799fa6ee299fe7d3f2728)
+ [wdg-cpub-test\ndolci1\xaml-platform\x-deferloadstrategy-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/x-deferloadstrategy-attribute.md) | HandedOffSuccess | [Details](#1b4209d74a1dde9a4d5695d3e2f9e3bbec7568c4729)
  [wdg-cpub-test\ndolci1\xaml-platform\x-fieldmodifier-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/xaml-platform/x-fieldmodifier-attribute.md) | HandedOffSuccess | [Details](#e0fcec25b7b24654a8a9ceffebca136d5dd7188a730)
- [wdg-cpub-test\ndolci1\xaml-platform\x-key-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/x-key-attribute.md) | HandedOffSuccess | [Details](#5d743d4e47a37b574ce51487cba1481fd322c86a731)
- [wdg-cpub-test\ndolci1\xaml-platform\x-name-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/x-name-attribute.md) | HandedOffSuccess | [Details](#167ae7ee519736967c5163e2c37e3ca1fd507a7d732)
+ [wdg-cpub-test\ndolci1\xaml-platform\x-key-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/x-key-attribute.md) | HandedOffSuccess | [Details](#5d743d4e47a37b574ce51487cba1481fd322c86a731)
+ [wdg-cpub-test\ndolci1\xaml-platform\x-name-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/x-name-attribute.md) | HandedOffSuccess | [Details](#167ae7ee519736967c5163e2c37e3ca1fd507a7d732)
  [wdg-cpub-test\ndolci1\xaml-platform\x-null-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/xaml-platform/x-null-markup-extension.md) | HandedOffSuccess | [Details](#2fa688bcecf98e6ed42858d7523fddb53fbf7ba7733)
- [wdg-cpub-test\ndolci1\xaml-platform\x-phase-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/x-phase-attribute.md) | HandedOffSuccess | [Details](#8903c832f313ca522e07331a028d370aee039f58734)
- [wdg-cpub-test\ndolci1\xaml-platform\x-uid-directive.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/x-uid-directive.md) | HandedOffSuccess | [Details](#5880add499ff902e320c9d594279444f28668da0735)
+ [wdg-cpub-test\ndolci1\xaml-platform\x-phase-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/x-phase-attribute.md) | HandedOffSuccess | [Details](#8903c832f313ca522e07331a028d370aee039f58734)
+ [wdg-cpub-test\ndolci1\xaml-platform\x-uid-directive.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/x-uid-directive.md) | HandedOffSuccess | [Details](#5880add499ff902e320c9d594279444f28668da0735)
  [wdg-cpub-test\testhtml.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/testhtml.md) | HandedOffSuccess | [Details](#e416bf85537540262613086313bb91f4f45cd31a747)
 
 ## <a name='archive-failed-list'></a> Archive Failed File List
@@ -503,10 +504,10 @@
  [wdg-cpub-test\jasgro\test2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/jasgro/test2.md) | InSyncHandedBackSuccess | [Details](#647ebfda6781b808b9ac43674f5033240c554c5026)
  [wdg-cpub-test\jasgro\tools-for-beginners.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/jasgro/tools-for-beginners.md) | InSyncHandedBackSuccess | [Details](#e0dd374c1c5c5936fb4ebc3ee7d0e48e308d1cbb27)
  [wdg-cpub-test\joshbax\HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/joshbax/HelloWorld.md) | InSyncHandedBackSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855628)
- [wdg-cpub-test\joshbax\HelloWorld2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/joshbax/HelloWorld2.md) | InSyncHandedBackSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855629)
- [wdg-cpub-test\joshbax\HelloWorld3.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/joshbax/HelloWorld3.md) | InSyncHandedBackSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855630)
- [wdg-cpub-test\joshbax\HelloWorld4.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/joshbax/HelloWorld4.md) | InSyncHandedBackSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855631)
- [wdg-cpub-test\joshbax\HelloWorld5.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/joshbax/HelloWorld5.md) | InSyncHandedBackSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855632)
+ [wdg-cpub-test\joshbax\HelloWorld2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/joshbax/HelloWorld2.md) | InSyncHandedBackSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855629)
+ [wdg-cpub-test\joshbax\HelloWorld3.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/joshbax/HelloWorld3.md) | InSyncHandedBackSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855630)
+ [wdg-cpub-test\joshbax\HelloWorld4.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/joshbax/HelloWorld4.md) | InSyncHandedBackSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855631)
+ [wdg-cpub-test\joshbax\HelloWorld5.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/joshbax/HelloWorld5.md) | InSyncHandedBackSuccess | [Details](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855632)
  [wdg-cpub-test\lizross\available_policies.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/lizross/available_policies.md) | InSyncHandedBackSuccess | [Details](#fa27b37a6be2f8e0887ce2a56559c5c4c943fdac33)
  [wdg-cpub-test\lizross\emie_to_improve_compatibility.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/lizross/emie_to_improve_compatibility.md) | InSyncHandedBackSuccess | [Details](#2df16f5bb8361cadf656d1e62eddf9aba2ceb45834)
  [wdg-cpub-test\lizross\hardware_and_software_requirements.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/767585a06e3f5715e06e6022cf05f17d7863066e/wdg-cpub-test/lizross/hardware_and_software_requirements.md) | InSyncHandedBackSuccess | [Details](#5d05b35b340b2dfcb038c9e10880f3c5a902c77735)
@@ -580,7 +581,7 @@
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\to_add_test_metadata.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/to_add_test_metadata.md) | InSyncHandedBackSuccess | [Details](#944b2b71b2f22ccef1f8601686134d7ce6f5ef96807)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\TOC.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/TOC.md) | InSyncHandedBackSuccess | [Details](#4f5bfb807ecf4cc2e5715fbbf544d2491340714c808)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md) | InSyncHandedBackSuccess | [Details](#2434c94f583589d368ce55e6c5d26150cec8ce15809)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_the_device_fundamental_tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_the_device_fundamental_tests.md) | InSyncHandedBackSuccess | [Details](#2434c94f583589d368ce55e6c5d26150cec8ce15810)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_the_device_fundamental_tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_the_device_fundamental_tests.md) | InSyncHandedBackSuccess | [Details](#2434c94f583589d368ce55e6c5d26150cec8ce15810)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\umdf_verifier_properties_for_driver_package_projects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/umdf_verifier_properties_for_driver_package_projects.md) | InSyncHandedBackSuccess | [Details](#a9b1e0eb7445100c3cd81ce979e54703c87254ad811)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/using_the_microsoft_c_runtime_with_user_mode_drivers_and_apps.md) | InSyncHandedBackSuccess | [Details](#b0477a3ded515799ddbf6dc256d7a1f8376228c6812)
  [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\validating_universal_drivers.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/7a66671822c1d0ba2a7f000832fb8a192113ceab/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/validating_universal_drivers.md) | InSyncHandedBackSuccess | [Details](#798d98ae3b3b36679756fb2c3bb4bac44092a4bf813)
@@ -593,273 +594,272 @@
 ## <a name='ignored-list'></a> Ignored File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [.gitignore](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/.gitignore) | Ignored | [Details](#803607024514788723dfd07b8fdcf04c806865b70)
- [.localization-config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/.localization-config) | Ignored | [Details](#e7829cb943a2a380983b71ee8b715350204364541)
- [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/.openpublishing.build.mdproj) | Ignored | [Details](#39a1ec920f8f95c0152f04241c339463545b9bfe2)
- [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/.openpublishing.publish.config.json) | Ignored | [Details](#8eecabd3ae8e6ddd6d0e0d1d1a442cd0ad7a75fa3)
- [HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/HelloWorld.md) | Ignored | [Details](#ee4e5473b0707009cf7b442f48a9340566ddaaa14)
- [packages.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/packages.config) | Ignored | [Details](#35e64e3675af499b08de0a295cbd0394dce36fbf5)
- [README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/README.md) | Ignored | [Details](#628ce7b359157a4c8c79d02622d30781cfb9ad896)
- [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/Tools/NuGet/Nuget.Config) | Ignored | [Details](#37d5a2d0c8a81313cf7e92800e699f2f86a9f9f97)
- [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/Tools/NuGet/nuget.exe) | Ignored | [Details](#7469c905e04001f8250137d2da57bbc7bec2d3588)
- [wdg-cpub-test\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/docfx.json) | Ignored | [Details](#ef46e7227eb5de88f180c82961fdc8c6732f6dbf10)
- [wdg-cpub-test\get-app-acquisitions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/get-app-acquisitions.md) | Ignored | [Details](#7fe04f6758778a76bbcc265aa17b24479848146717)
- [wdg-cpub-test\iawilt\iawilt_test\Ben test](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/iawilt/iawilt_test/Ben test) | Ignored | [Details](#eff8f567d06e11d393836c1fbf24b220fabbd06118)
- [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/App.xaml) | Ignored | [Details](#ba02637e281399d6f7bd6a5a406d990f6070a3a5156)
- [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/App.xaml.cs) | Ignored | [Details](#f8d6cc4b4dd300d5e89e1458ffbe42229f6d71ea157)
- [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\copy_paste.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/copy_paste.csproj) | Ignored | [Details](#29d52f360e978bd3e35dd0f51558c34115df2af4158)
- [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/MainPage.xaml) | Ignored | [Details](#66b079c5dc3a26a4842d952741f8130b801ca086159)
- [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/MainPage.xaml.cs) | Ignored | [Details](#b274e4317e841b9496e8d4368978450aab4db554160)
- [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/Package.appxmanifest) | Ignored | [Details](#374dcde4092c9111bbc27b960bb0f8bb13896b56161)
- [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#b89975f22736f77845d2198304d4c18a7a813a0e162)
- [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61163)
- [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\Service References\Application Insights\ConnectedService.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/Service References/Application Insights/ConnectedService.json) | Ignored | [Details](#e8acf6ee6eca26f01953562e2044bcb7715731ff164)
- [wdg-cpub-test\ndolci1\app-to-app\code\dev_app_to_app.sln](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/dev_app_to_app.sln) | Ignored | [Details](#da691df4c0ee8e3d16a7877095d1d0cf55c110a6165)
- [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/App.xaml) | Ignored | [Details](#8888f0c0f1cf738c8c98253aa8a8debf1bca4b7d166)
- [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/App.xaml.cs) | Ignored | [Details](#892cb52e223f06371df40c5a4a8038ffa7771b2f167)
- [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\drag_drop.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/drag_drop.csproj) | Ignored | [Details](#d2a1b6fa0e6b3b47a982181b179d11ec042f164d168)
- [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/MainPage.xaml) | Ignored | [Details](#8e6a931b779e836af9720473a95039b19341a527169)
- [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/MainPage.xaml.cs) | Ignored | [Details](#801096f071a0286a7f9cd5efb44252646de17b54170)
- [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/Package.appxmanifest) | Ignored | [Details](#084c9f8e13eceddaa998a9ed1a593685c3e7accd171)
- [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#dc22d2c5dbc5db5e576ad3a8f356e3031e974a5d172)
- [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61173)
- [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\Service References\Application Insights\ConnectedService.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/Service References/Application Insights/ConnectedService.json) | Ignored | [Details](#e8acf6ee6eca26f01953562e2044bcb7715731ff174)
- [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/App.xaml) | Ignored | [Details](#4902debfe4b5c29da7e34e9d356adbcaf8ca81a3175)
- [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/App.xaml.cs) | Ignored | [Details](#ef234cb48b253e588b3c2d12ead0db76bb4e5472176)
- [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/MainPage.xaml) | Ignored | [Details](#405c3dcc9121bbd626a81b73c161582fa29660d8177)
- [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/MainPage.xaml.cs) | Ignored | [Details](#9ae990501365a0f64cf2271e5d1781e9def4f716178)
- [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/Package.appxmanifest) | Ignored | [Details](#e58660b51ce6499374d7939b809f5ab2c299c6cd179)
- [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#6b99da4ccee74b98a4990e5f41faaa0ad5fe570b180)
- [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61181)
- [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\receive_data.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/receive_data.csproj) | Ignored | [Details](#45ad3c457e07a180692162d884343e0512690c78182)
- [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/App.xaml) | Ignored | [Details](#b3d56a57f0165737c22829e57542f7b00f20f9ba183)
- [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/App.xaml.cs) | Ignored | [Details](#434910d21f6d623d86e619fe7934f09a31421b4c184)
- [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/MainPage.xaml) | Ignored | [Details](#cf8c3db78c30f396f42bf2923beef012cf671c24185)
- [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/MainPage.xaml.cs) | Ignored | [Details](#54bbea98c12c68dc6cf43656ef49c1d1483f91ed186)
- [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/Package.appxmanifest) | Ignored | [Details](#1dfccf070af0db23146fc60070fb1751dc72f55a187)
- [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#6509d2be8c78cafd4f82b04e238c773241984f1c188)
- [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61189)
- [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\Service References\Application Insights\ConnectedService.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/Service References/Application Insights/ConnectedService.json) | Ignored | [Details](#e8acf6ee6eca26f01953562e2044bcb7715731ff190)
- [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\share_data.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/share_data.csproj) | Ignored | [Details](#7e2b176f3b465e52ba13a98205122df2b229c9e7191)
- [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\ShareData.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/ShareData.csproj) | Ignored | [Details](#7e2b176f3b465e52ba13a98205122df2b229c9e7192)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\AdaptiveStreaming_Win10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/AdaptiveStreaming_Win10.csproj) | Ignored | [Details](#647998f2cbe371609f9b048d330be179c6e12223209)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\AdaptiveStreaming_Win10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/AdaptiveStreaming_Win10_TemporaryKey.pfx) | Ignored | [Details](#6374917e25617bff6d0fa851dcfe682643cd3386210)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/App.xaml) | Ignored | [Details](#3563d9d7ec304df39b67ac3e8e19f914aa9b46f5211)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/App.xaml.cs) | Ignored | [Details](#391c967f4b3e230866302d01ba350c262c481843212)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/MainPage.xaml) | Ignored | [Details](#3df910f701986f731f54630b473cdeaa53ad9d85213)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/MainPage.xaml.cs) | Ignored | [Details](#37785f29b825c64b4274f902f9a89fbf0ebe6c21214)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/Package.appxmanifest) | Ignored | [Details](#eae0c7850bd2b9e34e80773bc00174f73eca3bab215)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/project.json) | Ignored | [Details](#3f2ffd09cae94c9dad65f79b98fdcb51082256d2216)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/project.lock.json) | Ignored | [Details](#b5533e96937ca03d7478d1d70015e28091c5885a217)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#64136461c9164397cbf7945410eb227cb063de3d218)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61219)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/App.xaml) | Ignored | [Details](#4c13eb9250c5aa3fd202acd5b49ba41715b3ca0f220)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/App.xaml.cs) | Ignored | [Details](#739f2cc146ee246c1dbe84c3dafcc72ddd349890221)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/ApplicationInsights.config) | Ignored | [Details](#c02b1926267f8c158ea5516b433cd5b9469f1142222)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\AudioGraphSnippets.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/AudioGraphSnippets.csproj) | Ignored | [Details](#9e190a521d549c9ea4d056dfc45e723ef819cd4a223)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\AudioGraphSnippets_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/AudioGraphSnippets_TemporaryKey.pfx) | Ignored | [Details](#c1d0be25959be39c2246db8204306408cc524658224)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/MainPage.xaml) | Ignored | [Details](#f07af6a58f1e1eb35de06951e07d5458cf8a8728225)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/MainPage.xaml.cs) | Ignored | [Details](#74ec00464516315d9ad8c7403128c5eb43708698226)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/Package.appxmanifest) | Ignored | [Details](#0ce83776f05b7dc3d466b76803f94ef55d47e91f227)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#e8f8e7e91e8ea12323df2ce5d8f45496b9fbbb79228)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61229)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/App.xaml) | Ignored | [Details](#cac355412cce448cb9a78fb369606992bb3291db230)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/App.xaml.cs) | Ignored | [Details](#f05fdd2d1a51441766f998b9a7da5d8af6ece3a4231)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054232)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\BasicCameraWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/BasicCameraWin10.csproj) | Ignored | [Details](#e63b6333eb0dbfc4d4ed002a5d4bcf1ba048f2f4233)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\BasicCameraWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/BasicCameraWin10_TemporaryKey.pfx) | Ignored | [Details](#fbf55d8df0f8ee4ad327d02804885d647edbcb12234)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\MainPage.ManualControls.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs) | Ignored | [Details](#61e192d9be0a877c60544e08acf8317c634bda0d235)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/MainPage.xaml) | Ignored | [Details](#35747b3c2f7bbd05a9e507889f0efebc1097dae6236)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/MainPage.xaml.cs) | Ignored | [Details](#3356f86c7ab7baeeeab1776a8926172344660509237)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/Package.appxmanifest) | Ignored | [Details](#f21c3bfcdd12afad44920c842090a0f94e7d7d3d238)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/project.json) | Ignored | [Details](#3f2ffd09cae94c9dad65f79b98fdcb51082256d2239)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/project.lock.json) | Ignored | [Details](#b5533e96937ca03d7478d1d70015e28091c5885a240)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/properties/AssemblyInfo.cs) | Ignored | [Details](#db56e6fb0fbac76864995782124a4f00c910214e241)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61242)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\Service References\Application Insights\ConnectedService.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/Service References/Application Insights/ConnectedService.json) | Ignored | [Details](#e8acf6ee6eca26f01953562e2044bcb7715731ff243)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\StreamPropertiesHelper.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/StreamPropertiesHelper.cs) | Ignored | [Details](#4c29d0d8b85fb626ae9e408c57f2cef31884d2dc244)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/App.xaml) | Ignored | [Details](#571d3c2d119f4092eb7109ec60ef085c52c0dc7d245)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/App.xaml.cs) | Ignored | [Details](#be7b7ca27dfe6730fff3c05a9f806128b8d35943246)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054247)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\CameraCaptureUIWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/CameraCaptureUIWin10.csproj) | Ignored | [Details](#b0155dff08b5ce6df4defa507821f0f55ae4c485248)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\CameraCaptureUIWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/CameraCaptureUIWin10_TemporaryKey.pfx) | Ignored | [Details](#748f76ba029567a78eabba0c5f80f6db9b417979249)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/MainPage.xaml) | Ignored | [Details](#8ff16ce0f6c6fe5087ab38c3c654940d9a383bc7250)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/MainPage.xaml.cs) | Ignored | [Details](#5926705974e05ffa630780b5436227e3555606f9251)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/Package.appxmanifest) | Ignored | [Details](#761505676524cb84aede29b1d7b2d57d23b0289c252)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/project.json) | Ignored | [Details](#924156180a79a17098defdd231a18210e1739e48253)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/project.lock.json) | Ignored | [Details](#6b742ae0bbc939836c8b03e12cdd73229d019e9c254)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#5a61a94f787f33a4f3b6e3022e1dbc9a8cf3e440255)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61256)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/App.xaml) | Ignored | [Details](#47ed7da0f88cd65d43bb39060641450d34bbb0fb257)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/App.xaml.cs) | Ignored | [Details](#7db448c49dacb4ca1aed9eb6052d684a4b1ff870258)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054259)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\FaceDetection_Win10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/FaceDetection_Win10.csproj) | Ignored | [Details](#d3bb5a3d916dfd99aaca4a8e08587eb56507254a260)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\FaceDetection_Win10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/FaceDetection_Win10_TemporaryKey.pfx) | Ignored | [Details](#dd2a43f083febead2981520d0eb86aead843c6b4261)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/MainPage.xaml) | Ignored | [Details](#1e0487671eb3c6c242d101c86a4a09da74745f23262)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/MainPage.xaml.cs) | Ignored | [Details](#1c3050a9b5e08fb0c8234f95dd04930cc8c54458263)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/Package.appxmanifest) | Ignored | [Details](#dc6a23237048070c3b6c6faf9b8161ead2422b20264)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/project.json) | Ignored | [Details](#3f2ffd09cae94c9dad65f79b98fdcb51082256d2265)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/project.lock.json) | Ignored | [Details](#b5533e96937ca03d7478d1d70015e28091c5885a266)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#25d8338b61f4c8056c89b0882a9462c2d2030edd267)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61268)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/App.xaml) | Ignored | [Details](#ba1794db68cb6df43050d6ec545400eeda4098b8269)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/App.xaml.cs) | Ignored | [Details](#f004feeb63c439c6472c0407c8b0b8da29f188db270)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054271)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\ImagingWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/ImagingWin10.csproj) | Ignored | [Details](#689f532ed088a4b802085c33559c4a4a8587ae1d272)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\ImagingWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/ImagingWin10_TemporaryKey.pfx) | Ignored | [Details](#f3b52bac1e351ce187c09114ca318dd4b7db6309273)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/MainPage.xaml) | Ignored | [Details](#b5385a98795bc79361cc12bbd35a73b9072e4cb7274)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/MainPage.xaml.cs) | Ignored | [Details](#5384eef47bc2c6529a6b7e55c1e68dc9e5701197275)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/Package.appxmanifest) | Ignored | [Details](#656c37552bcd3450e4ac2f383627639b082e5f50276)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/project.json) | Ignored | [Details](#3f2ffd09cae94c9dad65f79b98fdcb51082256d2277)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/project.lock.json) | Ignored | [Details](#b5533e96937ca03d7478d1d70015e28091c5885a278)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#1369e6426d242c76d376860386b449470bef0651279)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61280)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/App.xaml) | Ignored | [Details](#5c1ad5648d76f28a1488dfd4e76178501ad2b1a5281)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/App.xaml.cs) | Ignored | [Details](#935ac6d6802fdbfc3078d1fb8f31fd16819e9e5f282)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\LampSnippets.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/LampSnippets.csproj) | Ignored | [Details](#04e1fee9662240e7ddf03ac03eaa164ded79aa7b283)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\LampSnippets_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/LampSnippets_TemporaryKey.pfx) | Ignored | [Details](#ec289ade03a51315a6ffb5954963fe5f979fc19b284)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/MainPage.xaml) | Ignored | [Details](#64adcc7ee0a167ba63a90cd79e516b5bd995ef32285)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/MainPage.xaml.cs) | Ignored | [Details](#ffcb6497cabd6bb6c304a09a982cfc3f61c4d282286)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/Package.appxmanifest) | Ignored | [Details](#d12a91093824bf76d587b321fb1ac2eb2f69aa4a287)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#66ac825bf2c45f17045738923a77aeb6fe6c5f93288)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61289)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/App.xaml) | Ignored | [Details](#e040ae44b79bdb16337594aad683fa2d314fd5ac290)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/App.xaml.cs) | Ignored | [Details](#e800584c97818152a6dde1f508e370409144fd7c291)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054292)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/MainPage.xaml) | Ignored | [Details](#6c96ededb0b7a453806299f2accbd28fbd34ad5c293)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/MainPage.xaml.cs) | Ignored | [Details](#c29acb50bf241d85fce0110e619947ecab68994c294)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\MediaCastingWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/MediaCastingWin10.csproj) | Ignored | [Details](#1965c5b2f615acdd9bf3ec2835b5559b39fa062f295)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\MediaCastingWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/MediaCastingWin10_TemporaryKey.pfx) | Ignored | [Details](#8a623ac18311f478255d6ad0e0d552782e5efdbc296)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/Package.appxmanifest) | Ignored | [Details](#4f29c13b466c8674aa816cf6547ec763dc63bb73297)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/project.json) | Ignored | [Details](#9499c01220fb05f59067bb47299c49c02b689b52298)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/project.lock.json) | Ignored | [Details](#773a52f9e8f512cccd0cfa8c2c29db42ad2b7d56299)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#d251c34b7d1b5b6ec63d11f1bf4b959076eecdb9300)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61301)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/App.xaml) | Ignored | [Details](#8a574cbc5e88a4880ab0981cf60d7d2b8de6aa8e302)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/App.xaml.cs) | Ignored | [Details](#5ff1c2284bd506c2cd24e99fbcf018b515997c23303)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/ApplicationInsights.config) | Ignored | [Details](#c02b1926267f8c158ea5516b433cd5b9469f1142304)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/MainPage.xaml) | Ignored | [Details](#33b721dcb76068a5298aba3889e0198fc9a21866305)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/MainPage.xaml.cs) | Ignored | [Details](#32a3690296939ce9e894b69e9bb3161a975b89a4306)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\MediaEditingSnippets.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/MediaEditingSnippets.csproj) | Ignored | [Details](#1468ccccca37e4be9ba5da8e469d0c6778bfc504307)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\MediaEditingSnippets_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/MediaEditingSnippets_TemporaryKey.pfx) | Ignored | [Details](#73635b95cab7f5a62dc8c42e156167f51292298c308)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/Package.appxmanifest) | Ignored | [Details](#2bc9055d3b2b570da7ae90136efd84ca9d5e0f9b309)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#b9a4a9ff7d78177a5469345c6b3fea25bfb01a50310)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61311)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\MediaProcessingBackgroundTask.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/MediaProcessingBackgroundTask.csproj) | Ignored | [Details](#3c88d67c3e4e68161f646d9a7891d5fa10148da8312)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\MediaProcessingTask.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/MediaProcessingTask.cs) | Ignored | [Details](#41e12ba857f700bfd74860cd3783d736b8fef327313)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/project.json) | Ignored | [Details](#2e018f21736dc76c403d2fb379820513929eb383314)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/project.lock.json) | Ignored | [Details](#ce86d7ce2695aff1058e72c1e8ce4226d015ee0e315)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/Properties/AssemblyInfo.cs) | Ignored | [Details](#50048fdbfff75ca57ba7000495e5587a22457426316)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10.sln](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10.sln) | Ignored | [Details](#ba93441f0d0fdd06a83396fc904b67632ac8154e317)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/App.xaml) | Ignored | [Details](#f8930ab2c47b9c0ba605d6ebc9fade2be496fd23318)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/App.xaml.cs) | Ignored | [Details](#25839fea8b4969efcbced8aabceb87fdd5d847b3319)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054320)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/MainPage.xaml) | Ignored | [Details](#2c2cb91fb777fceb5c9204be08a01ff782344847321)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/MainPage.xaml.cs) | Ignored | [Details](#d9bb44e6273715a80fd16f35cd1bd80d3eb25788322)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\MediaProcessingTriggerWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/MediaProcessingTriggerWin10.csproj) | Ignored | [Details](#e75a112a53cadc66afb68bca52fb318d547a2a8f323)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\MediaProcessingTriggerWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/MediaProcessingTriggerWin10_TemporaryKey.pfx) | Ignored | [Details](#78473a00ee102bd99facc030e92b56a0aef44029324)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/Package.appxmanifest) | Ignored | [Details](#b101ebc50baa8712c25810adba387a6d8e98569a325)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/project.json) | Ignored | [Details](#924156180a79a17098defdd231a18210e1739e48326)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/project.lock.json) | Ignored | [Details](#6b742ae0bbc939836c8b03e12cdd73229d019e9c327)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/Properties/AssemblyInfo.cs) | Ignored | [Details](#277071415012a656db55938f9b040495319aa9dd328)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61329)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/App.xaml) | Ignored | [Details](#8b5230efcaf5f92a0337e2c2e1522e29f45ac062330)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/App.xaml.cs) | Ignored | [Details](#5a6150c7b073a633fca644c36889d196fcda4f3b331)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054332)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/MainPage.xaml) | Ignored | [Details](#d51e6f5e817d9dafcc371aadd93cf94d436577b3333)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/MainPage.xaml.cs) | Ignored | [Details](#87bf04d429e3b7163a60147ad5f7d3676586e191334)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\MediaSource_Win10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/MediaSource_Win10.csproj) | Ignored | [Details](#c4196e86596039e01e4c818462721da44fd8c074335)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\MediaSource_Win10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/MediaSource_Win10_TemporaryKey.pfx) | Ignored | [Details](#df5f73642c76de81dffa3a3b1c330dab64458cce336)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/Package.appxmanifest) | Ignored | [Details](#f4b7e55c20c4a972abcbf25478dd346918b13d21337)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/project.json) | Ignored | [Details](#3f2ffd09cae94c9dad65f79b98fdcb51082256d2338)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/project.lock.json) | Ignored | [Details](#b5533e96937ca03d7478d1d70015e28091c5885a339)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#fa1a2b9d96ac0714dcb9cbc8b8c48685ada1648d340)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61341)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/App.xaml) | Ignored | [Details](#44d870cb82912978ab635a2e952dd32ac16df331342)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/App.xaml.cs) | Ignored | [Details](#64e88e8b30b42be43a9bf5b5c2f2d6a2541603e4343)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054344)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MainPage.xaml) | Ignored | [Details](#2d536719c8a6b9077ae7b26017408ac48138109e345)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MainPage.xaml.cs) | Ignored | [Details](#d40154991097ba71f6989bfa7ff4c3f825c5f075346)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MIDIWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MIDIWin10.csproj) | Ignored | [Details](#0b378d4548be09935dccf72b3a7aae8b3ce34187347)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MIDIWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MIDIWin10_TemporaryKey.pfx) | Ignored | [Details](#d2d2e89be78a3a452957a3aab8655f51ac59552b348)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MyMidiDeviceWatcher.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MyMidiDeviceWatcher.cs) | Ignored | [Details](#2674d3dc035663fc5a57cb78bcebb6d7ce81735b349)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/Package.appxmanifest) | Ignored | [Details](#bffa576f76c8f8f5903db683cab7571debdccb4d350)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/project.json) | Ignored | [Details](#9499c01220fb05f59067bb47299c49c02b689b52351)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/project.lock.json) | Ignored | [Details](#773a52f9e8f512cccd0cfa8c2c29db42ad2b7d56352)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#6e6837274f0254bcc267e09c9d41b2615af2aa8d353)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61354)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/App.xaml) | Ignored | [Details](#ada3a072fff308a6bf0ea5e5a63aa8188e02f028355)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/App.xaml.cs) | Ignored | [Details](#c79097c11226a61edcbfb136f45de5b122489cd0356)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054357)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/MainPage.xaml) | Ignored | [Details](#e54524e039b85100cd4f9c051e225e98b51bdaf0358)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/MainPage.xaml.cs) | Ignored | [Details](#346fd921a394d37afb8c5bf94e854ba5af48402a359)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/Package.appxmanifest) | Ignored | [Details](#cf3d55c1d2136c65bf86b0fbad56aa2b0dfb1c68360)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/project.json) | Ignored | [Details](#9499c01220fb05f59067bb47299c49c02b689b52361)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/project.lock.json) | Ignored | [Details](#773a52f9e8f512cccd0cfa8c2c29db42ad2b7d56362)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#0591bde16edb6bf37b437b2c3109d92d8293ebb9363)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61364)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\ScreenCaptureWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/ScreenCaptureWin10.csproj) | Ignored | [Details](#5ef03982c85da143d16453077a89b2d96f6e92e7365)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\ScreenCaptureWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/ScreenCaptureWin10_TemporaryKey.pfx) | Ignored | [Details](#7abded697792c6431cdb87cb9ed6a77cd0af4f51366)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/App.xaml) | Ignored | [Details](#d411cceaaea4d27322210cd2658fdeb57ffde478367)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/App.xaml.cs) | Ignored | [Details](#f085ce04d7750ea9f3d59578736561e068799ecf368)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054369)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/MainPage.xaml) | Ignored | [Details](#dbe8b57ccaab4452c3ab0c044e8ba1ce89a79395370)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/MainPage.xaml.cs) | Ignored | [Details](#f26bc93250b75411a5f1494e8efff2303e0b8cde371)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/Package.appxmanifest) | Ignored | [Details](#6bd679a67ae2c21edb7f493088e92b710339d863372)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/project.json) | Ignored | [Details](#3f2ffd09cae94c9dad65f79b98fdcb51082256d2373)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/project.lock.json) | Ignored | [Details](#b5533e96937ca03d7478d1d70015e28091c5885a374)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#5891a6232ac17fc54fcd998bfa2fc928db9fa0b8375)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61376)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\SimpleCameraPreview_Win10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/SimpleCameraPreview_Win10.csproj) | Ignored | [Details](#352f96bba8c96ce9af99eecaf181865a87975ffd377)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\SimpleCameraPreview_Win10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/SimpleCameraPreview_Win10_TemporaryKey.pfx) | Ignored | [Details](#b9d41323081e020232d57dd17d479cb03a4ef5ed378)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/App.xaml) | Ignored | [Details](#740c263a0e4e1d6b05f91434b14eefc45a778daa379)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/App.xaml.cs) | Ignored | [Details](#0abb613e0ff8ff81f3ad415d34c6268c60feb9e1380)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/MainPage.xaml) | Ignored | [Details](#3b40250535dde04301e3620f8b66083ea3d74565381)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/MainPage.xaml.cs) | Ignored | [Details](#9418550008cf8ff58ac9afbf935b01d7caf3c53b382)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/Package.appxmanifest) | Ignored | [Details](#d9ff5e8ff88b575321d269ae14c8e80d9296ad5d383)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#fa70babbe1fd837f4cea30b98e3b412447fe1e71384)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61385)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\SMTCWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/SMTCWin10.csproj) | Ignored | [Details](#9f69634f59ffc34964760c1a7e4edf5cf40569eb386)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\SMTCWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/SMTCWin10_TemporaryKey.pfx) | Ignored | [Details](#11b14842a4646713dd81c92d9ed0d8327d8545ff387)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/App.xaml) | Ignored | [Details](#7277b5714c0737fe75f42b9ad8693d7e9cb8cab5388)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/App.xaml.cs) | Ignored | [Details](#952e05d69dd61b0927d2f04ac37929921261aaf7389)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054390)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/MainPage.xaml) | Ignored | [Details](#c895a36ff22d291222e0493d6287fdb5fcbe1e77391)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/MainPage.xaml.cs) | Ignored | [Details](#61d4f24a6d919c49403b2ee16e6d1dfd85a338c2392)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/Package.appxmanifest) | Ignored | [Details](#48451a4cfe7fa323c3f5392423577220298e5092393)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/project.json) | Ignored | [Details](#924156180a79a17098defdd231a18210e1739e48394)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/project.lock.json) | Ignored | [Details](#6b742ae0bbc939836c8b03e12cdd73229d019e9c395)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#e9a73189b480aebefca5341a4ea4d95d41266b4f396)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61397)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\TranscodingWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/TranscodingWin10.csproj) | Ignored | [Details](#71604c9b468cd64fb1c29ae463da56a09df20ab9398)
- [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\TranscodingWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/TranscodingWin10_TemporaryKey.pfx) | Ignored | [Details](#27d2c4d48067b20f63f60feffda93aef05f10b11399)
- [wdg-cpub-test\ndolci1\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/docfx.json) | Ignored | [Details](#9b3a0c555618a19d66929e3af046a1e703dfad5d484)
- [wdg-cpub-test\ndolci1\get-started\images\js-tut-state-diagram.vsd](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/get-started/images/js-tut-state-diagram.vsd) | Ignored | [Details](#a1040bd929a91376d722c4d655271aa0e6d981bd504)
- [wdg-cpub-test\ndolci1\networking\code\backgroundtransfer\download_quickstart\js\main.js](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/networking/code/backgroundtransfer/download_quickstart/js/main.js) | Ignored | [Details](#639df51fbe4cbdc8364d8a4c17dc7a5e0f40f3d3547)
- [wdg-cpub-test\ndolci1\networking\code\backgroundtransfer\download_quickstartcs\cs\main.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/networking/code/backgroundtransfer/download_quickstartcs/cs/main.cs) | Ignored | [Details](#d2f1964af629846416bee9445f7c564660fd72ff548)
- [wdg-cpub-test\ndolci1\networking\code\backgroundtransfer\download_quickstartcs\cs\main.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/networking/code/backgroundtransfer/download_quickstartcs/cs/main.xaml.cs) | Ignored | [Details](#4d2b2e0b87673696d9c7fcfb48cc309729099f30549)
- [wdg-cpub-test\ndolci1\networking\code\backgroundtransfer\upload_quickstart\js\main.js](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/networking/code/backgroundtransfer/upload_quickstart/js/main.js) | Ignored | [Details](#1af01b63e3a1c6178ab3c6f62ae57ea1b9fdb81e550)
- [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/App.xaml) | Ignored | [Details](#236cce255e2fb88a4730bc835da46f5e2ad88193668)
- [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/App.xaml.cs) | Ignored | [Details](#5fe4b50b0ecd38d9f54650f315434382e60ebf6c669)
- [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\AsyncSnippets.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/AsyncSnippets.csproj) | Ignored | [Details](#06450872e2e7fede582e023139fc3f0acb574892670)
- [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/MainPage.xaml) | Ignored | [Details](#6bfaa5744398733bc3a2e83c3c63868a5b99ae04671)
- [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/MainPage.xaml.cs) | Ignored | [Details](#f7313d3d94cc8671d80fb382873b4e2e3eda22db672)
- [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/Package.appxmanifest) | Ignored | [Details](#e5545019c7e9c2f161a4aa71b8f528564c9f0703673)
- [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/Properties/AssemblyInfo.cs) | Ignored | [Details](#c640bbe205107539bd36ef191fe4851389555d37674)
- [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\metadata\creator.txt](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/metadata/creator.txt) | Ignored | [Details](#b4fb7909aeee49e7608cebf2761746257225f32a675)
- [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/App.xaml) | Ignored | [Details](#f9346c7de440d15fa0cf3ad3ba82a5bec5469bc8676)
- [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\App.xaml.vb](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/App.xaml.vb) | Ignored | [Details](#02cf3a4ca633595e2f811c42f87330f0c3e4d873677)
- [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\Common\StandardStyles.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/Common/StandardStyles.xaml) | Ignored | [Details](#31eaa83bbf34cca201f66a8e6188312bd202cfb3678)
- [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/MainPage.xaml) | Ignored | [Details](#ead0e9b40271589c6011b4c336c9ae75e7ca1eac679)
- [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\MainPage.xaml.vb](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/MainPage.xaml.vb) | Ignored | [Details](#f1d809fa946c6053cfcf57b42734a98b8efed193680)
- [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\My Project\AssemblyInfo.vb](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/My Project/AssemblyInfo.vb) | Ignored | [Details](#9330ad5b077989dcfe92b1055480db8ed7212ee7681)
- [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/Package.appxmanifest) | Ignored | [Details](#86de7932acf1ad56d65ff8b0c68c4e4a4da2e53a682)
- [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\VBAsync.vbproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/VBAsync.vbproj) | Ignored | [Details](#1e9df380bcf03b42e8b6618be85b7686ef61fe7a683)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\common\wedge.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/common/wedge.gif) | Ignored | [Details](#cb4c1f48a6689d260b479437f66a250a5bf5d7fd754)
- [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/docfx.json) | Ignored | [Details](#a57e172cf19fe083f68a6586ff8e77a4b9282e16771)
+ [.gitignore](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/.gitignore) | Ignored | [Details](#803607024514788723dfd07b8fdcf04c806865b70)
+ [.localization-config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/.localization-config) | Ignored | [Details](#e7829cb943a2a380983b71ee8b715350204364541)
+ [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/.openpublishing.build.mdproj) | Ignored | [Details](#39a1ec920f8f95c0152f04241c339463545b9bfe2)
+ [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/.openpublishing.publish.config.json) | Ignored | [Details](#8eecabd3ae8e6ddd6d0e0d1d1a442cd0ad7a75fa3)
+ [HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/HelloWorld.md) | Ignored | [Details](#ee4e5473b0707009cf7b442f48a9340566ddaaa14)
+ [packages.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/packages.config) | Ignored | [Details](#35e64e3675af499b08de0a295cbd0394dce36fbf5)
+ [README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/README.md) | Ignored | [Details](#628ce7b359157a4c8c79d02622d30781cfb9ad896)
+ [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/Tools/NuGet/Nuget.Config) | Ignored | [Details](#37d5a2d0c8a81313cf7e92800e699f2f86a9f9f97)
+ [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/Tools/NuGet/nuget.exe) | Ignored | [Details](#7469c905e04001f8250137d2da57bbc7bec2d3588)
+ [wdg-cpub-test\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/docfx.json) | Ignored | [Details](#ef46e7227eb5de88f180c82961fdc8c6732f6dbf10)
+ [wdg-cpub-test\iawilt\iawilt_test\Ben test](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/iawilt/iawilt_test/Ben test) | Ignored | [Details](#eff8f567d06e11d393836c1fbf24b220fabbd06118)
+ [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/App.xaml) | Ignored | [Details](#ba02637e281399d6f7bd6a5a406d990f6070a3a5156)
+ [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/App.xaml.cs) | Ignored | [Details](#f8d6cc4b4dd300d5e89e1458ffbe42229f6d71ea157)
+ [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\copy_paste.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/copy_paste.csproj) | Ignored | [Details](#29d52f360e978bd3e35dd0f51558c34115df2af4158)
+ [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/MainPage.xaml) | Ignored | [Details](#66b079c5dc3a26a4842d952741f8130b801ca086159)
+ [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/MainPage.xaml.cs) | Ignored | [Details](#b274e4317e841b9496e8d4368978450aab4db554160)
+ [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/Package.appxmanifest) | Ignored | [Details](#374dcde4092c9111bbc27b960bb0f8bb13896b56161)
+ [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#b89975f22736f77845d2198304d4c18a7a813a0e162)
+ [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61163)
+ [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\Service References\Application Insights\ConnectedService.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/Service References/Application Insights/ConnectedService.json) | Ignored | [Details](#e8acf6ee6eca26f01953562e2044bcb7715731ff164)
+ [wdg-cpub-test\ndolci1\app-to-app\code\dev_app_to_app.sln](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/dev_app_to_app.sln) | Ignored | [Details](#da691df4c0ee8e3d16a7877095d1d0cf55c110a6165)
+ [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/App.xaml) | Ignored | [Details](#8888f0c0f1cf738c8c98253aa8a8debf1bca4b7d166)
+ [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/App.xaml.cs) | Ignored | [Details](#892cb52e223f06371df40c5a4a8038ffa7771b2f167)
+ [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\drag_drop.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/drag_drop.csproj) | Ignored | [Details](#d2a1b6fa0e6b3b47a982181b179d11ec042f164d168)
+ [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/MainPage.xaml) | Ignored | [Details](#8e6a931b779e836af9720473a95039b19341a527169)
+ [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/MainPage.xaml.cs) | Ignored | [Details](#801096f071a0286a7f9cd5efb44252646de17b54170)
+ [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/Package.appxmanifest) | Ignored | [Details](#084c9f8e13eceddaa998a9ed1a593685c3e7accd171)
+ [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#dc22d2c5dbc5db5e576ad3a8f356e3031e974a5d172)
+ [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61173)
+ [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\Service References\Application Insights\ConnectedService.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/Service References/Application Insights/ConnectedService.json) | Ignored | [Details](#e8acf6ee6eca26f01953562e2044bcb7715731ff174)
+ [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/App.xaml) | Ignored | [Details](#4902debfe4b5c29da7e34e9d356adbcaf8ca81a3175)
+ [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/App.xaml.cs) | Ignored | [Details](#ef234cb48b253e588b3c2d12ead0db76bb4e5472176)
+ [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/MainPage.xaml) | Ignored | [Details](#405c3dcc9121bbd626a81b73c161582fa29660d8177)
+ [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/MainPage.xaml.cs) | Ignored | [Details](#9ae990501365a0f64cf2271e5d1781e9def4f716178)
+ [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/Package.appxmanifest) | Ignored | [Details](#e58660b51ce6499374d7939b809f5ab2c299c6cd179)
+ [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#6b99da4ccee74b98a4990e5f41faaa0ad5fe570b180)
+ [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61181)
+ [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\receive_data.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/receive_data.csproj) | Ignored | [Details](#45ad3c457e07a180692162d884343e0512690c78182)
+ [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/App.xaml) | Ignored | [Details](#b3d56a57f0165737c22829e57542f7b00f20f9ba183)
+ [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/App.xaml.cs) | Ignored | [Details](#434910d21f6d623d86e619fe7934f09a31421b4c184)
+ [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/MainPage.xaml) | Ignored | [Details](#cf8c3db78c30f396f42bf2923beef012cf671c24185)
+ [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/MainPage.xaml.cs) | Ignored | [Details](#54bbea98c12c68dc6cf43656ef49c1d1483f91ed186)
+ [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/Package.appxmanifest) | Ignored | [Details](#1dfccf070af0db23146fc60070fb1751dc72f55a187)
+ [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#6509d2be8c78cafd4f82b04e238c773241984f1c188)
+ [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61189)
+ [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\Service References\Application Insights\ConnectedService.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/Service References/Application Insights/ConnectedService.json) | Ignored | [Details](#e8acf6ee6eca26f01953562e2044bcb7715731ff190)
+ [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\share_data.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/share_data.csproj) | Ignored | [Details](#7e2b176f3b465e52ba13a98205122df2b229c9e7191)
+ [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\ShareData.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/ShareData.csproj) | Ignored | [Details](#7e2b176f3b465e52ba13a98205122df2b229c9e7192)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\AdaptiveStreaming_Win10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/AdaptiveStreaming_Win10.csproj) | Ignored | [Details](#647998f2cbe371609f9b048d330be179c6e12223209)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\AdaptiveStreaming_Win10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/AdaptiveStreaming_Win10_TemporaryKey.pfx) | Ignored | [Details](#6374917e25617bff6d0fa851dcfe682643cd3386210)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/App.xaml) | Ignored | [Details](#3563d9d7ec304df39b67ac3e8e19f914aa9b46f5211)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/App.xaml.cs) | Ignored | [Details](#391c967f4b3e230866302d01ba350c262c481843212)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/MainPage.xaml) | Ignored | [Details](#3df910f701986f731f54630b473cdeaa53ad9d85213)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/MainPage.xaml.cs) | Ignored | [Details](#37785f29b825c64b4274f902f9a89fbf0ebe6c21214)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/Package.appxmanifest) | Ignored | [Details](#eae0c7850bd2b9e34e80773bc00174f73eca3bab215)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/project.json) | Ignored | [Details](#3f2ffd09cae94c9dad65f79b98fdcb51082256d2216)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/project.lock.json) | Ignored | [Details](#b5533e96937ca03d7478d1d70015e28091c5885a217)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#64136461c9164397cbf7945410eb227cb063de3d218)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61219)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/App.xaml) | Ignored | [Details](#4c13eb9250c5aa3fd202acd5b49ba41715b3ca0f220)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/App.xaml.cs) | Ignored | [Details](#739f2cc146ee246c1dbe84c3dafcc72ddd349890221)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/ApplicationInsights.config) | Ignored | [Details](#c02b1926267f8c158ea5516b433cd5b9469f1142222)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\AudioGraphSnippets.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/AudioGraphSnippets.csproj) | Ignored | [Details](#9e190a521d549c9ea4d056dfc45e723ef819cd4a223)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\AudioGraphSnippets_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/AudioGraphSnippets_TemporaryKey.pfx) | Ignored | [Details](#c1d0be25959be39c2246db8204306408cc524658224)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/MainPage.xaml) | Ignored | [Details](#f07af6a58f1e1eb35de06951e07d5458cf8a8728225)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/MainPage.xaml.cs) | Ignored | [Details](#74ec00464516315d9ad8c7403128c5eb43708698226)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/Package.appxmanifest) | Ignored | [Details](#0ce83776f05b7dc3d466b76803f94ef55d47e91f227)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#e8f8e7e91e8ea12323df2ce5d8f45496b9fbbb79228)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61229)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/App.xaml) | Ignored | [Details](#cac355412cce448cb9a78fb369606992bb3291db230)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/App.xaml.cs) | Ignored | [Details](#f05fdd2d1a51441766f998b9a7da5d8af6ece3a4231)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054232)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\BasicCameraWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/BasicCameraWin10.csproj) | Ignored | [Details](#e63b6333eb0dbfc4d4ed002a5d4bcf1ba048f2f4233)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\BasicCameraWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/BasicCameraWin10_TemporaryKey.pfx) | Ignored | [Details](#fbf55d8df0f8ee4ad327d02804885d647edbcb12234)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\MainPage.ManualControls.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs) | Ignored | [Details](#61e192d9be0a877c60544e08acf8317c634bda0d235)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/MainPage.xaml) | Ignored | [Details](#35747b3c2f7bbd05a9e507889f0efebc1097dae6236)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/MainPage.xaml.cs) | Ignored | [Details](#3356f86c7ab7baeeeab1776a8926172344660509237)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/Package.appxmanifest) | Ignored | [Details](#f21c3bfcdd12afad44920c842090a0f94e7d7d3d238)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/project.json) | Ignored | [Details](#3f2ffd09cae94c9dad65f79b98fdcb51082256d2239)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/project.lock.json) | Ignored | [Details](#b5533e96937ca03d7478d1d70015e28091c5885a240)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/properties/AssemblyInfo.cs) | Ignored | [Details](#db56e6fb0fbac76864995782124a4f00c910214e241)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61242)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\Service References\Application Insights\ConnectedService.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/Service References/Application Insights/ConnectedService.json) | Ignored | [Details](#e8acf6ee6eca26f01953562e2044bcb7715731ff243)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\StreamPropertiesHelper.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/StreamPropertiesHelper.cs) | Ignored | [Details](#4c29d0d8b85fb626ae9e408c57f2cef31884d2dc244)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/App.xaml) | Ignored | [Details](#571d3c2d119f4092eb7109ec60ef085c52c0dc7d245)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/App.xaml.cs) | Ignored | [Details](#be7b7ca27dfe6730fff3c05a9f806128b8d35943246)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054247)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\CameraCaptureUIWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/CameraCaptureUIWin10.csproj) | Ignored | [Details](#b0155dff08b5ce6df4defa507821f0f55ae4c485248)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\CameraCaptureUIWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/CameraCaptureUIWin10_TemporaryKey.pfx) | Ignored | [Details](#748f76ba029567a78eabba0c5f80f6db9b417979249)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/MainPage.xaml) | Ignored | [Details](#8ff16ce0f6c6fe5087ab38c3c654940d9a383bc7250)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/MainPage.xaml.cs) | Ignored | [Details](#5926705974e05ffa630780b5436227e3555606f9251)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/Package.appxmanifest) | Ignored | [Details](#761505676524cb84aede29b1d7b2d57d23b0289c252)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/project.json) | Ignored | [Details](#924156180a79a17098defdd231a18210e1739e48253)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/project.lock.json) | Ignored | [Details](#6b742ae0bbc939836c8b03e12cdd73229d019e9c254)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#5a61a94f787f33a4f3b6e3022e1dbc9a8cf3e440255)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61256)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/App.xaml) | Ignored | [Details](#47ed7da0f88cd65d43bb39060641450d34bbb0fb257)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/App.xaml.cs) | Ignored | [Details](#7db448c49dacb4ca1aed9eb6052d684a4b1ff870258)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054259)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\FaceDetection_Win10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/FaceDetection_Win10.csproj) | Ignored | [Details](#d3bb5a3d916dfd99aaca4a8e08587eb56507254a260)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\FaceDetection_Win10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/FaceDetection_Win10_TemporaryKey.pfx) | Ignored | [Details](#dd2a43f083febead2981520d0eb86aead843c6b4261)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/MainPage.xaml) | Ignored | [Details](#1e0487671eb3c6c242d101c86a4a09da74745f23262)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/MainPage.xaml.cs) | Ignored | [Details](#1c3050a9b5e08fb0c8234f95dd04930cc8c54458263)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/Package.appxmanifest) | Ignored | [Details](#dc6a23237048070c3b6c6faf9b8161ead2422b20264)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/project.json) | Ignored | [Details](#3f2ffd09cae94c9dad65f79b98fdcb51082256d2265)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/project.lock.json) | Ignored | [Details](#b5533e96937ca03d7478d1d70015e28091c5885a266)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#25d8338b61f4c8056c89b0882a9462c2d2030edd267)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61268)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/App.xaml) | Ignored | [Details](#ba1794db68cb6df43050d6ec545400eeda4098b8269)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/App.xaml.cs) | Ignored | [Details](#f004feeb63c439c6472c0407c8b0b8da29f188db270)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054271)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\ImagingWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/ImagingWin10.csproj) | Ignored | [Details](#689f532ed088a4b802085c33559c4a4a8587ae1d272)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\ImagingWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/ImagingWin10_TemporaryKey.pfx) | Ignored | [Details](#f3b52bac1e351ce187c09114ca318dd4b7db6309273)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/MainPage.xaml) | Ignored | [Details](#b5385a98795bc79361cc12bbd35a73b9072e4cb7274)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/MainPage.xaml.cs) | Ignored | [Details](#5384eef47bc2c6529a6b7e55c1e68dc9e5701197275)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/Package.appxmanifest) | Ignored | [Details](#656c37552bcd3450e4ac2f383627639b082e5f50276)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/project.json) | Ignored | [Details](#3f2ffd09cae94c9dad65f79b98fdcb51082256d2277)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/project.lock.json) | Ignored | [Details](#b5533e96937ca03d7478d1d70015e28091c5885a278)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#1369e6426d242c76d376860386b449470bef0651279)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61280)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/App.xaml) | Ignored | [Details](#5c1ad5648d76f28a1488dfd4e76178501ad2b1a5281)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/App.xaml.cs) | Ignored | [Details](#935ac6d6802fdbfc3078d1fb8f31fd16819e9e5f282)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\LampSnippets.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/LampSnippets.csproj) | Ignored | [Details](#04e1fee9662240e7ddf03ac03eaa164ded79aa7b283)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\LampSnippets_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/LampSnippets_TemporaryKey.pfx) | Ignored | [Details](#ec289ade03a51315a6ffb5954963fe5f979fc19b284)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/MainPage.xaml) | Ignored | [Details](#64adcc7ee0a167ba63a90cd79e516b5bd995ef32285)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/MainPage.xaml.cs) | Ignored | [Details](#ffcb6497cabd6bb6c304a09a982cfc3f61c4d282286)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/Package.appxmanifest) | Ignored | [Details](#d12a91093824bf76d587b321fb1ac2eb2f69aa4a287)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#66ac825bf2c45f17045738923a77aeb6fe6c5f93288)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61289)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/App.xaml) | Ignored | [Details](#e040ae44b79bdb16337594aad683fa2d314fd5ac290)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/App.xaml.cs) | Ignored | [Details](#e800584c97818152a6dde1f508e370409144fd7c291)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054292)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/MainPage.xaml) | Ignored | [Details](#6c96ededb0b7a453806299f2accbd28fbd34ad5c293)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/MainPage.xaml.cs) | Ignored | [Details](#c29acb50bf241d85fce0110e619947ecab68994c294)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\MediaCastingWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/MediaCastingWin10.csproj) | Ignored | [Details](#1965c5b2f615acdd9bf3ec2835b5559b39fa062f295)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\MediaCastingWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/MediaCastingWin10_TemporaryKey.pfx) | Ignored | [Details](#8a623ac18311f478255d6ad0e0d552782e5efdbc296)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/Package.appxmanifest) | Ignored | [Details](#4f29c13b466c8674aa816cf6547ec763dc63bb73297)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/project.json) | Ignored | [Details](#9499c01220fb05f59067bb47299c49c02b689b52298)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/project.lock.json) | Ignored | [Details](#773a52f9e8f512cccd0cfa8c2c29db42ad2b7d56299)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#d251c34b7d1b5b6ec63d11f1bf4b959076eecdb9300)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61301)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/App.xaml) | Ignored | [Details](#8a574cbc5e88a4880ab0981cf60d7d2b8de6aa8e302)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/App.xaml.cs) | Ignored | [Details](#5ff1c2284bd506c2cd24e99fbcf018b515997c23303)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/ApplicationInsights.config) | Ignored | [Details](#c02b1926267f8c158ea5516b433cd5b9469f1142304)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/MainPage.xaml) | Ignored | [Details](#33b721dcb76068a5298aba3889e0198fc9a21866305)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/MainPage.xaml.cs) | Ignored | [Details](#32a3690296939ce9e894b69e9bb3161a975b89a4306)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\MediaEditingSnippets.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/MediaEditingSnippets.csproj) | Ignored | [Details](#1468ccccca37e4be9ba5da8e469d0c6778bfc504307)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\MediaEditingSnippets_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/MediaEditingSnippets_TemporaryKey.pfx) | Ignored | [Details](#73635b95cab7f5a62dc8c42e156167f51292298c308)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/Package.appxmanifest) | Ignored | [Details](#2bc9055d3b2b570da7ae90136efd84ca9d5e0f9b309)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#b9a4a9ff7d78177a5469345c6b3fea25bfb01a50310)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61311)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\MediaProcessingBackgroundTask.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/MediaProcessingBackgroundTask.csproj) | Ignored | [Details](#3c88d67c3e4e68161f646d9a7891d5fa10148da8312)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\MediaProcessingTask.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/MediaProcessingTask.cs) | Ignored | [Details](#41e12ba857f700bfd74860cd3783d736b8fef327313)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/project.json) | Ignored | [Details](#2e018f21736dc76c403d2fb379820513929eb383314)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/project.lock.json) | Ignored | [Details](#ce86d7ce2695aff1058e72c1e8ce4226d015ee0e315)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/Properties/AssemblyInfo.cs) | Ignored | [Details](#50048fdbfff75ca57ba7000495e5587a22457426316)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10.sln](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10.sln) | Ignored | [Details](#ba93441f0d0fdd06a83396fc904b67632ac8154e317)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/App.xaml) | Ignored | [Details](#f8930ab2c47b9c0ba605d6ebc9fade2be496fd23318)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/App.xaml.cs) | Ignored | [Details](#25839fea8b4969efcbced8aabceb87fdd5d847b3319)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054320)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/MainPage.xaml) | Ignored | [Details](#2c2cb91fb777fceb5c9204be08a01ff782344847321)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/MainPage.xaml.cs) | Ignored | [Details](#d9bb44e6273715a80fd16f35cd1bd80d3eb25788322)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\MediaProcessingTriggerWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/MediaProcessingTriggerWin10.csproj) | Ignored | [Details](#e75a112a53cadc66afb68bca52fb318d547a2a8f323)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\MediaProcessingTriggerWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/MediaProcessingTriggerWin10_TemporaryKey.pfx) | Ignored | [Details](#78473a00ee102bd99facc030e92b56a0aef44029324)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/Package.appxmanifest) | Ignored | [Details](#b101ebc50baa8712c25810adba387a6d8e98569a325)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/project.json) | Ignored | [Details](#924156180a79a17098defdd231a18210e1739e48326)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/project.lock.json) | Ignored | [Details](#6b742ae0bbc939836c8b03e12cdd73229d019e9c327)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/Properties/AssemblyInfo.cs) | Ignored | [Details](#277071415012a656db55938f9b040495319aa9dd328)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61329)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/App.xaml) | Ignored | [Details](#8b5230efcaf5f92a0337e2c2e1522e29f45ac062330)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/App.xaml.cs) | Ignored | [Details](#5a6150c7b073a633fca644c36889d196fcda4f3b331)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054332)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/MainPage.xaml) | Ignored | [Details](#d51e6f5e817d9dafcc371aadd93cf94d436577b3333)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/MainPage.xaml.cs) | Ignored | [Details](#87bf04d429e3b7163a60147ad5f7d3676586e191334)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\MediaSource_Win10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/MediaSource_Win10.csproj) | Ignored | [Details](#c4196e86596039e01e4c818462721da44fd8c074335)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\MediaSource_Win10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/MediaSource_Win10_TemporaryKey.pfx) | Ignored | [Details](#df5f73642c76de81dffa3a3b1c330dab64458cce336)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/Package.appxmanifest) | Ignored | [Details](#f4b7e55c20c4a972abcbf25478dd346918b13d21337)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/project.json) | Ignored | [Details](#3f2ffd09cae94c9dad65f79b98fdcb51082256d2338)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/project.lock.json) | Ignored | [Details](#b5533e96937ca03d7478d1d70015e28091c5885a339)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#fa1a2b9d96ac0714dcb9cbc8b8c48685ada1648d340)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61341)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/App.xaml) | Ignored | [Details](#44d870cb82912978ab635a2e952dd32ac16df331342)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/App.xaml.cs) | Ignored | [Details](#64e88e8b30b42be43a9bf5b5c2f2d6a2541603e4343)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054344)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MainPage.xaml) | Ignored | [Details](#2d536719c8a6b9077ae7b26017408ac48138109e345)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MainPage.xaml.cs) | Ignored | [Details](#d40154991097ba71f6989bfa7ff4c3f825c5f075346)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MIDIWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MIDIWin10.csproj) | Ignored | [Details](#0b378d4548be09935dccf72b3a7aae8b3ce34187347)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MIDIWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MIDIWin10_TemporaryKey.pfx) | Ignored | [Details](#d2d2e89be78a3a452957a3aab8655f51ac59552b348)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MyMidiDeviceWatcher.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MyMidiDeviceWatcher.cs) | Ignored | [Details](#2674d3dc035663fc5a57cb78bcebb6d7ce81735b349)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/Package.appxmanifest) | Ignored | [Details](#bffa576f76c8f8f5903db683cab7571debdccb4d350)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/project.json) | Ignored | [Details](#9499c01220fb05f59067bb47299c49c02b689b52351)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/project.lock.json) | Ignored | [Details](#773a52f9e8f512cccd0cfa8c2c29db42ad2b7d56352)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#6e6837274f0254bcc267e09c9d41b2615af2aa8d353)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61354)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/App.xaml) | Ignored | [Details](#ada3a072fff308a6bf0ea5e5a63aa8188e02f028355)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/App.xaml.cs) | Ignored | [Details](#c79097c11226a61edcbfb136f45de5b122489cd0356)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054357)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/MainPage.xaml) | Ignored | [Details](#e54524e039b85100cd4f9c051e225e98b51bdaf0358)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/MainPage.xaml.cs) | Ignored | [Details](#346fd921a394d37afb8c5bf94e854ba5af48402a359)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/Package.appxmanifest) | Ignored | [Details](#cf3d55c1d2136c65bf86b0fbad56aa2b0dfb1c68360)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/project.json) | Ignored | [Details](#9499c01220fb05f59067bb47299c49c02b689b52361)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/project.lock.json) | Ignored | [Details](#773a52f9e8f512cccd0cfa8c2c29db42ad2b7d56362)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#0591bde16edb6bf37b437b2c3109d92d8293ebb9363)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61364)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\ScreenCaptureWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/ScreenCaptureWin10.csproj) | Ignored | [Details](#5ef03982c85da143d16453077a89b2d96f6e92e7365)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\ScreenCaptureWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/ScreenCaptureWin10_TemporaryKey.pfx) | Ignored | [Details](#7abded697792c6431cdb87cb9ed6a77cd0af4f51366)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/App.xaml) | Ignored | [Details](#d411cceaaea4d27322210cd2658fdeb57ffde478367)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/App.xaml.cs) | Ignored | [Details](#f085ce04d7750ea9f3d59578736561e068799ecf368)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054369)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/MainPage.xaml) | Ignored | [Details](#dbe8b57ccaab4452c3ab0c044e8ba1ce89a79395370)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/MainPage.xaml.cs) | Ignored | [Details](#f26bc93250b75411a5f1494e8efff2303e0b8cde371)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/Package.appxmanifest) | Ignored | [Details](#6bd679a67ae2c21edb7f493088e92b710339d863372)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/project.json) | Ignored | [Details](#3f2ffd09cae94c9dad65f79b98fdcb51082256d2373)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/project.lock.json) | Ignored | [Details](#b5533e96937ca03d7478d1d70015e28091c5885a374)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#5891a6232ac17fc54fcd998bfa2fc928db9fa0b8375)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61376)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\SimpleCameraPreview_Win10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/SimpleCameraPreview_Win10.csproj) | Ignored | [Details](#352f96bba8c96ce9af99eecaf181865a87975ffd377)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\SimpleCameraPreview_Win10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/SimpleCameraPreview_Win10_TemporaryKey.pfx) | Ignored | [Details](#b9d41323081e020232d57dd17d479cb03a4ef5ed378)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/App.xaml) | Ignored | [Details](#740c263a0e4e1d6b05f91434b14eefc45a778daa379)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/App.xaml.cs) | Ignored | [Details](#0abb613e0ff8ff81f3ad415d34c6268c60feb9e1380)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/MainPage.xaml) | Ignored | [Details](#3b40250535dde04301e3620f8b66083ea3d74565381)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/MainPage.xaml.cs) | Ignored | [Details](#9418550008cf8ff58ac9afbf935b01d7caf3c53b382)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/Package.appxmanifest) | Ignored | [Details](#d9ff5e8ff88b575321d269ae14c8e80d9296ad5d383)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#fa70babbe1fd837f4cea30b98e3b412447fe1e71384)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61385)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\SMTCWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/SMTCWin10.csproj) | Ignored | [Details](#9f69634f59ffc34964760c1a7e4edf5cf40569eb386)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\SMTCWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/SMTCWin10_TemporaryKey.pfx) | Ignored | [Details](#11b14842a4646713dd81c92d9ed0d8327d8545ff387)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/App.xaml) | Ignored | [Details](#7277b5714c0737fe75f42b9ad8693d7e9cb8cab5388)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/App.xaml.cs) | Ignored | [Details](#952e05d69dd61b0927d2f04ac37929921261aaf7389)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/ApplicationInsights.config) | Ignored | [Details](#cba02b1f3121099b48bbb61ca359c40ba8b92054390)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/MainPage.xaml) | Ignored | [Details](#c895a36ff22d291222e0493d6287fdb5fcbe1e77391)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/MainPage.xaml.cs) | Ignored | [Details](#61d4f24a6d919c49403b2ee16e6d1dfd85a338c2392)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/Package.appxmanifest) | Ignored | [Details](#48451a4cfe7fa323c3f5392423577220298e5092393)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/project.json) | Ignored | [Details](#924156180a79a17098defdd231a18210e1739e48394)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/project.lock.json) | Ignored | [Details](#6b742ae0bbc939836c8b03e12cdd73229d019e9c395)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/Properties/AssemblyInfo.cs) | Ignored | [Details](#e9a73189b480aebefca5341a4ea4d95d41266b4f396)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/Properties/Default.rd.xml) | Ignored | [Details](#ff00d23d226d9c9feca1382327126cc3944e9e61397)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\TranscodingWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/TranscodingWin10.csproj) | Ignored | [Details](#71604c9b468cd64fb1c29ae463da56a09df20ab9398)
+ [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\TranscodingWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/TranscodingWin10_TemporaryKey.pfx) | Ignored | [Details](#27d2c4d48067b20f63f60feffda93aef05f10b11399)
+ [wdg-cpub-test\ndolci1\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/docfx.json) | Ignored | [Details](#9b3a0c555618a19d66929e3af046a1e703dfad5d484)
+ [wdg-cpub-test\ndolci1\get-started\images\js-tut-state-diagram.vsd](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/get-started/images/js-tut-state-diagram.vsd) | Ignored | [Details](#a1040bd929a91376d722c4d655271aa0e6d981bd504)
+ [wdg-cpub-test\ndolci1\networking\code\backgroundtransfer\download_quickstart\js\main.js](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/networking/code/backgroundtransfer/download_quickstart/js/main.js) | Ignored | [Details](#639df51fbe4cbdc8364d8a4c17dc7a5e0f40f3d3547)
+ [wdg-cpub-test\ndolci1\networking\code\backgroundtransfer\download_quickstartcs\cs\main.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/networking/code/backgroundtransfer/download_quickstartcs/cs/main.cs) | Ignored | [Details](#d2f1964af629846416bee9445f7c564660fd72ff548)
+ [wdg-cpub-test\ndolci1\networking\code\backgroundtransfer\download_quickstartcs\cs\main.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/networking/code/backgroundtransfer/download_quickstartcs/cs/main.xaml.cs) | Ignored | [Details](#4d2b2e0b87673696d9c7fcfb48cc309729099f30549)
+ [wdg-cpub-test\ndolci1\networking\code\backgroundtransfer\upload_quickstart\js\main.js](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/networking/code/backgroundtransfer/upload_quickstart/js/main.js) | Ignored | [Details](#1af01b63e3a1c6178ab3c6f62ae57ea1b9fdb81e550)
+ [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/App.xaml) | Ignored | [Details](#236cce255e2fb88a4730bc835da46f5e2ad88193668)
+ [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/App.xaml.cs) | Ignored | [Details](#5fe4b50b0ecd38d9f54650f315434382e60ebf6c669)
+ [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\AsyncSnippets.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/AsyncSnippets.csproj) | Ignored | [Details](#06450872e2e7fede582e023139fc3f0acb574892670)
+ [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/MainPage.xaml) | Ignored | [Details](#6bfaa5744398733bc3a2e83c3c63868a5b99ae04671)
+ [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/MainPage.xaml.cs) | Ignored | [Details](#f7313d3d94cc8671d80fb382873b4e2e3eda22db672)
+ [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/Package.appxmanifest) | Ignored | [Details](#e5545019c7e9c2f161a4aa71b8f528564c9f0703673)
+ [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/Properties/AssemblyInfo.cs) | Ignored | [Details](#c640bbe205107539bd36ef191fe4851389555d37674)
+ [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\metadata\creator.txt](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/metadata/creator.txt) | Ignored | [Details](#b4fb7909aeee49e7608cebf2761746257225f32a675)
+ [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/App.xaml) | Ignored | [Details](#f9346c7de440d15fa0cf3ad3ba82a5bec5469bc8676)
+ [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\App.xaml.vb](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/App.xaml.vb) | Ignored | [Details](#02cf3a4ca633595e2f811c42f87330f0c3e4d873677)
+ [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\Common\StandardStyles.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/Common/StandardStyles.xaml) | Ignored | [Details](#31eaa83bbf34cca201f66a8e6188312bd202cfb3678)
+ [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/MainPage.xaml) | Ignored | [Details](#ead0e9b40271589c6011b4c336c9ae75e7ca1eac679)
+ [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\MainPage.xaml.vb](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/MainPage.xaml.vb) | Ignored | [Details](#f1d809fa946c6053cfcf57b42734a98b8efed193680)
+ [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\My Project\AssemblyInfo.vb](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/My Project/AssemblyInfo.vb) | Ignored | [Details](#9330ad5b077989dcfe92b1055480db8ed7212ee7681)
+ [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/Package.appxmanifest) | Ignored | [Details](#86de7932acf1ad56d65ff8b0c68c4e4a4da2e53a682)
+ [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\VBAsync.vbproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/VBAsync.vbproj) | Ignored | [Details](#1e9df380bcf03b42e8b6618be85b7686ef61fe7a683)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\common\wedge.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/common/wedge.gif) | Ignored | [Details](#cb4c1f48a6689d260b479437f66a250a5bf5d7fd754)
+ [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/docfx.json) | Ignored | [Details](#a57e172cf19fe083f68a6586ff8e77a4b9282e16771)
 
 ## Item Details
-##### <a name='803607024514788723dfd07b8fdcf04c806865b70'></a> Source: [.gitignore](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/.gitignore)
+##### <a name='803607024514788723dfd07b8fdcf04c806865b70'></a> Source: [.gitignore](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/.gitignore)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -871,7 +871,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e7829cb943a2a380983b71ee8b715350204364541'></a> Source: [.localization-config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/.localization-config)
+##### <a name='e7829cb943a2a380983b71ee8b715350204364541'></a> Source: [.localization-config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/.localization-config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -883,7 +883,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='39a1ec920f8f95c0152f04241c339463545b9bfe2'></a> Source: [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/.openpublishing.build.mdproj)
+##### <a name='39a1ec920f8f95c0152f04241c339463545b9bfe2'></a> Source: [.openpublishing.build.mdproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/.openpublishing.build.mdproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -895,7 +895,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8eecabd3ae8e6ddd6d0e0d1d1a442cd0ad7a75fa3'></a> Source: [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/.openpublishing.publish.config.json)
+##### <a name='8eecabd3ae8e6ddd6d0e0d1d1a442cd0ad7a75fa3'></a> Source: [.openpublishing.publish.config.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/.openpublishing.publish.config.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -907,7 +907,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ee4e5473b0707009cf7b442f48a9340566ddaaa14'></a> Source: [HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/HelloWorld.md)
+##### <a name='ee4e5473b0707009cf7b442f48a9340566ddaaa14'></a> Source: [HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/HelloWorld.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -919,7 +919,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='35e64e3675af499b08de0a295cbd0394dce36fbf5'></a> Source: [packages.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/packages.config)
+##### <a name='35e64e3675af499b08de0a295cbd0394dce36fbf5'></a> Source: [packages.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/packages.config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -931,7 +931,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='628ce7b359157a4c8c79d02622d30781cfb9ad896'></a> Source: [README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/README.md)
+##### <a name='628ce7b359157a4c8c79d02622d30781cfb9ad896'></a> Source: [README.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/README.md)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -943,7 +943,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='37d5a2d0c8a81313cf7e92800e699f2f86a9f9f97'></a> Source: [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/Tools/NuGet/Nuget.Config)
+##### <a name='37d5a2d0c8a81313cf7e92800e699f2f86a9f9f97'></a> Source: [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/Tools/NuGet/Nuget.Config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -955,7 +955,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='7469c905e04001f8250137d2da57bbc7bec2d3588'></a> Source: [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/Tools/NuGet/nuget.exe)
+##### <a name='7469c905e04001f8250137d2da57bbc7bec2d3588'></a> Source: [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/Tools/NuGet/nuget.exe)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -980,7 +980,7 @@
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#3c246d6c393687dbeff05e58303c204713ba80a49handback_type_is_mismatch_with_handoff_type)
 * [Back to Top](#report-top)
 
-##### <a name='ef46e7227eb5de88f180c82961fdc8c6732f6dbf10'></a> Source: [wdg-cpub-test\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/docfx.json)
+##### <a name='ef46e7227eb5de88f180c82961fdc8c6732f6dbf10'></a> Source: [wdg-cpub-test\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/docfx.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1075,19 +1075,19 @@
 * Dependency From: wdg-cpub-test\domars\Directions_To_Update_Existing_Topic_Using_Browser.md
 * [Back to Top](#report-top)
 
-##### <a name='7fe04f6758778a76bbcc265aa17b24479848146717'></a> Source: [wdg-cpub-test\get-app-acquisitions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/get-app-acquisitions.md)
-* Status: Ignored
+##### <a name='7fe04f6758778a76bbcc265aa17b24479848146717'></a> Source: [wdg-cpub-test\get-app-acquisitions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/get-app-acquisitions.md)
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 0001-01-01 00:00:00
-* Handoff Reason: Ignored
+* Handoff File: [get-app-acquisitions.2c261632474f731870e246e617ee9e9ab23ae2e8.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/get-app-acquisitions.2c261632474f731870e246e617ee9e9ab23ae2e8.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
+* Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='eff8f567d06e11d393836c1fbf24b220fabbd06118'></a> Source: [wdg-cpub-test\iawilt\iawilt_test\Ben test](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/iawilt/iawilt_test/Ben test)
+##### <a name='eff8f567d06e11d393836c1fbf24b220fabbd06118'></a> Source: [wdg-cpub-test\iawilt\iawilt_test\Ben test](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/iawilt/iawilt_test/Ben test)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -1232,7 +1232,7 @@
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855628handback_type_is_mismatch_with_handoff_type)
 * [Back to Top](#report-top)
 
-##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d7855629'></a> Source: [wdg-cpub-test\joshbax\HelloWorld2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/joshbax/HelloWorld2.md)
+##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d7855629'></a> Source: [wdg-cpub-test\joshbax\HelloWorld2.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/joshbax/HelloWorld2.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\joshbax\HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.zh-cn/blob/57c2a487cc383b9894034c892857a39a8ea05f06/wdg-cpub-test/joshbax/HelloWorld.md)
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ad151402d4fd7fd107a40bc5c8a3885816899282/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.zh-cn.xlf)
@@ -1245,7 +1245,7 @@
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855629handback_type_is_mismatch_with_handoff_type)
 * [Back to Top](#report-top)
 
-##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d7855630'></a> Source: [wdg-cpub-test\joshbax\HelloWorld3.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/joshbax/HelloWorld3.md)
+##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d7855630'></a> Source: [wdg-cpub-test\joshbax\HelloWorld3.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/joshbax/HelloWorld3.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\joshbax\HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.zh-cn/blob/57c2a487cc383b9894034c892857a39a8ea05f06/wdg-cpub-test/joshbax/HelloWorld.md)
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ad151402d4fd7fd107a40bc5c8a3885816899282/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.zh-cn.xlf)
@@ -1258,7 +1258,7 @@
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855630handback_type_is_mismatch_with_handoff_type)
 * [Back to Top](#report-top)
 
-##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d7855631'></a> Source: [wdg-cpub-test\joshbax\HelloWorld4.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/joshbax/HelloWorld4.md)
+##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d7855631'></a> Source: [wdg-cpub-test\joshbax\HelloWorld4.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/joshbax/HelloWorld4.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\joshbax\HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.zh-cn/blob/57c2a487cc383b9894034c892857a39a8ea05f06/wdg-cpub-test/joshbax/HelloWorld.md)
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ad151402d4fd7fd107a40bc5c8a3885816899282/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.zh-cn.xlf)
@@ -1271,7 +1271,7 @@
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#349ce1064b5a40ff1b65f37fbf8d7fc136d7855631handback_type_is_mismatch_with_handoff_type)
 * [Back to Top](#report-top)
 
-##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d7855632'></a> Source: [wdg-cpub-test\joshbax\HelloWorld5.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/joshbax/HelloWorld5.md)
+##### <a name='349ce1064b5a40ff1b65f37fbf8d7fc136d7855632'></a> Source: [wdg-cpub-test\joshbax\HelloWorld5.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/joshbax/HelloWorld5.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\joshbax\HelloWorld.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.zh-cn/blob/57c2a487cc383b9894034c892857a39a8ea05f06/wdg-cpub-test/joshbax/HelloWorld.md)
 * Handoff File: [HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/ad151402d4fd7fd107a40bc5c8a3885816899282/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/HelloWorld.7aaa496756fe8c6b3dcd6becf9a46bec0b205822.zh-cn.xlf)
@@ -1417,11 +1417,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='737b2a64d7a96bc90c19a10d4e754e2c2f075b9843'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\beta-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/beta-testing.md)
+##### <a name='737b2a64d7a96bc90c19a10d4e754e2c2f075b9843'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\beta-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/beta-testing.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [beta-testing.4d0f92a23e8012f4c602f7bd041e438c8138202e.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/beta-testing.4d0f92a23e8012f4c602f7bd041e438c8138202e.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [beta-testing.4d0f92a23e8012f4c602f7bd041e438c8138202e.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/beta-testing.4d0f92a23e8012f4c602f7bd041e438c8138202e.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1453,11 +1453,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='de64362d21f090b76586193191ed6df624521fd046'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\debug-device-target-list.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/debug-device-target-list.png)
+##### <a name='de64362d21f090b76586193191ed6df624521fd046'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\debug-device-target-list.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/debug-device-target-list.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [de64362d21f090b76586193191ed6df624521fd0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/de64362d21f090b76586193191ed6df624521fd0.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [de64362d21f090b76586193191ed6df624521fd0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/de64362d21f090b76586193191ed6df624521fd0.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1466,11 +1466,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\deploying-and-debugging-uwp-apps.md
 * [Back to Top](#report-top)
 
-##### <a name='be67298c637f11a63d6f7973c658b7d7258fbc9647'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\debug-property-pages.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/debug-property-pages.png)
+##### <a name='be67298c637f11a63d6f7973c658b7d7258fbc9647'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\debug-property-pages.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/debug-property-pages.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [be67298c637f11a63d6f7973c658b7d7258fbc96.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/be67298c637f11a63d6f7973c658b7d7258fbc96.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [be67298c637f11a63d6f7973c658b7d7258fbc96.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/be67298c637f11a63d6f7973c658b7d7258fbc96.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1479,11 +1479,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\deploying-and-debugging-uwp-apps.md
 * [Back to Top](#report-top)
 
-##### <a name='3c13afd3c3794a7173390bb719c152d2be9ae62248'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\debug-remote-connections.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/debug-remote-connections.png)
+##### <a name='3c13afd3c3794a7173390bb719c152d2be9ae62248'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\debug-remote-connections.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/debug-remote-connections.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [3c13afd3c3794a7173390bb719c152d2be9ae622.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/3c13afd3c3794a7173390bb719c152d2be9ae622.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [3c13afd3c3794a7173390bb719c152d2be9ae622.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/3c13afd3c3794a7173390bb719c152d2be9ae622.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1492,11 +1492,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\deploying-and-debugging-uwp-apps.md
 * [Back to Top](#report-top)
 
-##### <a name='b57f6bfba888a9cb57bfc2242b3c6d9b65867b5249'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\debug-remote-machine-config.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/debug-remote-machine-config.png)
+##### <a name='b57f6bfba888a9cb57bfc2242b3c6d9b65867b5249'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\debug-remote-machine-config.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/debug-remote-machine-config.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [b57f6bfba888a9cb57bfc2242b3c6d9b65867b52.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/b57f6bfba888a9cb57bfc2242b3c6d9b65867b52.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [b57f6bfba888a9cb57bfc2242b3c6d9b65867b52.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/b57f6bfba888a9cb57bfc2242b3c6d9b65867b52.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1505,11 +1505,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\deploying-and-debugging-uwp-apps.md
 * [Back to Top](#report-top)
 
-##### <a name='3b5af7218d84235781ffc7e51764f154365f4ec750'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-accelerometer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/em-accelerometer.png)
+##### <a name='3b5af7218d84235781ffc7e51764f154365f4ec750'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-accelerometer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/em-accelerometer.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [3b5af7218d84235781ffc7e51764f154365f4ec7.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/3b5af7218d84235781ffc7e51764f154365f4ec7.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [3b5af7218d84235781ffc7e51764f154365f4ec7.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/3b5af7218d84235781ffc7e51764f154365f4ec7.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1518,11 +1518,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
-##### <a name='2ac42acfeb68e181714b37fd7d6675f8484fc29451'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-drive.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/em-drive.png)
+##### <a name='2ac42acfeb68e181714b37fd7d6675f8484fc29451'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-drive.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/em-drive.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [2ac42acfeb68e181714b37fd7d6675f8484fc294.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/2ac42acfeb68e181714b37fd7d6675f8484fc294.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [2ac42acfeb68e181714b37fd7d6675f8484fc294.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/2ac42acfeb68e181714b37fd7d6675f8484fc294.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1531,11 +1531,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
-##### <a name='49d5c6b9b25d3dee65e09aeb7726c3695132bc6052'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-frameratecounters.PNG](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/em-frameratecounters.PNG)
+##### <a name='49d5c6b9b25d3dee65e09aeb7726c3695132bc6052'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-frameratecounters.PNG](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/em-frameratecounters.PNG)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [49d5c6b9b25d3dee65e09aeb7726c3695132bc60.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/49d5c6b9b25d3dee65e09aeb7726c3695132bc60.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [49d5c6b9b25d3dee65e09aeb7726c3695132bc60.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/49d5c6b9b25d3dee65e09aeb7726c3695132bc60.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1544,11 +1544,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
-##### <a name='ea673383ad3164af72a73e80425c7e4b0982aa4253'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-list.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/em-list.png)
+##### <a name='ea673383ad3164af72a73e80425c7e4b0982aa4253'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-list.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/em-list.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [ea673383ad3164af72a73e80425c7e4b0982aa42.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/ea673383ad3164af72a73e80425c7e4b0982aa42.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [ea673383ad3164af72a73e80425c7e4b0982aa42.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/ea673383ad3164af72a73e80425c7e4b0982aa42.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1557,11 +1557,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
-##### <a name='8330a2966313c8c81bf3082cccf18cdfd97612c054'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-multipoint.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/em-multipoint.png)
+##### <a name='8330a2966313c8c81bf3082cccf18cdfd97612c054'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-multipoint.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/em-multipoint.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [8330a2966313c8c81bf3082cccf18cdfd97612c0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/8330a2966313c8c81bf3082cccf18cdfd97612c0.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [8330a2966313c8c81bf3082cccf18cdfd97612c0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/8330a2966313c8c81bf3082cccf18cdfd97612c0.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1570,11 +1570,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
-##### <a name='ca8c6bd1bba1a76f7e2fcc4673b055f7768a963155'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-network.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/em-network.png)
+##### <a name='ca8c6bd1bba1a76f7e2fcc4673b055f7768a963155'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-network.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/em-network.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [ca8c6bd1bba1a76f7e2fcc4673b055f7768a9631.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/ca8c6bd1bba1a76f7e2fcc4673b055f7768a9631.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [ca8c6bd1bba1a76f7e2fcc4673b055f7768a9631.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/ca8c6bd1bba1a76f7e2fcc4673b055f7768a9631.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1583,11 +1583,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
-##### <a name='f7abe9d85d0dc10b263ebbe90fe9f3d72a1069a356'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-notifications.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/em-notifications.png)
+##### <a name='f7abe9d85d0dc10b263ebbe90fe9f3d72a1069a356'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-notifications.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/em-notifications.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [f7abe9d85d0dc10b263ebbe90fe9f3d72a1069a3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/f7abe9d85d0dc10b263ebbe90fe9f3d72a1069a3.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [f7abe9d85d0dc10b263ebbe90fe9f3d72a1069a3.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/f7abe9d85d0dc10b263ebbe90fe9f3d72a1069a3.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1596,11 +1596,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
-##### <a name='fbead21ab5fb26b1f04a0cdb0c39770106cbc2f057'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-sdcard.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/em-sdcard.png)
+##### <a name='fbead21ab5fb26b1f04a0cdb0c39770106cbc2f057'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-sdcard.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/em-sdcard.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [fbead21ab5fb26b1f04a0cdb0c39770106cbc2f0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/fbead21ab5fb26b1f04a0cdb0c39770106cbc2f0.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [fbead21ab5fb26b1f04a0cdb0c39770106cbc2f0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/fbead21ab5fb26b1f04a0cdb0c39770106cbc2f0.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1609,11 +1609,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
-##### <a name='8f814bc4fa6eb794dc1d2d21fce479f2093ee76d58'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-sensors.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/em-sensors.png)
+##### <a name='8f814bc4fa6eb794dc1d2d21fce479f2093ee76d58'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\em-sensors.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/em-sensors.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [8f814bc4fa6eb794dc1d2d21fce479f2093ee76d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/8f814bc4fa6eb794dc1d2d21fce479f2093ee76d.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [8f814bc4fa6eb794dc1d2d21fce479f2093ee76d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/8f814bc4fa6eb794dc1d2d21fce479f2093ee76d.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1622,11 +1622,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
-##### <a name='32a52771b9a99c2d29c8b77f37b880bbdbdf612d59'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-nfc-hce.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-nfc-hce.png)
+##### <a name='32a52771b9a99c2d29c8b77f37b880bbdbdf612d59'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-nfc-hce.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-nfc-hce.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [32a52771b9a99c2d29c8b77f37b880bbdbdf612d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/32a52771b9a99c2d29c8b77f37b880bbdbdf612d.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [32a52771b9a99c2d29c8b77f37b880bbdbdf612d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/32a52771b9a99c2d29c8b77f37b880bbdbdf612d.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1635,11 +1635,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
-##### <a name='45ff0e690ec5ac6c1e2db1c789cf558851cdd67260'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-nfc-proximity.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-nfc-proximity.png)
+##### <a name='45ff0e690ec5ac6c1e2db1c789cf558851cdd67260'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-nfc-proximity.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-nfc-proximity.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [45ff0e690ec5ac6c1e2db1c789cf558851cdd672.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/45ff0e690ec5ac6c1e2db1c789cf558851cdd672.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [45ff0e690ec5ac6c1e2db1c789cf558851cdd672.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/45ff0e690ec5ac6c1e2db1c789cf558851cdd672.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1648,11 +1648,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
-##### <a name='fe7567cf0d82bf502aeb102aac071fd560b0d47e61'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-showing-mouse-input-button-bar.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-showing-mouse-input-button-bar.png)
+##### <a name='fe7567cf0d82bf502aeb102aac071fd560b0d47e61'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-showing-mouse-input-button-bar.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-showing-mouse-input-button-bar.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [fe7567cf0d82bf502aeb102aac071fd560b0d47e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/fe7567cf0d82bf502aeb102aac071fd560b0d47e.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [fe7567cf0d82bf502aeb102aac071fd560b0d47e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/fe7567cf0d82bf502aeb102aac071fd560b0d47e.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1661,11 +1661,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
-##### <a name='e273d46684a3fe6d157892b7db4999dce035401c62'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-with-mouse-enabled.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-with-mouse-enabled.png)
+##### <a name='e273d46684a3fe6d157892b7db4999dce035401c62'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\emulator-with-mouse-enabled.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/emulator-with-mouse-enabled.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [e273d46684a3fe6d157892b7db4999dce035401c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/e273d46684a3fe6d157892b7db4999dce035401c.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [e273d46684a3fe6d157892b7db4999dce035401c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/e273d46684a3fe6d157892b7db4999dce035401c.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1674,11 +1674,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\test-with-the-emulator.md
 * [Back to Top](#report-top)
 
-##### <a name='68f2e5c1d62a0d70574037395b80f1d0c70fb43a63'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\interop-transitions.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/interop-transitions.png)
+##### <a name='68f2e5c1d62a0d70574037395b80f1d0c70fb43a63'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\interop-transitions.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/interop-transitions.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [68f2e5c1d62a0d70574037395b80f1d0c70fb43a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/68f2e5c1d62a0d70574037395b80f1d0c70fb43a.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [68f2e5c1d62a0d70574037395b80f1d0c70fb43a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/68f2e5c1d62a0d70574037395b80f1d0c70fb43a.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1687,11 +1687,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\windows-runtime-components-and-optimizing-interop.md
 * [Back to Top](#report-top)
 
-##### <a name='7a21e1ce72a44d286995acbb76a4813054f8753364'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\layout-perf-ex1.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/layout-perf-ex1.png)
+##### <a name='7a21e1ce72a44d286995acbb76a4813054f8753364'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\layout-perf-ex1.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/layout-perf-ex1.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [7a21e1ce72a44d286995acbb76a4813054f87533.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/7a21e1ce72a44d286995acbb76a4813054f87533.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [7a21e1ce72a44d286995acbb76a4813054f87533.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/7a21e1ce72a44d286995acbb76a4813054f87533.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1700,11 +1700,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-your-xaml-layout.md
 * [Back to Top](#report-top)
 
-##### <a name='055fc04e0997c7ab9ee8da2762587fd01d8b949f65'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\layout-perf-ex2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/layout-perf-ex2.png)
+##### <a name='055fc04e0997c7ab9ee8da2762587fd01d8b949f65'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\layout-perf-ex2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/layout-perf-ex2.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [055fc04e0997c7ab9ee8da2762587fd01d8b949f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/055fc04e0997c7ab9ee8da2762587fd01d8b949f.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [055fc04e0997c7ab9ee8da2762587fd01d8b949f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/055fc04e0997c7ab9ee8da2762587fd01d8b949f.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1713,11 +1713,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-your-xaml-layout.md
 * [Back to Top](#report-top)
 
-##### <a name='70174df9d165e4b9845ed2300000bf0dd571890566'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\layout-perf-ex3.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/layout-perf-ex3.png)
+##### <a name='70174df9d165e4b9845ed2300000bf0dd571890566'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\layout-perf-ex3.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/layout-perf-ex3.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [70174df9d165e4b9845ed2300000bf0dd5718905.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/70174df9d165e4b9845ed2300000bf0dd5718905.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [70174df9d165e4b9845ed2300000bf0dd5718905.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/70174df9d165e4b9845ed2300000bf0dd5718905.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1726,11 +1726,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-your-xaml-layout.md
 * [Back to Top](#report-top)
 
-##### <a name='f1edb548dee0c9f192acedc13d7ba31c1bb4728e67'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\live-visual-tree.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/live-visual-tree.png)
+##### <a name='f1edb548dee0c9f192acedc13d7ba31c1bb4728e67'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\live-visual-tree.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/live-visual-tree.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [f1edb548dee0c9f192acedc13d7ba31c1bb4728e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/f1edb548dee0c9f192acedc13d7ba31c1bb4728e.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [f1edb548dee0c9f192acedc13d7ba31c1bb4728e.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/f1edb548dee0c9f192acedc13d7ba31c1bb4728e.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1739,11 +1739,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\best-practices-for-your-app-s-startup-performance.md
 * [Back to Top](#report-top)
 
-##### <a name='b8cb5db84b4f8675c88c6f2a68299770f9f2895b68'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\solidvenn.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/solidvenn.png)
+##### <a name='b8cb5db84b4f8675c88c6f2a68299770f9f2895b68'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\solidvenn.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/solidvenn.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [b8cb5db84b4f8675c88c6f2a68299770f9f2895b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/b8cb5db84b4f8675c88c6f2a68299770f9f2895b.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [b8cb5db84b4f8675c88c6f2a68299770f9f2895b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/b8cb5db84b4f8675c88c6f2a68299770f9f2895b.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1752,11 +1752,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-xaml-loading.md
 * [Back to Top](#report-top)
 
-##### <a name='294384ee98e324679fafb2b71b289a893394c8b969'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\translucentvenn.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/translucentvenn.png)
+##### <a name='294384ee98e324679fafb2b71b289a893394c8b969'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\translucentvenn.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/translucentvenn.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [294384ee98e324679fafb2b71b289a893394c8b9.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/294384ee98e324679fafb2b71b289a893394c8b9.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [294384ee98e324679fafb2b71b289a893394c8b9.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/294384ee98e324679fafb2b71b289a893394c8b9.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1765,11 +1765,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-xaml-loading.md
 * [Back to Top](#report-top)
 
-##### <a name='6d1a9a148c0284c7eb58787e97562dad238d89e870'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\videowithneighbors.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/videowithneighbors.png)
+##### <a name='6d1a9a148c0284c7eb58787e97562dad238d89e870'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\videowithneighbors.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/videowithneighbors.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [6d1a9a148c0284c7eb58787e97562dad238d89e8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/6d1a9a148c0284c7eb58787e97562dad238d89e8.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [6d1a9a148c0284c7eb58787e97562dad238d89e8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/6d1a9a148c0284c7eb58787e97562dad238d89e8.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1778,11 +1778,11 @@
 * Dependency From: wdg-cpub-test\ndolci\debug-test-perf\optimize-animations-and-media.md
 * [Back to Top](#report-top)
 
-##### <a name='37eeaaeaec2acf7ee51ab3cfa7b145faae08388f71'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\videowithoverlay.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/debug-test-perf/images/videowithoverlay.png)
+##### <a name='37eeaaeaec2acf7ee51ab3cfa7b145faae08388f71'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\images\videowithoverlay.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/images/videowithoverlay.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [37eeaaeaec2acf7ee51ab3cfa7b145faae08388f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/37eeaaeaec2acf7ee51ab3cfa7b145faae08388f.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [37eeaaeaec2acf7ee51ab3cfa7b145faae08388f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/37eeaaeaec2acf7ee51ab3cfa7b145faae08388f.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1803,11 +1803,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='61034c9ad90b04e14b6af0cb82151b3dbd833f9c73'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/index.md)
+##### <a name='61034c9ad90b04e14b6af0cb82151b3dbd833f9c73'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/index.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [index.320fa250d18f59b12ad4eede2f1cf9ba6059dab8.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/index.320fa250d18f59b12ad4eede2f1cf9ba6059dab8.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [index.320fa250d18f59b12ad4eede2f1cf9ba6059dab8.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/index.320fa250d18f59b12ad4eede2f1cf9ba6059dab8.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1839,11 +1839,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d7ec7fb242eaddc508823a67716860807c7a2ec376'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\mvvm-performance-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/mvvm-performance-tips.md)
+##### <a name='d7ec7fb242eaddc508823a67716860807c7a2ec376'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\mvvm-performance-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/mvvm-performance-tips.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [mvvm-performance-tips.b913c1d997582cc0e32c17e6ad9034f672202bf5.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/mvvm-performance-tips.b913c1d997582cc0e32c17e6ad9034f672202bf5.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [mvvm-performance-tips.b913c1d997582cc0e32c17e6ad9034f672202bf5.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/mvvm-performance-tips.b913c1d997582cc0e32c17e6ad9034f672202bf5.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1851,11 +1851,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d490d2a7fb51e7008748809bc4822871e4193cca77'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\optimize-animations-and-media.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/optimize-animations-and-media.md)
+##### <a name='d490d2a7fb51e7008748809bc4822871e4193cca77'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\optimize-animations-and-media.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/optimize-animations-and-media.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [optimize-animations-and-media.99026a4fcc661ba5f7414835db426abe88042280.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/optimize-animations-and-media.99026a4fcc661ba5f7414835db426abe88042280.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [optimize-animations-and-media.99026a4fcc661ba5f7414835db426abe88042280.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/optimize-animations-and-media.99026a4fcc661ba5f7414835db426abe88042280.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1875,11 +1875,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='768b7a3560e479b40655006b006142cd81a6fcab79'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\optimize-gridview-and-listview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/optimize-gridview-and-listview.md)
+##### <a name='768b7a3560e479b40655006b006142cd81a6fcab79'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\optimize-gridview-and-listview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/optimize-gridview-and-listview.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [optimize-gridview-and-listview.4ca478d74f6fd489ba30fe5d2ed6b7ffe6d45573.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/optimize-gridview-and-listview.4ca478d74f6fd489ba30fe5d2ed6b7ffe6d45573.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [optimize-gridview-and-listview.4ca478d74f6fd489ba30fe5d2ed6b7ffe6d45573.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/optimize-gridview-and-listview.4ca478d74f6fd489ba30fe5d2ed6b7ffe6d45573.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1899,11 +1899,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8af4044cd67c6200c1095ac0ef5b0d96cc8dfc0881'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\optimize-xaml-loading.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/optimize-xaml-loading.md)
+##### <a name='8af4044cd67c6200c1095ac0ef5b0d96cc8dfc0881'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\optimize-xaml-loading.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/optimize-xaml-loading.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [optimize-xaml-loading.cd7419752f6cf7ef345afe87aebebe0127ca72a2.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/optimize-xaml-loading.cd7419752f6cf7ef345afe87aebebe0127ca72a2.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [optimize-xaml-loading.cd7419752f6cf7ef345afe87aebebe0127ca72a2.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/optimize-xaml-loading.cd7419752f6cf7ef345afe87aebebe0127ca72a2.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1911,11 +1911,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='5aed046a3158e54e637895797b325dde6aec44e882'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\optimize-your-xaml-layout.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/optimize-your-xaml-layout.md)
+##### <a name='5aed046a3158e54e637895797b325dde6aec44e882'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\optimize-your-xaml-layout.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/optimize-your-xaml-layout.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [optimize-your-xaml-layout.d4968c41cefe7f6297508c0572f45d4104b45f0c.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/optimize-your-xaml-layout.d4968c41cefe7f6297508c0572f45d4104b45f0c.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [optimize-your-xaml-layout.d4968c41cefe7f6297508c0572f45d4104b45f0c.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/optimize-your-xaml-layout.d4968c41cefe7f6297508c0572f45d4104b45f0c.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1923,11 +1923,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='214e972e0239ce7feb783fb3447b22e94361cfef83'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\performance-and-xaml-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/performance-and-xaml-ui.md)
+##### <a name='214e972e0239ce7feb783fb3447b22e94361cfef83'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\performance-and-xaml-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/performance-and-xaml-ui.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [performance-and-xaml-ui.2f6eb2a6dca02a80da76b07a4448993c4181c009.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/performance-and-xaml-ui.2f6eb2a6dca02a80da76b07a4448993c4181c009.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [performance-and-xaml-ui.2f6eb2a6dca02a80da76b07a4448993c4181c009.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/performance-and-xaml-ui.2f6eb2a6dca02a80da76b07a4448993c4181c009.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1959,11 +1959,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8f40f64f2e00f88fba1ec94593d27a1b67c781d986'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\tools-for-profiling-and-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/tools-for-profiling-and-performance.md)
+##### <a name='8f40f64f2e00f88fba1ec94593d27a1b67c781d986'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\tools-for-profiling-and-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/tools-for-profiling-and-performance.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [tools-for-profiling-and-performance.c1f225265468b1b2915371f9e5f66288c4b39189.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/tools-for-profiling-and-performance.c1f225265468b1b2915371f9e5f66288c4b39189.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [tools-for-profiling-and-performance.c1f225265468b1b2915371f9e5f66288c4b39189.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/tools-for-profiling-and-performance.c1f225265468b1b2915371f9e5f66288c4b39189.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -1971,11 +1971,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b3aa1ffc57a489f3a54b8c2d0d629889ec67038d88'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\windows-app-certification-kit.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/debug-test-perf/windows-app-certification-kit.md)
+##### <a name='b3aa1ffc57a489f3a54b8c2d0d629889ec67038d88'></a> Source: [wdg-cpub-test\ndolci\debug-test-perf\windows-app-certification-kit.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/debug-test-perf/windows-app-certification-kit.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [windows-app-certification-kit.63d7a11b44646d6a1f9e29e1a26ac93c778a03bb.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/windows-app-certification-kit.63d7a11b44646d6a1f9e29e1a26ac93c778a03bb.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [windows-app-certification-kit.63d7a11b44646d6a1f9e29e1a26ac93c778a03bb.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/windows-app-certification-kit.63d7a11b44646d6a1f9e29e1a26ac93c778a03bb.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2007,11 +2007,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c103e66504ab4b9a3756fac36a8f9d98ca9c9cde90'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\aep-service-class-ids.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/aep-service-class-ids.md)
+##### <a name='c103e66504ab4b9a3756fac36a8f9d98ca9c9cde90'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\aep-service-class-ids.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/aep-service-class-ids.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [aep-service-class-ids.6040b5e55e95d218c5f04f4d50596b503dc8bec7.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/aep-service-class-ids.6040b5e55e95d218c5f04f4d50596b503dc8bec7.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [aep-service-class-ids.6040b5e55e95d218c5f04f4d50596b503dc8bec7.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/aep-service-class-ids.6040b5e55e95d218c5f04f4d50596b503dc8bec7.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2019,11 +2019,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='0b09a8c2db2f5b95c859ebc9fca183664849531791'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\bluetooth.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/bluetooth.md)
+##### <a name='0b09a8c2db2f5b95c859ebc9fca183664849531791'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\bluetooth.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/bluetooth.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [bluetooth.f390e7d55a60ea136658562fb9b7be2d501fb2e1.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/bluetooth.f390e7d55a60ea136658562fb9b7be2d501fb2e1.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [bluetooth.f390e7d55a60ea136658562fb9b7be2d501fb2e1.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/bluetooth.f390e7d55a60ea136658562fb9b7be2d501fb2e1.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2031,11 +2031,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c89f6ce329999b80f1db978fcbecaf26ac6581ac92'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\build-a-device-selector.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/build-a-device-selector.md)
+##### <a name='c89f6ce329999b80f1db978fcbecaf26ac6581ac92'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\build-a-device-selector.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/build-a-device-selector.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [build-a-device-selector.73ca8c5316647711d9a64e3afd0c065b89bbb1d1.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/build-a-device-selector.73ca8c5316647711d9a64e3afd0c065b89bbb1d1.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [build-a-device-selector.73ca8c5316647711d9a64e3afd0c065b89bbb1d1.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/build-a-device-selector.73ca8c5316647711d9a64e3afd0c065b89bbb1d1.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2043,11 +2043,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='0874bb83fa13a28a65cb078f1d7d1cfb5ea5babc93'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\calibrate-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/calibrate-sensors.md)
+##### <a name='0874bb83fa13a28a65cb078f1d7d1cfb5ea5babc93'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\calibrate-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/calibrate-sensors.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [calibrate-sensors.a6cb69b28339df5044c72fa5fc1f2d9c3db6a39f.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/calibrate-sensors.a6cb69b28339df5044c72fa5fc1f2d9c3db6a39f.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [calibrate-sensors.a6cb69b28339df5044c72fa5fc1f2d9c3db6a39f.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/calibrate-sensors.a6cb69b28339df5044c72fa5fc1f2d9c3db6a39f.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2055,11 +2055,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='0d54435494e25794492314ea2b6b195d57bfba9e94'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\customize-the-print-preview-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/customize-the-print-preview-ui.md)
+##### <a name='0d54435494e25794492314ea2b6b195d57bfba9e94'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\customize-the-print-preview-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/customize-the-print-preview-ui.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [customize-the-print-preview-ui.4a84cee2b17c70edba458c33fcd4b2f25230925c.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/customize-the-print-preview-ui.4a84cee2b17c70edba458c33fcd4b2f25230925c.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [customize-the-print-preview-ui.4a84cee2b17c70edba458c33fcd4b2f25230925c.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/customize-the-print-preview-ui.4a84cee2b17c70edba458c33fcd4b2f25230925c.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2067,11 +2067,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3472c03607d175eb035af43b5031a58cb710b3ec95'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\device-information-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/device-information-properties.md)
+##### <a name='3472c03607d175eb035af43b5031a58cb710b3ec95'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\device-information-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/device-information-properties.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [device-information-properties.fb1f3fcb8354f18648910773a1c6f0af72dbc801.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/device-information-properties.fb1f3fcb8354f18648910773a1c6f0af72dbc801.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [device-information-properties.fb1f3fcb8354f18648910773a1c6f0af72dbc801.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/device-information-properties.fb1f3fcb8354f18648910773a1c6f0af72dbc801.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2079,11 +2079,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e2ec538c17a3387dfca692ada49aeea5342fbd9a96'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\enable-device-capabilities.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/enable-device-capabilities.md)
+##### <a name='e2ec538c17a3387dfca692ada49aeea5342fbd9a96'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\enable-device-capabilities.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/enable-device-capabilities.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [enable-device-capabilities.44e72b0dceffb7cd537add26930a69dc30953f32.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/enable-device-capabilities.44e72b0dceffb7cd537add26930a69dc30953f32.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [enable-device-capabilities.44e72b0dceffb7cd537add26930a69dc30953f32.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/enable-device-capabilities.44e72b0dceffb7cd537add26930a69dc30953f32.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2091,11 +2091,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='600056e9d2eaf3f410428f12e7f21e3d00911b5798'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\enumerate-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/enumerate-devices.md)
+##### <a name='600056e9d2eaf3f410428f12e7f21e3d00911b5798'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\enumerate-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/enumerate-devices.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [enumerate-devices.a7c60acb94b1664cf9a6472cbe9d3cea5ea598fb.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/enumerate-devices.a7c60acb94b1664cf9a6472cbe9d3cea5ea598fb.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [enumerate-devices.a7c60acb94b1664cf9a6472cbe9d3cea5ea598fb.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/enumerate-devices.a7c60acb94b1664cf9a6472cbe9d3cea5ea598fb.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2103,11 +2103,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='a71c22649f233483aa63e2e2a60277e64c2d007d97'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\enumerate-devices-over-a-network.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/enumerate-devices-over-a-network.md)
+##### <a name='a71c22649f233483aa63e2e2a60277e64c2d007d97'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\enumerate-devices-over-a-network.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/enumerate-devices-over-a-network.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [enumerate-devices-over-a-network.20a76402493fc0f7b46b898daf546452ebd7c301.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/enumerate-devices-over-a-network.20a76402493fc0f7b46b898daf546452ebd7c301.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [enumerate-devices-over-a-network.20a76402493fc0f7b46b898daf546452ebd7c301.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/enumerate-devices-over-a-network.20a76402493fc0f7b46b898daf546452ebd7c301.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2115,11 +2115,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c126bac0f54e4623a2c4cad92232fecd526d491e99'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\epson-esc-pos-with-formatting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/epson-esc-pos-with-formatting.md)
+##### <a name='c126bac0f54e4623a2c4cad92232fecd526d491e99'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\epson-esc-pos-with-formatting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/epson-esc-pos-with-formatting.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [epson-esc-pos-with-formatting.e0f00ec656a87948256d4a2fbc6ab073e09ab9ff.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/epson-esc-pos-with-formatting.e0f00ec656a87948256d4a2fbc6ab073e09ab9ff.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [epson-esc-pos-with-formatting.e0f00ec656a87948256d4a2fbc6ab073e09ab9ff.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/epson-esc-pos-with-formatting.e0f00ec656a87948256d4a2fbc6ab073e09ab9ff.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2127,11 +2127,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='6be3595796d13730b7bc1345d85828314d5925a7100'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\gatt-scenarios.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/gatt-scenarios.md)
+##### <a name='6be3595796d13730b7bc1345d85828314d5925a7100'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\gatt-scenarios.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/gatt-scenarios.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [gatt-scenarios.772b474456664c71f2d8fb16310871eba80b5c4b.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/gatt-scenarios.772b474456664c71f2d8fb16310871eba80b5c4b.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [gatt-scenarios.772b474456664c71f2d8fb16310871eba80b5c4b.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/gatt-scenarios.772b474456664c71f2d8fb16310871eba80b5c4b.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2163,11 +2163,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='34ce1ba42c93457b28691e358831a508597b298f114'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer1.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer1.png)
+##### <a name='34ce1ba42c93457b28691e358831a508597b298f114'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer1.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer1.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [34ce1ba42c93457b28691e358831a508597b298f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/34ce1ba42c93457b28691e358831a508597b298f.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [34ce1ba42c93457b28691e358831a508597b298f.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/34ce1ba42c93457b28691e358831a508597b298f.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2176,11 +2176,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * [Back to Top](#report-top)
 
-##### <a name='ad405137416569d6e655743fbf94c8c80f93755c115'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer2.png)
+##### <a name='ad405137416569d6e655743fbf94c8c80f93755c115'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer2.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer2.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [ad405137416569d6e655743fbf94c8c80f93755c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/ad405137416569d6e655743fbf94c8c80f93755c.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [ad405137416569d6e655743fbf94c8c80f93755c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/ad405137416569d6e655743fbf94c8c80f93755c.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2189,11 +2189,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * [Back to Top](#report-top)
 
-##### <a name='db61344d5f58e7e9974e86abc07dd44c3429167a109'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape.png)
+##### <a name='db61344d5f58e7e9974e86abc07dd44c3429167a109'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [db61344d5f58e7e9974e86abc07dd44c3429167a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/db61344d5f58e7e9974e86abc07dd44c3429167a.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [db61344d5f58e7e9974e86abc07dd44c3429167a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/db61344d5f58e7e9974e86abc07dd44c3429167a.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2202,11 +2202,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
-##### <a name='dc7225c2a9f6ad98c98e4e02eeecc555288b4157105'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-180.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-180.png)
+##### <a name='dc7225c2a9f6ad98c98e4e02eeecc555288b4157105'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-180.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-180.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [dc7225c2a9f6ad98c98e4e02eeecc555288b4157.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/dc7225c2a9f6ad98c98e4e02eeecc555288b4157.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [dc7225c2a9f6ad98c98e4e02eeecc555288b4157.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/dc7225c2a9f6ad98c98e4e02eeecc555288b4157.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2215,11 +2215,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
-##### <a name='280322bf9a41f156f092e9b52d1c6536c386e27b104'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-180-with-text.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-180-with-text.png)
+##### <a name='280322bf9a41f156f092e9b52d1c6536c386e27b104'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-180-with-text.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-180-with-text.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [280322bf9a41f156f092e9b52d1c6536c386e27b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/280322bf9a41f156f092e9b52d1c6536c386e27b.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [280322bf9a41f156f092e9b52d1c6536c386e27b.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/280322bf9a41f156f092e9b52d1c6536c386e27b.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2228,11 +2228,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
-##### <a name='4da08a6e9faf12bb5dc7caf4f346dc50ae378ac8103'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-180-with-text-inverted.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-180-with-text-inverted.png)
+##### <a name='4da08a6e9faf12bb5dc7caf4f346dc50ae378ac8103'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-180-with-text-inverted.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-180-with-text-inverted.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [4da08a6e9faf12bb5dc7caf4f346dc50ae378ac8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/4da08a6e9faf12bb5dc7caf4f346dc50ae378ac8.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [4da08a6e9faf12bb5dc7caf4f346dc50ae378ac8.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/4da08a6e9faf12bb5dc7caf4f346dc50ae378ac8.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2241,11 +2241,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
-##### <a name='0d10b05a511c945d903d6bd82be796202912d483106'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-270.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-270.png)
+##### <a name='0d10b05a511c945d903d6bd82be796202912d483106'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-270.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-270.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [0d10b05a511c945d903d6bd82be796202912d483.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/0d10b05a511c945d903d6bd82be796202912d483.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [0d10b05a511c945d903d6bd82be796202912d483.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/0d10b05a511c945d903d6bd82be796202912d483.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2254,11 +2254,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
-##### <a name='c43ef20d6b9d6422c0306d81e891e519666e3310107'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-90.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-90.png)
+##### <a name='c43ef20d6b9d6422c0306d81e891e519666e3310107'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-90.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-90.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [c43ef20d6b9d6422c0306d81e891e519666e3310.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/c43ef20d6b9d6422c0306d81e891e519666e3310.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [c43ef20d6b9d6422c0306d81e891e519666e3310.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/c43ef20d6b9d6422c0306d81e891e519666e3310.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2267,11 +2267,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
-##### <a name='d1dfac2bf4fd565909a296de37cdcc7d88b2f66c108'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-with-text.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-with-text.png)
+##### <a name='d1dfac2bf4fd565909a296de37cdcc7d88b2f66c108'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-landscape-with-text.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-landscape-with-text.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [d1dfac2bf4fd565909a296de37cdcc7d88b2f66c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/d1dfac2bf4fd565909a296de37cdcc7d88b2f66c.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [d1dfac2bf4fd565909a296de37cdcc7d88b2f66c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/d1dfac2bf4fd565909a296de37cdcc7d88b2f66c.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2280,11 +2280,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
-##### <a name='002511e038f43b765ad0e70703796fa3f6f1f54a113'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait.png)
+##### <a name='002511e038f43b765ad0e70703796fa3f6f1f54a113'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [002511e038f43b765ad0e70703796fa3f6f1f54a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/002511e038f43b765ad0e70703796fa3f6f1f54a.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [002511e038f43b765ad0e70703796fa3f6f1f54a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/002511e038f43b765ad0e70703796fa3f6f1f54a.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2293,11 +2293,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
-##### <a name='90c7ecda71cf0000fd5b8bb0adfd17e1e0e03dfd110'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait-180.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait-180.png)
+##### <a name='90c7ecda71cf0000fd5b8bb0adfd17e1e0e03dfd110'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait-180.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait-180.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [90c7ecda71cf0000fd5b8bb0adfd17e1e0e03dfd.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/90c7ecda71cf0000fd5b8bb0adfd17e1e0e03dfd.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [90c7ecda71cf0000fd5b8bb0adfd17e1e0e03dfd.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/90c7ecda71cf0000fd5b8bb0adfd17e1e0e03dfd.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2306,11 +2306,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
-##### <a name='c19c414d13095c61971d3d0fe7ef2820bfb0d6cc111'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait-270.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait-270.png)
+##### <a name='c19c414d13095c61971d3d0fe7ef2820bfb0d6cc111'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait-270.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait-270.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [c19c414d13095c61971d3d0fe7ef2820bfb0d6cc.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/c19c414d13095c61971d3d0fe7ef2820bfb0d6cc.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [c19c414d13095c61971d3d0fe7ef2820bfb0d6cc.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/c19c414d13095c61971d3d0fe7ef2820bfb0d6cc.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2319,11 +2319,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
-##### <a name='85ca5217a6a62cad158009e9c26a5a9e4607b82a112'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait-90.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait-90.png)
+##### <a name='85ca5217a6a62cad158009e9c26a5a9e4607b82a112'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\accelerometer-axis-orientation-portrait-90.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/accelerometer-axis-orientation-portrait-90.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [85ca5217a6a62cad158009e9c26a5a9e4607b82a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/85ca5217a6a62cad158009e9c26a5a9e4607b82a.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [85ca5217a6a62cad158009e9c26a5a9e4607b82a.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/85ca5217a6a62cad158009e9c26a5a9e4607b82a.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2332,11 +2332,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
-##### <a name='1e45b813bb59c1c92dc98602387180ae11d43249116'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\ap-tools.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/ap-tools.png)
+##### <a name='1e45b813bb59c1c92dc98602387180ae11d43249116'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\ap-tools.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/ap-tools.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [1e45b813bb59c1c92dc98602387180ae11d43249.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/1e45b813bb59c1c92dc98602387180ae11d43249.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [1e45b813bb59c1c92dc98602387180ae11d43249.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/1e45b813bb59c1c92dc98602387180ae11d43249.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2345,11 +2345,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\enable-device-capabilities.md
 * [Back to Top](#report-top)
 
-##### <a name='5f0f8f74ecf3a67cf978683559ec0994695068fe117'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\batchsample.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/batchsample.png)
+##### <a name='5f0f8f74ecf3a67cf978683559ec0994695068fe117'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\batchsample.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/batchsample.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [5f0f8f74ecf3a67cf978683559ec0994695068fe.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/5f0f8f74ecf3a67cf978683559ec0994695068fe.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [5f0f8f74ecf3a67cf978683559ec0994695068fe.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/5f0f8f74ecf3a67cf978683559ec0994695068fe.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2358,11 +2358,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * [Back to Top](#report-top)
 
-##### <a name='6e4afeadfe36ce4b91f6c9617ee00814924f2770118'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\compass.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/compass.png)
+##### <a name='6e4afeadfe36ce4b91f6c9617ee00814924f2770118'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\compass.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/compass.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [6e4afeadfe36ce4b91f6c9617ee00814924f2770.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/6e4afeadfe36ce4b91f6c9617ee00814924f2770.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [6e4afeadfe36ce4b91f6c9617ee00814924f2770.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/6e4afeadfe36ce4b91f6c9617ee00814924f2770.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2371,11 +2371,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * [Back to Top](#report-top)
 
-##### <a name='4f625926cc2e273d91c1f0179fc5bb3e78fbf3ad119'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\eulers-formula.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/eulers-formula.png)
+##### <a name='4f625926cc2e273d91c1f0179fc5bb3e78fbf3ad119'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\eulers-formula.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/eulers-formula.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [4f625926cc2e273d91c1f0179fc5bb3e78fbf3ad.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/4f625926cc2e273d91c1f0179fc5bb3e78fbf3ad.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [4f625926cc2e273d91c1f0179fc5bb3e78fbf3ad.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/4f625926cc2e273d91c1f0179fc5bb3e78fbf3ad.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2384,11 +2384,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
-##### <a name='6084dfebd13ad8f42139027580920b2c316db9a0120'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\gyrometer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/gyrometer.png)
+##### <a name='6084dfebd13ad8f42139027580920b2c316db9a0120'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\gyrometer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/gyrometer.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [6084dfebd13ad8f42139027580920b2c316db9a0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/6084dfebd13ad8f42139027580920b2c316db9a0.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [6084dfebd13ad8f42139027580920b2c316db9a0.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/6084dfebd13ad8f42139027580920b2c316db9a0.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2397,11 +2397,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * [Back to Top](#report-top)
 
-##### <a name='edd67b20e8ca923aedcc76f7ee4726c2d302c972121'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\inclinometer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/inclinometer.png)
+##### <a name='edd67b20e8ca923aedcc76f7ee4726c2d302c972121'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\inclinometer.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/inclinometer.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [edd67b20e8ca923aedcc76f7ee4726c2d302c972.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/edd67b20e8ca923aedcc76f7ee4726c2d302c972.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [edd67b20e8ca923aedcc76f7ee4726c2d302c972.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/edd67b20e8ca923aedcc76f7ee4726c2d302c972.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2410,11 +2410,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensors.md
 * [Back to Top](#report-top)
 
-##### <a name='58236135d6c51eeca583aa62721d60d2244a3f69122'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\nfc-architecture.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/nfc-architecture.png)
+##### <a name='58236135d6c51eeca583aa62721d60d2244a3f69122'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\nfc-architecture.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/nfc-architecture.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [58236135d6c51eeca583aa62721d60d2244a3f69.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/58236135d6c51eeca583aa62721d60d2244a3f69.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [58236135d6c51eeca583aa62721d60d2244a3f69.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/58236135d6c51eeca583aa62721d60d2244a3f69.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2423,11 +2423,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\host-card-emulation.md
 * [Back to Top](#report-top)
 
-##### <a name='d0ca1c2b792d95199b7c692d4be7852a6413440d123'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\nfc-settings.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/nfc-settings.png)
+##### <a name='d0ca1c2b792d95199b7c692d4be7852a6413440d123'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\nfc-settings.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/nfc-settings.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [d0ca1c2b792d95199b7c692d4be7852a6413440d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/d0ca1c2b792d95199b7c692d4be7852a6413440d.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [d0ca1c2b792d95199b7c692d4be7852a6413440d.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/d0ca1c2b792d95199b7c692d4be7852a6413440d.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2436,11 +2436,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\host-card-emulation.md
 * [Back to Top](#report-top)
 
-##### <a name='7245ab445177e9240f9294539c5fa108ccf52add124'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\orientation-formula.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/orientation-formula.png)
+##### <a name='7245ab445177e9240f9294539c5fa108ccf52add124'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\orientation-formula.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/orientation-formula.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [7245ab445177e9240f9294539c5fa108ccf52add.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/7245ab445177e9240f9294539c5fa108ccf52add.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [7245ab445177e9240f9294539c5fa108ccf52add.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/7245ab445177e9240f9294539c5fa108ccf52add.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2449,11 +2449,11 @@
 * Dependency From: wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md
 * [Back to Top](#report-top)
 
-##### <a name='7551619cd5856be67a81dd891dd7b75cafa45877125'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\orientation-sensor.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/devices-sensors/images/orientation-sensor.png)
+##### <a name='7551619cd5856be67a81dd891dd7b75cafa45877125'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\images\orientation-sensor.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/images/orientation-sensor.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [7551619cd5856be67a81dd891dd7b75cafa45877.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/7551619cd5856be67a81dd891dd7b75cafa45877.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [7551619cd5856be67a81dd891dd7b75cafa45877.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/7551619cd5856be67a81dd891dd7b75cafa45877.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2474,11 +2474,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b699966ff42592315712b31af9cb988f1bf491c4127'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\pair-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/pair-devices.md)
+##### <a name='b699966ff42592315712b31af9cb988f1bf491c4127'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\pair-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/pair-devices.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [pair-devices.a30f6dd445f09790cf0e0cd247713c26758deb0f.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/pair-devices.a30f6dd445f09790cf0e0cd247713c26758deb0f.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [pair-devices.a30f6dd445f09790cf0e0cd247713c26758deb0f.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/pair-devices.a30f6dd445f09790cf0e0cd247713c26758deb0f.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2498,11 +2498,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ae20f9950305c6993d40fcb1056b5ba2a6bbb777129'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\printing-and-scanning.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/printing-and-scanning.md)
+##### <a name='ae20f9950305c6993d40fcb1056b5ba2a6bbb777129'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\printing-and-scanning.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/printing-and-scanning.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [printing-and-scanning.2c18a085d60f646e4661f27895996c19a3a3f929.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/printing-and-scanning.2c18a085d60f646e4661f27895996c19a3a3f929.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [printing-and-scanning.2c18a085d60f646e4661f27895996c19a3a3f929.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/printing-and-scanning.2c18a085d60f646e4661f27895996c19a3a3f929.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2510,11 +2510,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='4c3e627e012ab8de22ced3409fbfe90e6874a4c6130'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\scan-from-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/scan-from-your-app.md)
+##### <a name='4c3e627e012ab8de22ced3409fbfe90e6874a4c6130'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\scan-from-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/scan-from-your-app.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [scan-from-your-app.399544c601dd2cb14dc495a367a31b89cd97e8e1.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/scan-from-your-app.399544c601dd2cb14dc495a367a31b89cd97e8e1.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [scan-from-your-app.399544c601dd2cb14dc495a367a31b89cd97e8e1.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/scan-from-your-app.399544c601dd2cb14dc495a367a31b89cd97e8e1.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2534,11 +2534,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='82667297691be83e91bde76fd47c8521e9c572d5132'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/sensor-orientation.md)
+##### <a name='82667297691be83e91bde76fd47c8521e9c572d5132'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\sensor-orientation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/sensor-orientation.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [sensor-orientation.346253c0e9ef1141bad735b32b349389c78cf5d9.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/sensor-orientation.346253c0e9ef1141bad735b32b349389c78cf5d9.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [sensor-orientation.346253c0e9ef1141bad735b32b349389c78cf5d9.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/sensor-orientation.346253c0e9ef1141bad735b32b349389c78cf5d9.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2546,11 +2546,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='fd4c27b6fbef674c5c4f63b01083db888cdd1fe6133'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/devices-sensors/sensors.md)
+##### <a name='fd4c27b6fbef674c5c4f63b01083db888cdd1fe6133'></a> Source: [wdg-cpub-test\ndolci\devices-sensors\sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/devices-sensors/sensors.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [sensors.a6edb4bf6b41a0c6d5a4bd61a13f645c97499bd8.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/sensors.a6edb4bf6b41a0c6d5a4bd61a13f645c97499bd8.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [sensors.a6edb4bf6b41a0c6d5a4bd61a13f645c97499bd8.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/sensors.a6edb4bf6b41a0c6d5a4bd61a13f645c97499bd8.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2642,11 +2642,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='2b16e149a84dc1273676164a9e353cb68d99ff56141'></a> Source: [wdg-cpub-test\ndolci\files\file-access-permissions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/files/file-access-permissions.md)
+##### <a name='2b16e149a84dc1273676164a9e353cb68d99ff56141'></a> Source: [wdg-cpub-test\ndolci\files\file-access-permissions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/files/file-access-permissions.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [file-access-permissions.7425425764fdb6786845a277e69193ad0b6cff54.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/file-access-permissions.7425425764fdb6786845a277e69193ad0b6cff54.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [file-access-permissions.7425425764fdb6786845a277e69193ad0b6cff54.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/file-access-permissions.7425425764fdb6786845a277e69193ad0b6cff54.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2666,11 +2666,11 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1223021b5904a53a7ae4f06400037d597608eeea143'></a> Source: [wdg-cpub-test\ndolci\files\images\app-to-app-diagram-600px.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/files/images/app-to-app-diagram-600px.png)
+##### <a name='1223021b5904a53a7ae4f06400037d597608eeea143'></a> Source: [wdg-cpub-test\ndolci\files\images\app-to-app-diagram-600px.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/files/images/app-to-app-diagram-600px.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [1223021b5904a53a7ae4f06400037d597608eeea.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/1223021b5904a53a7ae4f06400037d597608eeea.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [1223021b5904a53a7ae4f06400037d597608eeea.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/1223021b5904a53a7ae4f06400037d597608eeea.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2679,11 +2679,11 @@
 * Dependency From: wdg-cpub-test\ndolci\files\quickstart-using-file-and-folder-pickers.md
 * [Back to Top](#report-top)
 
-##### <a name='9a5d025932240178a724c75df457cf6e2e3dead6144'></a> Source: [wdg-cpub-test\ndolci\files\images\phone-media-locations.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/files/images/phone-media-locations.png)
+##### <a name='9a5d025932240178a724c75df457cf6e2e3dead6144'></a> Source: [wdg-cpub-test\ndolci\files\images\phone-media-locations.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/files/images/phone-media-locations.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [9a5d025932240178a724c75df457cf6e2e3dead6.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/9a5d025932240178a724c75df457cf6e2e3dead6.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [9a5d025932240178a724c75df457cf6e2e3dead6.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/9a5d025932240178a724c75df457cf6e2e3dead6.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2692,11 +2692,11 @@
 * Dependency From: wdg-cpub-test\ndolci\files\quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.md
 * [Back to Top](#report-top)
 
-##### <a name='c380c2394ff9d39c56af5f382a131a8460a4a136145'></a> Source: [wdg-cpub-test\ndolci\files\images\phone-media-queries.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/files/images/phone-media-queries.png)
+##### <a name='c380c2394ff9d39c56af5f382a131a8460a4a136145'></a> Source: [wdg-cpub-test\ndolci\files\images\phone-media-queries.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/files/images/phone-media-queries.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [c380c2394ff9d39c56af5f382a131a8460a4a136.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/c380c2394ff9d39c56af5f382a131a8460a4a136.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [c380c2394ff9d39c56af5f382a131a8460a4a136.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/c380c2394ff9d39c56af5f382a131a8460a4a136.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2705,11 +2705,11 @@
 * Dependency From: wdg-cpub-test\ndolci\files\quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.md
 * [Back to Top](#report-top)
 
-##### <a name='6d4b6e3ac9146763af8ef8e02271aafa2047e50c146'></a> Source: [wdg-cpub-test\ndolci\files\images\picker-multifile-600px.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci/files/images/picker-multifile-600px.png)
+##### <a name='6d4b6e3ac9146763af8ef8e02271aafa2047e50c146'></a> Source: [wdg-cpub-test\ndolci\files\images\picker-multifile-600px.png](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/files/images/picker-multifile-600px.png)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [6d4b6e3ac9146763af8ef8e02271aafa2047e50c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/6d4b6e3ac9146763af8ef8e02271aafa2047e50c.png)
-* Handoff Datetime: 2016-03-04 17:20:17
+* Handoff File: [6d4b6e3ac9146763af8ef8e02271aafa2047e50c.png](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/6d4b6e3ac9146763af8ef8e02271aafa2047e50c.png)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: IsDependency
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2718,11 +2718,11 @@
 * Dependency From: wdg-cpub-test\ndolci\files\quickstart-using-file-and-folder-pickers.md
 * [Back to Top](#report-top)
 
-##### <a name='393b2ce0f3858fed078d593d0a6c1862c4c90548147'></a> Source: [wdg-cpub-test\ndolci\files\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/b0e4bbddc1bed3dd62b7eb62f9e93f55d69da084/wdg-cpub-test/ndolci/files/index.md)
+##### <a name='393b2ce0f3858fed078d593d0a6c1862c4c90548147'></a> Source: [wdg-cpub-test\ndolci\files\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci/files/index.md)
 * Status: HandedOffSuccess
 * Target File: 
-* Handoff File: [index.cdc7e3b3cfc7f0fbd9fcbeba43a8268f4becd98e.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/9bc20ac02d16654ee1a052b5acab40d5e6a36109/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/index.cdc7e3b3cfc7f0fbd9fcbeba43a8268f4becd98e.zh-cn.xlf)
-* Handoff Datetime: 2016-02-17 04:12:00
+* Handoff File: [index.cdc7e3b3cfc7f0fbd9fcbeba43a8268f4becd98e.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/1d16be57e82383388bd1028baad960d9a970f037/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/index.cdc7e3b3cfc7f0fbd9fcbeba43a8268f4becd98e.zh-cn.xlf)
+* Handoff Datetime: 2016-03-04 17:26:41
 * Handoff Reason: Include
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
@@ -2826,7 +2826,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ba02637e281399d6f7bd6a5a406d990f6070a3a5156'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/App.xaml)
+##### <a name='ba02637e281399d6f7bd6a5a406d990f6070a3a5156'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2838,7 +2838,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f8d6cc4b4dd300d5e89e1458ffbe42229f6d71ea157'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/App.xaml.cs)
+##### <a name='f8d6cc4b4dd300d5e89e1458ffbe42229f6d71ea157'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2850,7 +2850,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='29d52f360e978bd3e35dd0f51558c34115df2af4158'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\copy_paste.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/copy_paste.csproj)
+##### <a name='29d52f360e978bd3e35dd0f51558c34115df2af4158'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\copy_paste.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/copy_paste.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2862,7 +2862,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='66b079c5dc3a26a4842d952741f8130b801ca086159'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/MainPage.xaml)
+##### <a name='66b079c5dc3a26a4842d952741f8130b801ca086159'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2874,7 +2874,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b274e4317e841b9496e8d4368978450aab4db554160'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/MainPage.xaml.cs)
+##### <a name='b274e4317e841b9496e8d4368978450aab4db554160'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2886,7 +2886,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='374dcde4092c9111bbc27b960bb0f8bb13896b56161'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/Package.appxmanifest)
+##### <a name='374dcde4092c9111bbc27b960bb0f8bb13896b56161'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2898,7 +2898,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b89975f22736f77845d2198304d4c18a7a813a0e162'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/Properties/AssemblyInfo.cs)
+##### <a name='b89975f22736f77845d2198304d4c18a7a813a0e162'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2910,7 +2910,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61163'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/Properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61163'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/Properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2922,7 +2922,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e8acf6ee6eca26f01953562e2044bcb7715731ff164'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\Service References\Application Insights\ConnectedService.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/Service References/Application Insights/ConnectedService.json)
+##### <a name='e8acf6ee6eca26f01953562e2044bcb7715731ff164'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\Service References\Application Insights\ConnectedService.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/Service References/Application Insights/ConnectedService.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2934,7 +2934,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='da691df4c0ee8e3d16a7877095d1d0cf55c110a6165'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\dev_app_to_app.sln](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/dev_app_to_app.sln)
+##### <a name='da691df4c0ee8e3d16a7877095d1d0cf55c110a6165'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\dev_app_to_app.sln](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/dev_app_to_app.sln)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2946,7 +2946,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8888f0c0f1cf738c8c98253aa8a8debf1bca4b7d166'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/App.xaml)
+##### <a name='8888f0c0f1cf738c8c98253aa8a8debf1bca4b7d166'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2958,7 +2958,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='892cb52e223f06371df40c5a4a8038ffa7771b2f167'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/App.xaml.cs)
+##### <a name='892cb52e223f06371df40c5a4a8038ffa7771b2f167'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2970,7 +2970,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d2a1b6fa0e6b3b47a982181b179d11ec042f164d168'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\drag_drop.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/drag_drop.csproj)
+##### <a name='d2a1b6fa0e6b3b47a982181b179d11ec042f164d168'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\drag_drop.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/drag_drop.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2982,7 +2982,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8e6a931b779e836af9720473a95039b19341a527169'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/MainPage.xaml)
+##### <a name='8e6a931b779e836af9720473a95039b19341a527169'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -2994,7 +2994,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='801096f071a0286a7f9cd5efb44252646de17b54170'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/MainPage.xaml.cs)
+##### <a name='801096f071a0286a7f9cd5efb44252646de17b54170'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3006,7 +3006,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='084c9f8e13eceddaa998a9ed1a593685c3e7accd171'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/Package.appxmanifest)
+##### <a name='084c9f8e13eceddaa998a9ed1a593685c3e7accd171'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3018,7 +3018,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='dc22d2c5dbc5db5e576ad3a8f356e3031e974a5d172'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/Properties/AssemblyInfo.cs)
+##### <a name='dc22d2c5dbc5db5e576ad3a8f356e3031e974a5d172'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3030,7 +3030,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61173'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/Properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61173'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/Properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3042,7 +3042,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e8acf6ee6eca26f01953562e2044bcb7715731ff174'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\Service References\Application Insights\ConnectedService.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/Service References/Application Insights/ConnectedService.json)
+##### <a name='e8acf6ee6eca26f01953562e2044bcb7715731ff174'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\drag_drop\cs\Service References\Application Insights\ConnectedService.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/drag_drop/cs/Service References/Application Insights/ConnectedService.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3054,7 +3054,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='4902debfe4b5c29da7e34e9d356adbcaf8ca81a3175'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/App.xaml)
+##### <a name='4902debfe4b5c29da7e34e9d356adbcaf8ca81a3175'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3066,7 +3066,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ef234cb48b253e588b3c2d12ead0db76bb4e5472176'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/App.xaml.cs)
+##### <a name='ef234cb48b253e588b3c2d12ead0db76bb4e5472176'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3078,7 +3078,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='405c3dcc9121bbd626a81b73c161582fa29660d8177'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/MainPage.xaml)
+##### <a name='405c3dcc9121bbd626a81b73c161582fa29660d8177'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3090,7 +3090,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='9ae990501365a0f64cf2271e5d1781e9def4f716178'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/MainPage.xaml.cs)
+##### <a name='9ae990501365a0f64cf2271e5d1781e9def4f716178'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3102,7 +3102,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e58660b51ce6499374d7939b809f5ab2c299c6cd179'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/Package.appxmanifest)
+##### <a name='e58660b51ce6499374d7939b809f5ab2c299c6cd179'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3114,7 +3114,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='6b99da4ccee74b98a4990e5f41faaa0ad5fe570b180'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/Properties/AssemblyInfo.cs)
+##### <a name='6b99da4ccee74b98a4990e5f41faaa0ad5fe570b180'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3126,7 +3126,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61181'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/Properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61181'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/Properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3138,7 +3138,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='45ad3c457e07a180692162d884343e0512690c78182'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\receive_data.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/receive_data.csproj)
+##### <a name='45ad3c457e07a180692162d884343e0512690c78182'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\receive_data\cs\receive_data.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/receive_data/cs/receive_data.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3150,7 +3150,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b3d56a57f0165737c22829e57542f7b00f20f9ba183'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/App.xaml)
+##### <a name='b3d56a57f0165737c22829e57542f7b00f20f9ba183'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3162,7 +3162,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='434910d21f6d623d86e619fe7934f09a31421b4c184'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/App.xaml.cs)
+##### <a name='434910d21f6d623d86e619fe7934f09a31421b4c184'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3174,7 +3174,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cf8c3db78c30f396f42bf2923beef012cf671c24185'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/MainPage.xaml)
+##### <a name='cf8c3db78c30f396f42bf2923beef012cf671c24185'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3186,7 +3186,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='54bbea98c12c68dc6cf43656ef49c1d1483f91ed186'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/MainPage.xaml.cs)
+##### <a name='54bbea98c12c68dc6cf43656ef49c1d1483f91ed186'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3198,7 +3198,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1dfccf070af0db23146fc60070fb1751dc72f55a187'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/Package.appxmanifest)
+##### <a name='1dfccf070af0db23146fc60070fb1751dc72f55a187'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3210,7 +3210,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='6509d2be8c78cafd4f82b04e238c773241984f1c188'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/Properties/AssemblyInfo.cs)
+##### <a name='6509d2be8c78cafd4f82b04e238c773241984f1c188'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3222,7 +3222,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61189'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/Properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61189'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/Properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3234,7 +3234,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e8acf6ee6eca26f01953562e2044bcb7715731ff190'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\Service References\Application Insights\ConnectedService.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/Service References/Application Insights/ConnectedService.json)
+##### <a name='e8acf6ee6eca26f01953562e2044bcb7715731ff190'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\Service References\Application Insights\ConnectedService.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/Service References/Application Insights/ConnectedService.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3246,7 +3246,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='7e2b176f3b465e52ba13a98205122df2b229c9e7191'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\share_data.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/share_data.csproj)
+##### <a name='7e2b176f3b465e52ba13a98205122df2b229c9e7191'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\share_data.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/share_data.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3258,7 +3258,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='7e2b176f3b465e52ba13a98205122df2b229c9e7192'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\ShareData.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/ShareData.csproj)
+##### <a name='7e2b176f3b465e52ba13a98205122df2b229c9e7192'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\code\share_data\cs\ShareData.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/code/share_data/cs/ShareData.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3282,7 +3282,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='23cb0dafe7afdbe10fbf31094ed6ba7886f7e67e194'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\drag-and-drop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/drag-and-drop.md)
+##### <a name='23cb0dafe7afdbe10fbf31094ed6ba7886f7e67e194'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\drag-and-drop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/drag-and-drop.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [drag-and-drop.5c0bcc0dcc06e40a2369c8b0e6891f2a0eddb71a.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/drag-and-drop.5c0bcc0dcc06e40a2369c8b0e6891f2a0eddb71a.zh-cn.xlf)
@@ -3306,7 +3306,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='0ec2875d4a647b4e1ab96105f0542f67d8d32174196'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\receive-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/receive-data.md)
+##### <a name='0ec2875d4a647b4e1ab96105f0542f67d8d32174196'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\receive-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/receive-data.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [receive-data.a123e3de0fa9f43e53db04d95f562b6ade45d019.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/receive-data.a123e3de0fa9f43e53db04d95f562b6ade45d019.zh-cn.xlf)
@@ -3318,7 +3318,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b34d0b68388aa72abab4f30bf7e41d6707195b19197'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\share-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/app-to-app/share-data.md)
+##### <a name='b34d0b68388aa72abab4f30bf7e41d6707195b19197'></a> Source: [wdg-cpub-test\ndolci1\app-to-app\share-data.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/app-to-app/share-data.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [share-data.7ea69910742929393126ad77df6fc1755ca54cd4.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/share-data.7ea69910742929393126ad77df6fc1755ca54cd4.zh-cn.xlf)
@@ -3463,7 +3463,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='647998f2cbe371609f9b048d330be179c6e12223209'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\AdaptiveStreaming_Win10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/AdaptiveStreaming_Win10.csproj)
+##### <a name='647998f2cbe371609f9b048d330be179c6e12223209'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\AdaptiveStreaming_Win10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/AdaptiveStreaming_Win10.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3475,7 +3475,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='6374917e25617bff6d0fa851dcfe682643cd3386210'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\AdaptiveStreaming_Win10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/AdaptiveStreaming_Win10_TemporaryKey.pfx)
+##### <a name='6374917e25617bff6d0fa851dcfe682643cd3386210'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\AdaptiveStreaming_Win10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/AdaptiveStreaming_Win10_TemporaryKey.pfx)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3487,7 +3487,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3563d9d7ec304df39b67ac3e8e19f914aa9b46f5211'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/App.xaml)
+##### <a name='3563d9d7ec304df39b67ac3e8e19f914aa9b46f5211'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3499,7 +3499,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='391c967f4b3e230866302d01ba350c262c481843212'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/App.xaml.cs)
+##### <a name='391c967f4b3e230866302d01ba350c262c481843212'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3511,7 +3511,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3df910f701986f731f54630b473cdeaa53ad9d85213'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/MainPage.xaml)
+##### <a name='3df910f701986f731f54630b473cdeaa53ad9d85213'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3523,7 +3523,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='37785f29b825c64b4274f902f9a89fbf0ebe6c21214'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/MainPage.xaml.cs)
+##### <a name='37785f29b825c64b4274f902f9a89fbf0ebe6c21214'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3535,7 +3535,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='eae0c7850bd2b9e34e80773bc00174f73eca3bab215'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/Package.appxmanifest)
+##### <a name='eae0c7850bd2b9e34e80773bc00174f73eca3bab215'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3547,7 +3547,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3f2ffd09cae94c9dad65f79b98fdcb51082256d2216'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/project.json)
+##### <a name='3f2ffd09cae94c9dad65f79b98fdcb51082256d2216'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/project.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3559,7 +3559,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b5533e96937ca03d7478d1d70015e28091c5885a217'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/project.lock.json)
+##### <a name='b5533e96937ca03d7478d1d70015e28091c5885a217'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/project.lock.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3571,7 +3571,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='64136461c9164397cbf7945410eb227cb063de3d218'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/Properties/AssemblyInfo.cs)
+##### <a name='64136461c9164397cbf7945410eb227cb063de3d218'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3583,7 +3583,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61219'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/Properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61219'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AdaptiveStreaming_Win10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AdaptiveStreaming_Win10/cs/Properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3595,7 +3595,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='4c13eb9250c5aa3fd202acd5b49ba41715b3ca0f220'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/App.xaml)
+##### <a name='4c13eb9250c5aa3fd202acd5b49ba41715b3ca0f220'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3607,7 +3607,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='739f2cc146ee246c1dbe84c3dafcc72ddd349890221'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/App.xaml.cs)
+##### <a name='739f2cc146ee246c1dbe84c3dafcc72ddd349890221'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3619,7 +3619,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c02b1926267f8c158ea5516b433cd5b9469f1142222'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/ApplicationInsights.config)
+##### <a name='c02b1926267f8c158ea5516b433cd5b9469f1142222'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/ApplicationInsights.config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3631,7 +3631,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='9e190a521d549c9ea4d056dfc45e723ef819cd4a223'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\AudioGraphSnippets.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/AudioGraphSnippets.csproj)
+##### <a name='9e190a521d549c9ea4d056dfc45e723ef819cd4a223'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\AudioGraphSnippets.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/AudioGraphSnippets.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3643,7 +3643,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c1d0be25959be39c2246db8204306408cc524658224'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\AudioGraphSnippets_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/AudioGraphSnippets_TemporaryKey.pfx)
+##### <a name='c1d0be25959be39c2246db8204306408cc524658224'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\AudioGraphSnippets_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/AudioGraphSnippets_TemporaryKey.pfx)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3655,7 +3655,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f07af6a58f1e1eb35de06951e07d5458cf8a8728225'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/MainPage.xaml)
+##### <a name='f07af6a58f1e1eb35de06951e07d5458cf8a8728225'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3667,7 +3667,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='74ec00464516315d9ad8c7403128c5eb43708698226'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/MainPage.xaml.cs)
+##### <a name='74ec00464516315d9ad8c7403128c5eb43708698226'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3679,7 +3679,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='0ce83776f05b7dc3d466b76803f94ef55d47e91f227'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/Package.appxmanifest)
+##### <a name='0ce83776f05b7dc3d466b76803f94ef55d47e91f227'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3691,7 +3691,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e8f8e7e91e8ea12323df2ce5d8f45496b9fbbb79228'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/Properties/AssemblyInfo.cs)
+##### <a name='e8f8e7e91e8ea12323df2ce5d8f45496b9fbbb79228'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3703,7 +3703,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61229'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/Properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61229'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\AudioGraph\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/AudioGraph/cs/Properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3715,7 +3715,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cac355412cce448cb9a78fb369606992bb3291db230'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/App.xaml)
+##### <a name='cac355412cce448cb9a78fb369606992bb3291db230'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3727,7 +3727,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f05fdd2d1a51441766f998b9a7da5d8af6ece3a4231'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/App.xaml.cs)
+##### <a name='f05fdd2d1a51441766f998b9a7da5d8af6ece3a4231'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3739,7 +3739,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054232'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/ApplicationInsights.config)
+##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054232'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/ApplicationInsights.config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3751,7 +3751,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e63b6333eb0dbfc4d4ed002a5d4bcf1ba048f2f4233'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\BasicCameraWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/BasicCameraWin10.csproj)
+##### <a name='e63b6333eb0dbfc4d4ed002a5d4bcf1ba048f2f4233'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\BasicCameraWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/BasicCameraWin10.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3763,7 +3763,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='fbf55d8df0f8ee4ad327d02804885d647edbcb12234'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\BasicCameraWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/BasicCameraWin10_TemporaryKey.pfx)
+##### <a name='fbf55d8df0f8ee4ad327d02804885d647edbcb12234'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\BasicCameraWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/BasicCameraWin10_TemporaryKey.pfx)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3775,7 +3775,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='61e192d9be0a877c60544e08acf8317c634bda0d235'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\MainPage.ManualControls.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs)
+##### <a name='61e192d9be0a877c60544e08acf8317c634bda0d235'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\MainPage.ManualControls.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/MainPage.ManualControls.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3787,7 +3787,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='35747b3c2f7bbd05a9e507889f0efebc1097dae6236'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/MainPage.xaml)
+##### <a name='35747b3c2f7bbd05a9e507889f0efebc1097dae6236'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3799,7 +3799,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3356f86c7ab7baeeeab1776a8926172344660509237'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/MainPage.xaml.cs)
+##### <a name='3356f86c7ab7baeeeab1776a8926172344660509237'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3811,7 +3811,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f21c3bfcdd12afad44920c842090a0f94e7d7d3d238'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/Package.appxmanifest)
+##### <a name='f21c3bfcdd12afad44920c842090a0f94e7d7d3d238'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3823,7 +3823,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3f2ffd09cae94c9dad65f79b98fdcb51082256d2239'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/project.json)
+##### <a name='3f2ffd09cae94c9dad65f79b98fdcb51082256d2239'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/project.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3835,7 +3835,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b5533e96937ca03d7478d1d70015e28091c5885a240'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/project.lock.json)
+##### <a name='b5533e96937ca03d7478d1d70015e28091c5885a240'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/project.lock.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3847,7 +3847,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='db56e6fb0fbac76864995782124a4f00c910214e241'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/properties/AssemblyInfo.cs)
+##### <a name='db56e6fb0fbac76864995782124a4f00c910214e241'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3859,7 +3859,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61242'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61242'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3871,7 +3871,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e8acf6ee6eca26f01953562e2044bcb7715731ff243'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\Service References\Application Insights\ConnectedService.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/Service References/Application Insights/ConnectedService.json)
+##### <a name='e8acf6ee6eca26f01953562e2044bcb7715731ff243'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\Service References\Application Insights\ConnectedService.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/Service References/Application Insights/ConnectedService.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3883,7 +3883,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='4c29d0d8b85fb626ae9e408c57f2cef31884d2dc244'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\StreamPropertiesHelper.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/StreamPropertiesHelper.cs)
+##### <a name='4c29d0d8b85fb626ae9e408c57f2cef31884d2dc244'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\BasicMediaCaptureWin10\cs\StreamPropertiesHelper.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/BasicMediaCaptureWin10/cs/StreamPropertiesHelper.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3895,7 +3895,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='571d3c2d119f4092eb7109ec60ef085c52c0dc7d245'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/App.xaml)
+##### <a name='571d3c2d119f4092eb7109ec60ef085c52c0dc7d245'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3907,7 +3907,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='be7b7ca27dfe6730fff3c05a9f806128b8d35943246'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/App.xaml.cs)
+##### <a name='be7b7ca27dfe6730fff3c05a9f806128b8d35943246'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3919,7 +3919,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054247'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/ApplicationInsights.config)
+##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054247'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/ApplicationInsights.config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3931,7 +3931,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b0155dff08b5ce6df4defa507821f0f55ae4c485248'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\CameraCaptureUIWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/CameraCaptureUIWin10.csproj)
+##### <a name='b0155dff08b5ce6df4defa507821f0f55ae4c485248'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\CameraCaptureUIWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/CameraCaptureUIWin10.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3943,7 +3943,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='748f76ba029567a78eabba0c5f80f6db9b417979249'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\CameraCaptureUIWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/CameraCaptureUIWin10_TemporaryKey.pfx)
+##### <a name='748f76ba029567a78eabba0c5f80f6db9b417979249'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\CameraCaptureUIWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/CameraCaptureUIWin10_TemporaryKey.pfx)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3955,7 +3955,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8ff16ce0f6c6fe5087ab38c3c654940d9a383bc7250'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/MainPage.xaml)
+##### <a name='8ff16ce0f6c6fe5087ab38c3c654940d9a383bc7250'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3967,7 +3967,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='5926705974e05ffa630780b5436227e3555606f9251'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/MainPage.xaml.cs)
+##### <a name='5926705974e05ffa630780b5436227e3555606f9251'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3979,7 +3979,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='761505676524cb84aede29b1d7b2d57d23b0289c252'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/Package.appxmanifest)
+##### <a name='761505676524cb84aede29b1d7b2d57d23b0289c252'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -3991,7 +3991,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='924156180a79a17098defdd231a18210e1739e48253'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/project.json)
+##### <a name='924156180a79a17098defdd231a18210e1739e48253'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/project.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4003,7 +4003,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='6b742ae0bbc939836c8b03e12cdd73229d019e9c254'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/project.lock.json)
+##### <a name='6b742ae0bbc939836c8b03e12cdd73229d019e9c254'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/project.lock.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4015,7 +4015,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='5a61a94f787f33a4f3b6e3022e1dbc9a8cf3e440255'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/Properties/AssemblyInfo.cs)
+##### <a name='5a61a94f787f33a4f3b6e3022e1dbc9a8cf3e440255'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4027,7 +4027,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61256'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/Properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61256'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\CameraCaptureUIWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/CameraCaptureUIWin10/cs/Properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4039,7 +4039,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='47ed7da0f88cd65d43bb39060641450d34bbb0fb257'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/App.xaml)
+##### <a name='47ed7da0f88cd65d43bb39060641450d34bbb0fb257'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4051,7 +4051,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='7db448c49dacb4ca1aed9eb6052d684a4b1ff870258'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/App.xaml.cs)
+##### <a name='7db448c49dacb4ca1aed9eb6052d684a4b1ff870258'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4063,7 +4063,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054259'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/ApplicationInsights.config)
+##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054259'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/ApplicationInsights.config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4075,7 +4075,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d3bb5a3d916dfd99aaca4a8e08587eb56507254a260'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\FaceDetection_Win10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/FaceDetection_Win10.csproj)
+##### <a name='d3bb5a3d916dfd99aaca4a8e08587eb56507254a260'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\FaceDetection_Win10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/FaceDetection_Win10.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4087,7 +4087,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='dd2a43f083febead2981520d0eb86aead843c6b4261'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\FaceDetection_Win10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/FaceDetection_Win10_TemporaryKey.pfx)
+##### <a name='dd2a43f083febead2981520d0eb86aead843c6b4261'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\FaceDetection_Win10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/FaceDetection_Win10_TemporaryKey.pfx)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4099,7 +4099,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1e0487671eb3c6c242d101c86a4a09da74745f23262'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/MainPage.xaml)
+##### <a name='1e0487671eb3c6c242d101c86a4a09da74745f23262'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4111,7 +4111,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1c3050a9b5e08fb0c8234f95dd04930cc8c54458263'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/MainPage.xaml.cs)
+##### <a name='1c3050a9b5e08fb0c8234f95dd04930cc8c54458263'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4123,7 +4123,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='dc6a23237048070c3b6c6faf9b8161ead2422b20264'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/Package.appxmanifest)
+##### <a name='dc6a23237048070c3b6c6faf9b8161ead2422b20264'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4135,7 +4135,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3f2ffd09cae94c9dad65f79b98fdcb51082256d2265'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/project.json)
+##### <a name='3f2ffd09cae94c9dad65f79b98fdcb51082256d2265'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/project.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4147,7 +4147,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b5533e96937ca03d7478d1d70015e28091c5885a266'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/project.lock.json)
+##### <a name='b5533e96937ca03d7478d1d70015e28091c5885a266'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/project.lock.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4159,7 +4159,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='25d8338b61f4c8056c89b0882a9462c2d2030edd267'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/Properties/AssemblyInfo.cs)
+##### <a name='25d8338b61f4c8056c89b0882a9462c2d2030edd267'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4171,7 +4171,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61268'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/Properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61268'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\FaceDetection_Win10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/FaceDetection_Win10/cs/Properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4183,7 +4183,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ba1794db68cb6df43050d6ec545400eeda4098b8269'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/App.xaml)
+##### <a name='ba1794db68cb6df43050d6ec545400eeda4098b8269'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4195,7 +4195,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f004feeb63c439c6472c0407c8b0b8da29f188db270'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/App.xaml.cs)
+##### <a name='f004feeb63c439c6472c0407c8b0b8da29f188db270'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4207,7 +4207,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054271'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/ApplicationInsights.config)
+##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054271'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/ApplicationInsights.config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4219,7 +4219,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='689f532ed088a4b802085c33559c4a4a8587ae1d272'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\ImagingWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/ImagingWin10.csproj)
+##### <a name='689f532ed088a4b802085c33559c4a4a8587ae1d272'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\ImagingWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/ImagingWin10.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4231,7 +4231,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f3b52bac1e351ce187c09114ca318dd4b7db6309273'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\ImagingWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/ImagingWin10_TemporaryKey.pfx)
+##### <a name='f3b52bac1e351ce187c09114ca318dd4b7db6309273'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\ImagingWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/ImagingWin10_TemporaryKey.pfx)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4243,7 +4243,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b5385a98795bc79361cc12bbd35a73b9072e4cb7274'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/MainPage.xaml)
+##### <a name='b5385a98795bc79361cc12bbd35a73b9072e4cb7274'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4255,7 +4255,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='5384eef47bc2c6529a6b7e55c1e68dc9e5701197275'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/MainPage.xaml.cs)
+##### <a name='5384eef47bc2c6529a6b7e55c1e68dc9e5701197275'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4267,7 +4267,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='656c37552bcd3450e4ac2f383627639b082e5f50276'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/Package.appxmanifest)
+##### <a name='656c37552bcd3450e4ac2f383627639b082e5f50276'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4279,7 +4279,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3f2ffd09cae94c9dad65f79b98fdcb51082256d2277'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/project.json)
+##### <a name='3f2ffd09cae94c9dad65f79b98fdcb51082256d2277'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/project.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4291,7 +4291,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b5533e96937ca03d7478d1d70015e28091c5885a278'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/project.lock.json)
+##### <a name='b5533e96937ca03d7478d1d70015e28091c5885a278'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/project.lock.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4303,7 +4303,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1369e6426d242c76d376860386b449470bef0651279'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/Properties/AssemblyInfo.cs)
+##### <a name='1369e6426d242c76d376860386b449470bef0651279'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4315,7 +4315,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61280'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/Properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61280'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ImagingWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ImagingWin10/cs/Properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4327,7 +4327,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='5c1ad5648d76f28a1488dfd4e76178501ad2b1a5281'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/App.xaml)
+##### <a name='5c1ad5648d76f28a1488dfd4e76178501ad2b1a5281'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4339,7 +4339,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='935ac6d6802fdbfc3078d1fb8f31fd16819e9e5f282'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/App.xaml.cs)
+##### <a name='935ac6d6802fdbfc3078d1fb8f31fd16819e9e5f282'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4351,7 +4351,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='04e1fee9662240e7ddf03ac03eaa164ded79aa7b283'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\LampSnippets.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/LampSnippets.csproj)
+##### <a name='04e1fee9662240e7ddf03ac03eaa164ded79aa7b283'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\LampSnippets.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/LampSnippets.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4363,7 +4363,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ec289ade03a51315a6ffb5954963fe5f979fc19b284'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\LampSnippets_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/LampSnippets_TemporaryKey.pfx)
+##### <a name='ec289ade03a51315a6ffb5954963fe5f979fc19b284'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\LampSnippets_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/LampSnippets_TemporaryKey.pfx)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4375,7 +4375,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='64adcc7ee0a167ba63a90cd79e516b5bd995ef32285'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/MainPage.xaml)
+##### <a name='64adcc7ee0a167ba63a90cd79e516b5bd995ef32285'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4387,7 +4387,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ffcb6497cabd6bb6c304a09a982cfc3f61c4d282286'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/MainPage.xaml.cs)
+##### <a name='ffcb6497cabd6bb6c304a09a982cfc3f61c4d282286'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4399,7 +4399,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d12a91093824bf76d587b321fb1ac2eb2f69aa4a287'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/Package.appxmanifest)
+##### <a name='d12a91093824bf76d587b321fb1ac2eb2f69aa4a287'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4411,7 +4411,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='66ac825bf2c45f17045738923a77aeb6fe6c5f93288'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/Properties/AssemblyInfo.cs)
+##### <a name='66ac825bf2c45f17045738923a77aeb6fe6c5f93288'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4423,7 +4423,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61289'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/Properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61289'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\Lamp\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/Lamp/cs/Properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4435,7 +4435,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e040ae44b79bdb16337594aad683fa2d314fd5ac290'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/App.xaml)
+##### <a name='e040ae44b79bdb16337594aad683fa2d314fd5ac290'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4447,7 +4447,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e800584c97818152a6dde1f508e370409144fd7c291'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/App.xaml.cs)
+##### <a name='e800584c97818152a6dde1f508e370409144fd7c291'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4459,7 +4459,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054292'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/ApplicationInsights.config)
+##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054292'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/ApplicationInsights.config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4471,7 +4471,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='6c96ededb0b7a453806299f2accbd28fbd34ad5c293'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/MainPage.xaml)
+##### <a name='6c96ededb0b7a453806299f2accbd28fbd34ad5c293'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4483,7 +4483,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c29acb50bf241d85fce0110e619947ecab68994c294'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/MainPage.xaml.cs)
+##### <a name='c29acb50bf241d85fce0110e619947ecab68994c294'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4495,7 +4495,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1965c5b2f615acdd9bf3ec2835b5559b39fa062f295'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\MediaCastingWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/MediaCastingWin10.csproj)
+##### <a name='1965c5b2f615acdd9bf3ec2835b5559b39fa062f295'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\MediaCastingWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/MediaCastingWin10.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4507,7 +4507,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8a623ac18311f478255d6ad0e0d552782e5efdbc296'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\MediaCastingWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/MediaCastingWin10_TemporaryKey.pfx)
+##### <a name='8a623ac18311f478255d6ad0e0d552782e5efdbc296'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\MediaCastingWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/MediaCastingWin10_TemporaryKey.pfx)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4519,7 +4519,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='4f29c13b466c8674aa816cf6547ec763dc63bb73297'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/Package.appxmanifest)
+##### <a name='4f29c13b466c8674aa816cf6547ec763dc63bb73297'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4531,7 +4531,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='9499c01220fb05f59067bb47299c49c02b689b52298'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/project.json)
+##### <a name='9499c01220fb05f59067bb47299c49c02b689b52298'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/project.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4543,7 +4543,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='773a52f9e8f512cccd0cfa8c2c29db42ad2b7d56299'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/project.lock.json)
+##### <a name='773a52f9e8f512cccd0cfa8c2c29db42ad2b7d56299'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/project.lock.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4555,7 +4555,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d251c34b7d1b5b6ec63d11f1bf4b959076eecdb9300'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/Properties/AssemblyInfo.cs)
+##### <a name='d251c34b7d1b5b6ec63d11f1bf4b959076eecdb9300'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4567,7 +4567,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61301'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/Properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61301'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaCastingWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaCastingWin10/cs/Properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4579,7 +4579,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8a574cbc5e88a4880ab0981cf60d7d2b8de6aa8e302'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/App.xaml)
+##### <a name='8a574cbc5e88a4880ab0981cf60d7d2b8de6aa8e302'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4591,7 +4591,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='5ff1c2284bd506c2cd24e99fbcf018b515997c23303'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/App.xaml.cs)
+##### <a name='5ff1c2284bd506c2cd24e99fbcf018b515997c23303'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4603,7 +4603,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c02b1926267f8c158ea5516b433cd5b9469f1142304'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/ApplicationInsights.config)
+##### <a name='c02b1926267f8c158ea5516b433cd5b9469f1142304'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/ApplicationInsights.config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4615,7 +4615,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='33b721dcb76068a5298aba3889e0198fc9a21866305'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/MainPage.xaml)
+##### <a name='33b721dcb76068a5298aba3889e0198fc9a21866305'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4627,7 +4627,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='32a3690296939ce9e894b69e9bb3161a975b89a4306'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/MainPage.xaml.cs)
+##### <a name='32a3690296939ce9e894b69e9bb3161a975b89a4306'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4639,7 +4639,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1468ccccca37e4be9ba5da8e469d0c6778bfc504307'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\MediaEditingSnippets.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/MediaEditingSnippets.csproj)
+##### <a name='1468ccccca37e4be9ba5da8e469d0c6778bfc504307'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\MediaEditingSnippets.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/MediaEditingSnippets.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4651,7 +4651,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='73635b95cab7f5a62dc8c42e156167f51292298c308'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\MediaEditingSnippets_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/MediaEditingSnippets_TemporaryKey.pfx)
+##### <a name='73635b95cab7f5a62dc8c42e156167f51292298c308'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\MediaEditingSnippets_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/MediaEditingSnippets_TemporaryKey.pfx)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4663,7 +4663,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='2bc9055d3b2b570da7ae90136efd84ca9d5e0f9b309'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/Package.appxmanifest)
+##### <a name='2bc9055d3b2b570da7ae90136efd84ca9d5e0f9b309'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4675,7 +4675,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b9a4a9ff7d78177a5469345c6b3fea25bfb01a50310'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/Properties/AssemblyInfo.cs)
+##### <a name='b9a4a9ff7d78177a5469345c6b3fea25bfb01a50310'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4687,7 +4687,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61311'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/Properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61311'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaEditing\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaEditing/cs/Properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4699,7 +4699,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3c88d67c3e4e68161f646d9a7891d5fa10148da8312'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\MediaProcessingBackgroundTask.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/MediaProcessingBackgroundTask.csproj)
+##### <a name='3c88d67c3e4e68161f646d9a7891d5fa10148da8312'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\MediaProcessingBackgroundTask.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/MediaProcessingBackgroundTask.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4711,7 +4711,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='41e12ba857f700bfd74860cd3783d736b8fef327313'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\MediaProcessingTask.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/MediaProcessingTask.cs)
+##### <a name='41e12ba857f700bfd74860cd3783d736b8fef327313'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\MediaProcessingTask.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/MediaProcessingTask.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4723,7 +4723,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='2e018f21736dc76c403d2fb379820513929eb383314'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/project.json)
+##### <a name='2e018f21736dc76c403d2fb379820513929eb383314'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/project.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4735,7 +4735,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ce86d7ce2695aff1058e72c1e8ce4226d015ee0e315'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/project.lock.json)
+##### <a name='ce86d7ce2695aff1058e72c1e8ce4226d015ee0e315'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/project.lock.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4747,7 +4747,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='50048fdbfff75ca57ba7000495e5587a22457426316'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/Properties/AssemblyInfo.cs)
+##### <a name='50048fdbfff75ca57ba7000495e5587a22457426316'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingBackgroundTask\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingBackgroundTask/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4759,7 +4759,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ba93441f0d0fdd06a83396fc904b67632ac8154e317'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10.sln](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10.sln)
+##### <a name='ba93441f0d0fdd06a83396fc904b67632ac8154e317'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10.sln](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10.sln)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4771,7 +4771,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f8930ab2c47b9c0ba605d6ebc9fade2be496fd23318'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/App.xaml)
+##### <a name='f8930ab2c47b9c0ba605d6ebc9fade2be496fd23318'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4783,7 +4783,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='25839fea8b4969efcbced8aabceb87fdd5d847b3319'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/App.xaml.cs)
+##### <a name='25839fea8b4969efcbced8aabceb87fdd5d847b3319'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4795,7 +4795,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054320'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/ApplicationInsights.config)
+##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054320'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/ApplicationInsights.config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4807,7 +4807,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='2c2cb91fb777fceb5c9204be08a01ff782344847321'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/MainPage.xaml)
+##### <a name='2c2cb91fb777fceb5c9204be08a01ff782344847321'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4819,7 +4819,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d9bb44e6273715a80fd16f35cd1bd80d3eb25788322'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/MainPage.xaml.cs)
+##### <a name='d9bb44e6273715a80fd16f35cd1bd80d3eb25788322'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4831,7 +4831,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e75a112a53cadc66afb68bca52fb318d547a2a8f323'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\MediaProcessingTriggerWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/MediaProcessingTriggerWin10.csproj)
+##### <a name='e75a112a53cadc66afb68bca52fb318d547a2a8f323'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\MediaProcessingTriggerWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/MediaProcessingTriggerWin10.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4843,7 +4843,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='78473a00ee102bd99facc030e92b56a0aef44029324'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\MediaProcessingTriggerWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/MediaProcessingTriggerWin10_TemporaryKey.pfx)
+##### <a name='78473a00ee102bd99facc030e92b56a0aef44029324'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\MediaProcessingTriggerWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/MediaProcessingTriggerWin10_TemporaryKey.pfx)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4855,7 +4855,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b101ebc50baa8712c25810adba387a6d8e98569a325'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/Package.appxmanifest)
+##### <a name='b101ebc50baa8712c25810adba387a6d8e98569a325'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4867,7 +4867,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='924156180a79a17098defdd231a18210e1739e48326'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/project.json)
+##### <a name='924156180a79a17098defdd231a18210e1739e48326'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/project.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4879,7 +4879,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='6b742ae0bbc939836c8b03e12cdd73229d019e9c327'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/project.lock.json)
+##### <a name='6b742ae0bbc939836c8b03e12cdd73229d019e9c327'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/project.lock.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4891,7 +4891,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='277071415012a656db55938f9b040495319aa9dd328'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/Properties/AssemblyInfo.cs)
+##### <a name='277071415012a656db55938f9b040495319aa9dd328'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4903,7 +4903,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61329'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/Properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61329'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaProcessingTriggerWin10\cs\MediaProcessingTriggerWin10\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaProcessingTriggerWin10/cs/MediaProcessingTriggerWin10/Properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4915,7 +4915,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8b5230efcaf5f92a0337e2c2e1522e29f45ac062330'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/App.xaml)
+##### <a name='8b5230efcaf5f92a0337e2c2e1522e29f45ac062330'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4927,7 +4927,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='5a6150c7b073a633fca644c36889d196fcda4f3b331'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/App.xaml.cs)
+##### <a name='5a6150c7b073a633fca644c36889d196fcda4f3b331'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4939,7 +4939,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054332'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/ApplicationInsights.config)
+##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054332'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/ApplicationInsights.config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4951,7 +4951,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d51e6f5e817d9dafcc371aadd93cf94d436577b3333'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/MainPage.xaml)
+##### <a name='d51e6f5e817d9dafcc371aadd93cf94d436577b3333'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4963,7 +4963,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='87bf04d429e3b7163a60147ad5f7d3676586e191334'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/MainPage.xaml.cs)
+##### <a name='87bf04d429e3b7163a60147ad5f7d3676586e191334'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4975,7 +4975,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c4196e86596039e01e4c818462721da44fd8c074335'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\MediaSource_Win10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/MediaSource_Win10.csproj)
+##### <a name='c4196e86596039e01e4c818462721da44fd8c074335'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\MediaSource_Win10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/MediaSource_Win10.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4987,7 +4987,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='df5f73642c76de81dffa3a3b1c330dab64458cce336'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\MediaSource_Win10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/MediaSource_Win10_TemporaryKey.pfx)
+##### <a name='df5f73642c76de81dffa3a3b1c330dab64458cce336'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\MediaSource_Win10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/MediaSource_Win10_TemporaryKey.pfx)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -4999,7 +4999,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f4b7e55c20c4a972abcbf25478dd346918b13d21337'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/Package.appxmanifest)
+##### <a name='f4b7e55c20c4a972abcbf25478dd346918b13d21337'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5011,7 +5011,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3f2ffd09cae94c9dad65f79b98fdcb51082256d2338'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/project.json)
+##### <a name='3f2ffd09cae94c9dad65f79b98fdcb51082256d2338'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/project.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5023,7 +5023,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b5533e96937ca03d7478d1d70015e28091c5885a339'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/project.lock.json)
+##### <a name='b5533e96937ca03d7478d1d70015e28091c5885a339'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/project.lock.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5035,7 +5035,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='fa1a2b9d96ac0714dcb9cbc8b8c48685ada1648d340'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/Properties/AssemblyInfo.cs)
+##### <a name='fa1a2b9d96ac0714dcb9cbc8b8c48685ada1648d340'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5047,7 +5047,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61341'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/Properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61341'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MediaSource_Win10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MediaSource_Win10/cs/Properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5059,7 +5059,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='44d870cb82912978ab635a2e952dd32ac16df331342'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/App.xaml)
+##### <a name='44d870cb82912978ab635a2e952dd32ac16df331342'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5071,7 +5071,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='64e88e8b30b42be43a9bf5b5c2f2d6a2541603e4343'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/App.xaml.cs)
+##### <a name='64e88e8b30b42be43a9bf5b5c2f2d6a2541603e4343'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5083,7 +5083,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054344'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/ApplicationInsights.config)
+##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054344'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/ApplicationInsights.config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5095,7 +5095,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='2d536719c8a6b9077ae7b26017408ac48138109e345'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MainPage.xaml)
+##### <a name='2d536719c8a6b9077ae7b26017408ac48138109e345'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5107,7 +5107,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d40154991097ba71f6989bfa7ff4c3f825c5f075346'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MainPage.xaml.cs)
+##### <a name='d40154991097ba71f6989bfa7ff4c3f825c5f075346'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5119,7 +5119,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='0b378d4548be09935dccf72b3a7aae8b3ce34187347'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MIDIWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MIDIWin10.csproj)
+##### <a name='0b378d4548be09935dccf72b3a7aae8b3ce34187347'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MIDIWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MIDIWin10.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5131,7 +5131,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d2d2e89be78a3a452957a3aab8655f51ac59552b348'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MIDIWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MIDIWin10_TemporaryKey.pfx)
+##### <a name='d2d2e89be78a3a452957a3aab8655f51ac59552b348'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MIDIWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MIDIWin10_TemporaryKey.pfx)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5143,7 +5143,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='2674d3dc035663fc5a57cb78bcebb6d7ce81735b349'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MyMidiDeviceWatcher.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MyMidiDeviceWatcher.cs)
+##### <a name='2674d3dc035663fc5a57cb78bcebb6d7ce81735b349'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\MyMidiDeviceWatcher.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/MyMidiDeviceWatcher.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5155,7 +5155,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='bffa576f76c8f8f5903db683cab7571debdccb4d350'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/Package.appxmanifest)
+##### <a name='bffa576f76c8f8f5903db683cab7571debdccb4d350'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5167,7 +5167,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='9499c01220fb05f59067bb47299c49c02b689b52351'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/project.json)
+##### <a name='9499c01220fb05f59067bb47299c49c02b689b52351'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/project.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5179,7 +5179,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='773a52f9e8f512cccd0cfa8c2c29db42ad2b7d56352'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/project.lock.json)
+##### <a name='773a52f9e8f512cccd0cfa8c2c29db42ad2b7d56352'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/project.lock.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5191,7 +5191,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='6e6837274f0254bcc267e09c9d41b2615af2aa8d353'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/Properties/AssemblyInfo.cs)
+##### <a name='6e6837274f0254bcc267e09c9d41b2615af2aa8d353'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5203,7 +5203,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61354'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/Properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61354'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\MIDIWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/MIDIWin10/cs/Properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5215,7 +5215,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ada3a072fff308a6bf0ea5e5a63aa8188e02f028355'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/App.xaml)
+##### <a name='ada3a072fff308a6bf0ea5e5a63aa8188e02f028355'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5227,7 +5227,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c79097c11226a61edcbfb136f45de5b122489cd0356'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/App.xaml.cs)
+##### <a name='c79097c11226a61edcbfb136f45de5b122489cd0356'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5239,7 +5239,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054357'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/ApplicationInsights.config)
+##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054357'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/ApplicationInsights.config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5251,7 +5251,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e54524e039b85100cd4f9c051e225e98b51bdaf0358'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/MainPage.xaml)
+##### <a name='e54524e039b85100cd4f9c051e225e98b51bdaf0358'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5263,7 +5263,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='346fd921a394d37afb8c5bf94e854ba5af48402a359'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/MainPage.xaml.cs)
+##### <a name='346fd921a394d37afb8c5bf94e854ba5af48402a359'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5275,7 +5275,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cf3d55c1d2136c65bf86b0fbad56aa2b0dfb1c68360'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/Package.appxmanifest)
+##### <a name='cf3d55c1d2136c65bf86b0fbad56aa2b0dfb1c68360'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5287,7 +5287,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='9499c01220fb05f59067bb47299c49c02b689b52361'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/project.json)
+##### <a name='9499c01220fb05f59067bb47299c49c02b689b52361'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/project.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5299,7 +5299,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='773a52f9e8f512cccd0cfa8c2c29db42ad2b7d56362'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/project.lock.json)
+##### <a name='773a52f9e8f512cccd0cfa8c2c29db42ad2b7d56362'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/project.lock.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5311,7 +5311,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='0591bde16edb6bf37b437b2c3109d92d8293ebb9363'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/Properties/AssemblyInfo.cs)
+##### <a name='0591bde16edb6bf37b437b2c3109d92d8293ebb9363'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5323,7 +5323,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61364'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/Properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61364'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/Properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5335,7 +5335,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='5ef03982c85da143d16453077a89b2d96f6e92e7365'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\ScreenCaptureWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/ScreenCaptureWin10.csproj)
+##### <a name='5ef03982c85da143d16453077a89b2d96f6e92e7365'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\ScreenCaptureWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/ScreenCaptureWin10.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5347,7 +5347,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='7abded697792c6431cdb87cb9ed6a77cd0af4f51366'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\ScreenCaptureWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/ScreenCaptureWin10_TemporaryKey.pfx)
+##### <a name='7abded697792c6431cdb87cb9ed6a77cd0af4f51366'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\ScreenCaptureWin10\cs\ScreenCaptureWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/ScreenCaptureWin10/cs/ScreenCaptureWin10_TemporaryKey.pfx)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5359,7 +5359,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d411cceaaea4d27322210cd2658fdeb57ffde478367'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/App.xaml)
+##### <a name='d411cceaaea4d27322210cd2658fdeb57ffde478367'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5371,7 +5371,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f085ce04d7750ea9f3d59578736561e068799ecf368'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/App.xaml.cs)
+##### <a name='f085ce04d7750ea9f3d59578736561e068799ecf368'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5383,7 +5383,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054369'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/ApplicationInsights.config)
+##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054369'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/ApplicationInsights.config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5395,7 +5395,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='dbe8b57ccaab4452c3ab0c044e8ba1ce89a79395370'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/MainPage.xaml)
+##### <a name='dbe8b57ccaab4452c3ab0c044e8ba1ce89a79395370'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5407,7 +5407,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f26bc93250b75411a5f1494e8efff2303e0b8cde371'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/MainPage.xaml.cs)
+##### <a name='f26bc93250b75411a5f1494e8efff2303e0b8cde371'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5419,7 +5419,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='6bd679a67ae2c21edb7f493088e92b710339d863372'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/Package.appxmanifest)
+##### <a name='6bd679a67ae2c21edb7f493088e92b710339d863372'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5431,7 +5431,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3f2ffd09cae94c9dad65f79b98fdcb51082256d2373'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/project.json)
+##### <a name='3f2ffd09cae94c9dad65f79b98fdcb51082256d2373'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/project.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5443,7 +5443,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b5533e96937ca03d7478d1d70015e28091c5885a374'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/project.lock.json)
+##### <a name='b5533e96937ca03d7478d1d70015e28091c5885a374'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/project.lock.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5455,7 +5455,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='5891a6232ac17fc54fcd998bfa2fc928db9fa0b8375'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/Properties/AssemblyInfo.cs)
+##### <a name='5891a6232ac17fc54fcd998bfa2fc928db9fa0b8375'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5467,7 +5467,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61376'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/Properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61376'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/Properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5479,7 +5479,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='352f96bba8c96ce9af99eecaf181865a87975ffd377'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\SimpleCameraPreview_Win10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/SimpleCameraPreview_Win10.csproj)
+##### <a name='352f96bba8c96ce9af99eecaf181865a87975ffd377'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\SimpleCameraPreview_Win10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/SimpleCameraPreview_Win10.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5491,7 +5491,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b9d41323081e020232d57dd17d479cb03a4ef5ed378'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\SimpleCameraPreview_Win10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/SimpleCameraPreview_Win10_TemporaryKey.pfx)
+##### <a name='b9d41323081e020232d57dd17d479cb03a4ef5ed378'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SimpleCameraPreview_Win10\cs\SimpleCameraPreview_Win10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SimpleCameraPreview_Win10/cs/SimpleCameraPreview_Win10_TemporaryKey.pfx)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5503,7 +5503,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='740c263a0e4e1d6b05f91434b14eefc45a778daa379'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/App.xaml)
+##### <a name='740c263a0e4e1d6b05f91434b14eefc45a778daa379'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5515,7 +5515,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='0abb613e0ff8ff81f3ad415d34c6268c60feb9e1380'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/App.xaml.cs)
+##### <a name='0abb613e0ff8ff81f3ad415d34c6268c60feb9e1380'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5527,7 +5527,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3b40250535dde04301e3620f8b66083ea3d74565381'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/MainPage.xaml)
+##### <a name='3b40250535dde04301e3620f8b66083ea3d74565381'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5539,7 +5539,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='9418550008cf8ff58ac9afbf935b01d7caf3c53b382'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/MainPage.xaml.cs)
+##### <a name='9418550008cf8ff58ac9afbf935b01d7caf3c53b382'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5551,7 +5551,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d9ff5e8ff88b575321d269ae14c8e80d9296ad5d383'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/Package.appxmanifest)
+##### <a name='d9ff5e8ff88b575321d269ae14c8e80d9296ad5d383'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5563,7 +5563,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='fa70babbe1fd837f4cea30b98e3b412447fe1e71384'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/Properties/AssemblyInfo.cs)
+##### <a name='fa70babbe1fd837f4cea30b98e3b412447fe1e71384'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5575,7 +5575,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61385'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/Properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61385'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/Properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5587,7 +5587,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='9f69634f59ffc34964760c1a7e4edf5cf40569eb386'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\SMTCWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/SMTCWin10.csproj)
+##### <a name='9f69634f59ffc34964760c1a7e4edf5cf40569eb386'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\SMTCWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/SMTCWin10.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5599,7 +5599,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='11b14842a4646713dd81c92d9ed0d8327d8545ff387'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\SMTCWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/SMTCWin10_TemporaryKey.pfx)
+##### <a name='11b14842a4646713dd81c92d9ed0d8327d8545ff387'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\SMTCWin10\cs\SMTCWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/SMTCWin10/cs/SMTCWin10_TemporaryKey.pfx)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5611,7 +5611,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='7277b5714c0737fe75f42b9ad8693d7e9cb8cab5388'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/App.xaml)
+##### <a name='7277b5714c0737fe75f42b9ad8693d7e9cb8cab5388'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5623,7 +5623,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='952e05d69dd61b0927d2f04ac37929921261aaf7389'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/App.xaml.cs)
+##### <a name='952e05d69dd61b0927d2f04ac37929921261aaf7389'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5635,7 +5635,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054390'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/ApplicationInsights.config)
+##### <a name='cba02b1f3121099b48bbb61ca359c40ba8b92054390'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\ApplicationInsights.config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/ApplicationInsights.config)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5647,7 +5647,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c895a36ff22d291222e0493d6287fdb5fcbe1e77391'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/MainPage.xaml)
+##### <a name='c895a36ff22d291222e0493d6287fdb5fcbe1e77391'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5659,7 +5659,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='61d4f24a6d919c49403b2ee16e6d1dfd85a338c2392'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/MainPage.xaml.cs)
+##### <a name='61d4f24a6d919c49403b2ee16e6d1dfd85a338c2392'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5671,7 +5671,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='48451a4cfe7fa323c3f5392423577220298e5092393'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/Package.appxmanifest)
+##### <a name='48451a4cfe7fa323c3f5392423577220298e5092393'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5683,7 +5683,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='924156180a79a17098defdd231a18210e1739e48394'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/project.json)
+##### <a name='924156180a79a17098defdd231a18210e1739e48394'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\project.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/project.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5695,7 +5695,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='6b742ae0bbc939836c8b03e12cdd73229d019e9c395'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/project.lock.json)
+##### <a name='6b742ae0bbc939836c8b03e12cdd73229d019e9c395'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\project.lock.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/project.lock.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5707,7 +5707,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e9a73189b480aebefca5341a4ea4d95d41266b4f396'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/Properties/AssemblyInfo.cs)
+##### <a name='e9a73189b480aebefca5341a4ea4d95d41266b4f396'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5719,7 +5719,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61397'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/Properties/Default.rd.xml)
+##### <a name='ff00d23d226d9c9feca1382327126cc3944e9e61397'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\Properties\Default.rd.xml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/Properties/Default.rd.xml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5731,7 +5731,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='71604c9b468cd64fb1c29ae463da56a09df20ab9398'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\TranscodingWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/TranscodingWin10.csproj)
+##### <a name='71604c9b468cd64fb1c29ae463da56a09df20ab9398'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\TranscodingWin10.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/TranscodingWin10.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -5743,7 +5743,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='27d2c4d48067b20f63f60feffda93aef05f10b11399'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\TranscodingWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/TranscodingWin10_TemporaryKey.pfx)
+##### <a name='27d2c4d48067b20f63f60feffda93aef05f10b11399'></a> Source: [wdg-cpub-test\ndolci1\audio-video-camera\code\TranscodeWin10\cs\TranscodingWin10_TemporaryKey.pfx](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/audio-video-camera/code/TranscodeWin10/cs/TranscodingWin10_TemporaryKey.pfx)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -6019,7 +6019,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='37acbf3b8bdcf7f3c18f70ec8f9fdde5f986e458422'></a> Source: [wdg-cpub-test\ndolci1\contacts-and-calendar\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/contacts-and-calendar/index.md)
+##### <a name='37acbf3b8bdcf7f3c18f70ec8f9fdde5f986e458422'></a> Source: [wdg-cpub-test\ndolci1\contacts-and-calendar\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/contacts-and-calendar/index.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.2033fe1792908a8f4c9515ca98e512b2d88d0c1b.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/index.2033fe1792908a8f4c9515ca98e512b2d88d0c1b.zh-cn.xlf)
@@ -6043,7 +6043,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='007e676257bcd6b11332baf98582703d23f3abd3424'></a> Source: [wdg-cpub-test\ndolci1\contacts-and-calendar\selecting-contacts.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/contacts-and-calendar/selecting-contacts.md)
+##### <a name='007e676257bcd6b11332baf98582703d23f3abd3424'></a> Source: [wdg-cpub-test\ndolci1\contacts-and-calendar\selecting-contacts.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/contacts-and-calendar/selecting-contacts.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [selecting-contacts.0c37455cea27ffb03ddb31441f2abdcf31a2c4a5.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/selecting-contacts.0c37455cea27ffb03ddb31441f2abdcf31a2c4a5.zh-cn.xlf)
@@ -6055,7 +6055,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='88704dcaec3f258a8d0eb43b33721d4f31cc0a75425'></a> Source: [wdg-cpub-test\ndolci1\contacts-and-calendar\sending-an-sms-message.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/contacts-and-calendar/sending-an-sms-message.md)
+##### <a name='88704dcaec3f258a8d0eb43b33721d4f31cc0a75425'></a> Source: [wdg-cpub-test\ndolci1\contacts-and-calendar\sending-an-sms-message.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/contacts-and-calendar/sending-an-sms-message.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sending-an-sms-message.c94362d889ab28c69d05387da6a50bc910ae9b6b.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/sending-an-sms-message.c94362d889ab28c69d05387da6a50bc910ae9b6b.zh-cn.xlf)
@@ -6067,7 +6067,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='aace8855fa91c6375887e9837f67f911502e6748426'></a> Source: [wdg-cpub-test\ndolci1\contacts-and-calendar\sending-email.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/contacts-and-calendar/sending-email.md)
+##### <a name='aace8855fa91c6375887e9837f67f911502e6748426'></a> Source: [wdg-cpub-test\ndolci1\contacts-and-calendar\sending-email.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/contacts-and-calendar/sending-email.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sending-email.0af3478869b36363cb36e87d9c1147c064125c10.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/sending-email.0af3478869b36363cb36e87d9c1147c064125c10.zh-cn.xlf)
@@ -6091,7 +6091,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='76404ac78178634ceb026fe5baace6b730c0dbcb428'></a> Source: [wdg-cpub-test\ndolci1\data-access\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/data-access/index.md)
+##### <a name='76404ac78178634ceb026fe5baace6b730c0dbcb428'></a> Source: [wdg-cpub-test\ndolci1\data-access\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/data-access/index.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.c6f086c149121a402e2c5c7a360cf5ded152653e.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/index.c6f086c149121a402e2c5c7a360cf5ded152653e.zh-cn.xlf)
@@ -6139,7 +6139,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f9a087407671e3d81447777a52531e0663e01d4d432'></a> Source: [wdg-cpub-test\ndolci1\data-binding\displaying-data-in-the-designer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/data-binding/displaying-data-in-the-designer.md)
+##### <a name='f9a087407671e3d81447777a52531e0663e01d4d432'></a> Source: [wdg-cpub-test\ndolci1\data-binding\displaying-data-in-the-designer.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/data-binding/displaying-data-in-the-designer.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [displaying-data-in-the-designer.0a9bded46eb5b2c190eb995f33cdedf51de04aa7.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/displaying-data-in-the-designer.0a9bded46eb5b2c190eb995f33cdedf51de04aa7.zh-cn.xlf)
@@ -6163,7 +6163,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='05077cfa25a79cdd5edfbe0bbc5d4bbc8025be35434'></a> Source: [wdg-cpub-test\ndolci1\data-binding\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/data-binding/index.md)
+##### <a name='05077cfa25a79cdd5edfbe0bbc5d4bbc8025be35434'></a> Source: [wdg-cpub-test\ndolci1\data-binding\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/data-binding/index.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.534c7f645f5d68e18a68d316898896d6ae4eb174.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/index.534c7f645f5d68e18a68d316898896d6ae4eb174.zh-cn.xlf)
@@ -6187,7 +6187,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='4304643a25282e02cfca174eb4d4d23576e64f0d436'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\beta-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/beta-testing.md)
+##### <a name='4304643a25282e02cfca174eb4d4d23576e64f0d436'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\beta-testing.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/beta-testing.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [beta-testing.4d0f92a23e8012f4c602f7bd041e438c8138202e.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/beta-testing.4d0f92a23e8012f4c602f7bd041e438c8138202e.zh-cn.xlf)
@@ -6235,7 +6235,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='a5ddb41bb030c88f74f4f2bc14cfd9a54f1a9219440'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/index.md)
+##### <a name='a5ddb41bb030c88f74f4f2bc14cfd9a54f1a9219440'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/index.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.320fa250d18f59b12ad4eede2f1cf9ba6059dab8.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/index.320fa250d18f59b12ad4eede2f1cf9ba6059dab8.zh-cn.xlf)
@@ -6271,7 +6271,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='fe8c385a9f94116e69011245b666c706a07ec806443'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\mvvm-performance-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/mvvm-performance-tips.md)
+##### <a name='fe8c385a9f94116e69011245b666c706a07ec806443'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\mvvm-performance-tips.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/mvvm-performance-tips.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [mvvm-performance-tips.b913c1d997582cc0e32c17e6ad9034f672202bf5.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/mvvm-performance-tips.b913c1d997582cc0e32c17e6ad9034f672202bf5.zh-cn.xlf)
@@ -6283,7 +6283,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='590d41f5e2dba044b0355aa5cf2291f6f2e17a0b444'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\optimize-animations-and-media.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/optimize-animations-and-media.md)
+##### <a name='590d41f5e2dba044b0355aa5cf2291f6f2e17a0b444'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\optimize-animations-and-media.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/optimize-animations-and-media.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-animations-and-media.99026a4fcc661ba5f7414835db426abe88042280.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/optimize-animations-and-media.99026a4fcc661ba5f7414835db426abe88042280.zh-cn.xlf)
@@ -6307,7 +6307,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b4923b2cae33b625fb88fc0c3659b70071406365446'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\optimize-gridview-and-listview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/optimize-gridview-and-listview.md)
+##### <a name='b4923b2cae33b625fb88fc0c3659b70071406365446'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\optimize-gridview-and-listview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/optimize-gridview-and-listview.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-gridview-and-listview.4ca478d74f6fd489ba30fe5d2ed6b7ffe6d45573.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/optimize-gridview-and-listview.4ca478d74f6fd489ba30fe5d2ed6b7ffe6d45573.zh-cn.xlf)
@@ -6331,7 +6331,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3fa7c0e3360635282968078432798793de8da191448'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\optimize-xaml-loading.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/optimize-xaml-loading.md)
+##### <a name='3fa7c0e3360635282968078432798793de8da191448'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\optimize-xaml-loading.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/optimize-xaml-loading.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-xaml-loading.cd7419752f6cf7ef345afe87aebebe0127ca72a2.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/optimize-xaml-loading.cd7419752f6cf7ef345afe87aebebe0127ca72a2.zh-cn.xlf)
@@ -6343,7 +6343,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e36152b1446788ffd387cea77fdc64914284366c449'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\optimize-your-xaml-layout.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/optimize-your-xaml-layout.md)
+##### <a name='e36152b1446788ffd387cea77fdc64914284366c449'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\optimize-your-xaml-layout.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/optimize-your-xaml-layout.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [optimize-your-xaml-layout.d4968c41cefe7f6297508c0572f45d4104b45f0c.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/optimize-your-xaml-layout.d4968c41cefe7f6297508c0572f45d4104b45f0c.zh-cn.xlf)
@@ -6355,7 +6355,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='93096acf7e39a74921f1e1424f9efce1c14c830a450'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\performance-and-xaml-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/performance-and-xaml-ui.md)
+##### <a name='93096acf7e39a74921f1e1424f9efce1c14c830a450'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\performance-and-xaml-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/performance-and-xaml-ui.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [performance-and-xaml-ui.2f6eb2a6dca02a80da76b07a4448993c4181c009.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/performance-and-xaml-ui.2f6eb2a6dca02a80da76b07a4448993c4181c009.zh-cn.xlf)
@@ -6391,7 +6391,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e619f11107c41b4fe6fe191d96ed719c80a8b84b453'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\tools-for-profiling-and-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/tools-for-profiling-and-performance.md)
+##### <a name='e619f11107c41b4fe6fe191d96ed719c80a8b84b453'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\tools-for-profiling-and-performance.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/tools-for-profiling-and-performance.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [tools-for-profiling-and-performance.c1f225265468b1b2915371f9e5f66288c4b39189.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/tools-for-profiling-and-performance.c1f225265468b1b2915371f9e5f66288c4b39189.zh-cn.xlf)
@@ -6403,7 +6403,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='393f3a9bd0d8060a440137b8461fb89f68cdb4f5455'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\windows-app-certification-kit.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/debug-test-perf/windows-app-certification-kit.md)
+##### <a name='393f3a9bd0d8060a440137b8461fb89f68cdb4f5455'></a> Source: [wdg-cpub-test\ndolci1\debug-test-perf\windows-app-certification-kit.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/debug-test-perf/windows-app-certification-kit.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [windows-app-certification-kit.63d7a11b44646d6a1f9e29e1a26ac93c778a03bb.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/windows-app-certification-kit.63d7a11b44646d6a1f9e29e1a26ac93c778a03bb.zh-cn.xlf)
@@ -6439,7 +6439,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='6b693f18c99c31e744497428a8b405204d7c69d3457'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\aep-service-class-ids.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/aep-service-class-ids.md)
+##### <a name='6b693f18c99c31e744497428a8b405204d7c69d3457'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\aep-service-class-ids.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/aep-service-class-ids.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [aep-service-class-ids.6040b5e55e95d218c5f04f4d50596b503dc8bec7.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/aep-service-class-ids.6040b5e55e95d218c5f04f4d50596b503dc8bec7.zh-cn.xlf)
@@ -6451,7 +6451,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='75d55b591cd207215302b327b520f2eb0ab5fb93458'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\bluetooth.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/bluetooth.md)
+##### <a name='75d55b591cd207215302b327b520f2eb0ab5fb93458'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\bluetooth.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/bluetooth.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [bluetooth.f390e7d55a60ea136658562fb9b7be2d501fb2e1.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/bluetooth.f390e7d55a60ea136658562fb9b7be2d501fb2e1.zh-cn.xlf)
@@ -6463,7 +6463,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='fdc5470c3b2e911f370e6f2b26a0c1608f194cab459'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\build-a-device-selector.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/build-a-device-selector.md)
+##### <a name='fdc5470c3b2e911f370e6f2b26a0c1608f194cab459'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\build-a-device-selector.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/build-a-device-selector.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [build-a-device-selector.73ca8c5316647711d9a64e3afd0c065b89bbb1d1.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/build-a-device-selector.73ca8c5316647711d9a64e3afd0c065b89bbb1d1.zh-cn.xlf)
@@ -6475,7 +6475,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='50b1e94a910d6742ee4a4a4d26bec5a04ef94444460'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\calibrate-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/calibrate-sensors.md)
+##### <a name='50b1e94a910d6742ee4a4a4d26bec5a04ef94444460'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\calibrate-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/calibrate-sensors.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [calibrate-sensors.a6cb69b28339df5044c72fa5fc1f2d9c3db6a39f.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/calibrate-sensors.a6cb69b28339df5044c72fa5fc1f2d9c3db6a39f.zh-cn.xlf)
@@ -6487,7 +6487,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='66dc4a7824d767244892ec923b422ced83bfcdf2461'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\customize-the-print-preview-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/customize-the-print-preview-ui.md)
+##### <a name='66dc4a7824d767244892ec923b422ced83bfcdf2461'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\customize-the-print-preview-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/customize-the-print-preview-ui.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [customize-the-print-preview-ui.4a84cee2b17c70edba458c33fcd4b2f25230925c.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/customize-the-print-preview-ui.4a84cee2b17c70edba458c33fcd4b2f25230925c.zh-cn.xlf)
@@ -6499,7 +6499,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='164d63f97a88838b8f43ad501c7bde9f1c60bde6462'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\device-information-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/device-information-properties.md)
+##### <a name='164d63f97a88838b8f43ad501c7bde9f1c60bde6462'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\device-information-properties.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/device-information-properties.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [device-information-properties.fb1f3fcb8354f18648910773a1c6f0af72dbc801.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/device-information-properties.fb1f3fcb8354f18648910773a1c6f0af72dbc801.zh-cn.xlf)
@@ -6511,7 +6511,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='896d0466b1b60a08e555eea39823c3059284210a463'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\enable-device-capabilities.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/enable-device-capabilities.md)
+##### <a name='896d0466b1b60a08e555eea39823c3059284210a463'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\enable-device-capabilities.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/enable-device-capabilities.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enable-device-capabilities.44e72b0dceffb7cd537add26930a69dc30953f32.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/enable-device-capabilities.44e72b0dceffb7cd537add26930a69dc30953f32.zh-cn.xlf)
@@ -6523,7 +6523,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='5e313a5fe607c19dc894b42153956c9d90ff1f92465'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\enumerate-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/enumerate-devices.md)
+##### <a name='5e313a5fe607c19dc894b42153956c9d90ff1f92465'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\enumerate-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/enumerate-devices.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enumerate-devices.a7c60acb94b1664cf9a6472cbe9d3cea5ea598fb.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/enumerate-devices.a7c60acb94b1664cf9a6472cbe9d3cea5ea598fb.zh-cn.xlf)
@@ -6535,7 +6535,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='dc14cb7f060fc8b0b65a6a6e744c0ea41448272a464'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\enumerate-devices-over-a-network.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/enumerate-devices-over-a-network.md)
+##### <a name='dc14cb7f060fc8b0b65a6a6e744c0ea41448272a464'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\enumerate-devices-over-a-network.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/enumerate-devices-over-a-network.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enumerate-devices-over-a-network.20a76402493fc0f7b46b898daf546452ebd7c301.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/enumerate-devices-over-a-network.20a76402493fc0f7b46b898daf546452ebd7c301.zh-cn.xlf)
@@ -6547,7 +6547,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='15046b9b3ce1dd577d4477fc40c0a10aa46f41d1466'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\epson-esc-pos-with-formatting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/epson-esc-pos-with-formatting.md)
+##### <a name='15046b9b3ce1dd577d4477fc40c0a10aa46f41d1466'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\epson-esc-pos-with-formatting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/epson-esc-pos-with-formatting.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [epson-esc-pos-with-formatting.e0f00ec656a87948256d4a2fbc6ab073e09ab9ff.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/epson-esc-pos-with-formatting.e0f00ec656a87948256d4a2fbc6ab073e09ab9ff.zh-cn.xlf)
@@ -6559,7 +6559,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='731f10276c48850bda9636fc3f11aa6609cef53b467'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\gatt-scenarios.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/gatt-scenarios.md)
+##### <a name='731f10276c48850bda9636fc3f11aa6609cef53b467'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\gatt-scenarios.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/gatt-scenarios.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [gatt-scenarios.772b474456664c71f2d8fb16310871eba80b5c4b.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/gatt-scenarios.772b474456664c71f2d8fb16310871eba80b5c4b.zh-cn.xlf)
@@ -6607,7 +6607,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='6abdd7d04a0bc87fcd75797baaafcd9c9e07505b471'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\pair-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/pair-devices.md)
+##### <a name='6abdd7d04a0bc87fcd75797baaafcd9c9e07505b471'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\pair-devices.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/pair-devices.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [pair-devices.a30f6dd445f09790cf0e0cd247713c26758deb0f.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/pair-devices.a30f6dd445f09790cf0e0cd247713c26758deb0f.zh-cn.xlf)
@@ -6631,7 +6631,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1c2c8588bacb03820375344b1c6233f196f50ec5473'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\printing-and-scanning.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/printing-and-scanning.md)
+##### <a name='1c2c8588bacb03820375344b1c6233f196f50ec5473'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\printing-and-scanning.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/printing-and-scanning.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [printing-and-scanning.2c18a085d60f646e4661f27895996c19a3a3f929.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/printing-and-scanning.2c18a085d60f646e4661f27895996c19a3a3f929.zh-cn.xlf)
@@ -6643,7 +6643,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ada98e12d8d2ac555f4d7f785e95a00c1aa8bf9f474'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\scan-from-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/scan-from-your-app.md)
+##### <a name='ada98e12d8d2ac555f4d7f785e95a00c1aa8bf9f474'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\scan-from-your-app.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/scan-from-your-app.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [scan-from-your-app.399544c601dd2cb14dc495a367a31b89cd97e8e1.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/scan-from-your-app.399544c601dd2cb14dc495a367a31b89cd97e8e1.zh-cn.xlf)
@@ -6667,7 +6667,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='9b14f1c2887a3e1178dc7161189f2817e101cce5476'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\sensor-orientation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/sensor-orientation.md)
+##### <a name='9b14f1c2887a3e1178dc7161189f2817e101cce5476'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\sensor-orientation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/sensor-orientation.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sensor-orientation.346253c0e9ef1141bad735b32b349389c78cf5d9.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/sensor-orientation.346253c0e9ef1141bad735b32b349389c78cf5d9.zh-cn.xlf)
@@ -6679,7 +6679,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='df5d20a4f6d3945bdc94f791003d68576ca3b95e477'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/devices-sensors/sensors.md)
+##### <a name='df5d20a4f6d3945bdc94f791003d68576ca3b95e477'></a> Source: [wdg-cpub-test\ndolci1\devices-sensors\sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/devices-sensors/sensors.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sensors.a6edb4bf6b41a0c6d5a4bd61a13f645c97499bd8.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/sensors.a6edb4bf6b41a0c6d5a4bd61a13f645c97499bd8.zh-cn.xlf)
@@ -6763,7 +6763,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='9b3a0c555618a19d66929e3af046a1e703dfad5d484'></a> Source: [wdg-cpub-test\ndolci1\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/docfx.json)
+##### <a name='9b3a0c555618a19d66929e3af046a1e703dfad5d484'></a> Source: [wdg-cpub-test\ndolci1\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/docfx.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -6799,7 +6799,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b5dfa9fa2c29b79359612f7381669481ed401033487'></a> Source: [wdg-cpub-test\ndolci1\files\file-access-permissions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/files/file-access-permissions.md)
+##### <a name='b5dfa9fa2c29b79359612f7381669481ed401033487'></a> Source: [wdg-cpub-test\ndolci1\files\file-access-permissions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/files/file-access-permissions.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [file-access-permissions.7425425764fdb6786845a277e69193ad0b6cff54.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/file-access-permissions.7425425764fdb6786845a277e69193ad0b6cff54.zh-cn.xlf)
@@ -6823,7 +6823,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='a11b02e4f35de86ccafdf504b5d046146f5e8812489'></a> Source: [wdg-cpub-test\ndolci1\files\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/files/index.md)
+##### <a name='a11b02e4f35de86ccafdf504b5d046146f5e8812489'></a> Source: [wdg-cpub-test\ndolci1\files\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/files/index.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.cdc7e3b3cfc7f0fbd9fcbeba43a8268f4becd98e.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/bca64bc3dc88dc90f0104d573de96a666b43a357/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/index.cdc7e3b3cfc7f0fbd9fcbeba43a8268f4becd98e.zh-cn.xlf)
@@ -6931,7 +6931,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d0712383af8e62261a0adf84be3a2af8e5941e64498'></a> Source: [wdg-cpub-test\ndolci1\get-started\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/get-started/account-types-locations-and-fees.md)
+##### <a name='d0712383af8e62261a0adf84be3a2af8e5941e64498'></a> Source: [wdg-cpub-test\ndolci1\get-started\account-types-locations-and-fees.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/get-started/account-types-locations-and-fees.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [account-types-locations-and-fees.206483d37e2cea3de35a893b6c5c4f041d2ea97b.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/account-types-locations-and-fees.206483d37e2cea3de35a893b6c5c4f041d2ea97b.zh-cn.xlf)
@@ -6979,7 +6979,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ee2bde728bf1df26366c8e59e3c787effa97c0d5502'></a> Source: [wdg-cpub-test\ndolci1\get-started\enable-your-device-for-development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/get-started/enable-your-device-for-development.md)
+##### <a name='ee2bde728bf1df26366c8e59e3c787effa97c0d5502'></a> Source: [wdg-cpub-test\ndolci1\get-started\enable-your-device-for-development.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/get-started/enable-your-device-for-development.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [enable-your-device-for-development.19b66aafca4f72280d15c2a09d13299c5f0df9ca.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/enable-your-device-for-development.19b66aafca4f72280d15c2a09d13299c5f0df9ca.zh-cn.xlf)
@@ -6991,7 +6991,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='5a92b2591e7157c09dc3c54b1eb271e28f7d60b4503'></a> Source: [wdg-cpub-test\ndolci1\get-started\get-set-up.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/get-started/get-set-up.md)
+##### <a name='5a92b2591e7157c09dc3c54b1eb271e28f7d60b4503'></a> Source: [wdg-cpub-test\ndolci1\get-started\get-set-up.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/get-started/get-set-up.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [get-set-up.babc59c9961166a70650fdf786e789c02290b146.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/get-set-up.babc59c9961166a70650fdf786e789c02290b146.zh-cn.xlf)
@@ -7003,7 +7003,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='a1040bd929a91376d722c4d655271aa0e6d981bd504'></a> Source: [wdg-cpub-test\ndolci1\get-started\images\js-tut-state-diagram.vsd](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/get-started/images/js-tut-state-diagram.vsd)
+##### <a name='a1040bd929a91376d722c4d655271aa0e6d981bd504'></a> Source: [wdg-cpub-test\ndolci1\get-started\images\js-tut-state-diagram.vsd](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/get-started/images/js-tut-state-diagram.vsd)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -7015,7 +7015,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='743e8333cf77ef7e2ea8d21a82c53009d750cd85505'></a> Source: [wdg-cpub-test\ndolci1\get-started\learn-more.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/get-started/learn-more.md)
+##### <a name='743e8333cf77ef7e2ea8d21a82c53009d750cd85505'></a> Source: [wdg-cpub-test\ndolci1\get-started\learn-more.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/get-started/learn-more.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [learn-more.324c2f678ef1aaa7dbb4d71c40294d18e82fd028.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/learn-more.324c2f678ef1aaa7dbb4d71c40294d18e82fd028.zh-cn.xlf)
@@ -7027,7 +7027,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='5412c65acbca0604ade4e0a60871e14d0bab775c506'></a> Source: [wdg-cpub-test\ndolci1\get-started\managing-your-profile.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/get-started/managing-your-profile.md)
+##### <a name='5412c65acbca0604ade4e0a60871e14d0bab775c506'></a> Source: [wdg-cpub-test\ndolci1\get-started\managing-your-profile.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/get-started/managing-your-profile.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [managing-your-profile.ebbcfbe1ef73ddb575c8d42d6e2261141fac8ce0.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/managing-your-profile.ebbcfbe1ef73ddb575c8d42d6e2261141fac8ce0.zh-cn.xlf)
@@ -7039,7 +7039,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e1247f7cc6f8c3744d50810c03d8652e8a24a372507'></a> Source: [wdg-cpub-test\ndolci1\get-started\opening-a-developer-account.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/get-started/opening-a-developer-account.md)
+##### <a name='e1247f7cc6f8c3744d50810c03d8652e8a24a372507'></a> Source: [wdg-cpub-test\ndolci1\get-started\opening-a-developer-account.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/get-started/opening-a-developer-account.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [opening-a-developer-account.c5014ce1f7ed7ae62c2805ae3ae54a3fbc1217cf.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/opening-a-developer-account.c5014ce1f7ed7ae62c2805ae3ae54a3fbc1217cf.zh-cn.xlf)
@@ -7051,7 +7051,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b251660b79f7076f636a9c8c55a60363e07530da508'></a> Source: [wdg-cpub-test\ndolci1\get-started\sign-up.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/get-started/sign-up.md)
+##### <a name='b251660b79f7076f636a9c8c55a60363e07530da508'></a> Source: [wdg-cpub-test\ndolci1\get-started\sign-up.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/get-started/sign-up.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [sign-up.4c3b5dff85b6c25beae78d7b7851b95e75c10e41.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/sign-up.4c3b5dff85b6c25beae78d7b7851b95e75c10e41.zh-cn.xlf)
@@ -7087,7 +7087,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ab7be29098105236c45e8990dd0cd36e9b0ba30c511'></a> Source: [wdg-cpub-test\ndolci1\graphics\3-d-perspective-effects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/3-d-perspective-effects.md)
+##### <a name='ab7be29098105236c45e8990dd0cd36e9b0ba30c511'></a> Source: [wdg-cpub-test\ndolci1\graphics\3-d-perspective-effects.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/3-d-perspective-effects.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [3-d-perspective-effects.fa396ea534ec917e9bf1abc13e6e98a47b7856c8.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/3-d-perspective-effects.fa396ea534ec917e9bf1abc13e6e98a47b7856c8.zh-cn.xlf)
@@ -7099,7 +7099,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='2fa0ffa67d6c2903b99534c4726dfde5073a6c1c512'></a> Source: [wdg-cpub-test\ndolci1\graphics\animations-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/animations-overview.md)
+##### <a name='2fa0ffa67d6c2903b99534c4726dfde5073a6c1c512'></a> Source: [wdg-cpub-test\ndolci1\graphics\animations-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/animations-overview.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [animations-overview.d51f4d9cafc009164f8713048fc0d568fc20898c.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/animations-overview.d51f4d9cafc009164f8713048fc0d568fc20898c.zh-cn.xlf)
@@ -7123,7 +7123,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='35dcae7a582f7ff74bce0ed8e9525aea0adc993a514'></a> Source: [wdg-cpub-test\ndolci1\graphics\composition-brushes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/composition-brushes.md)
+##### <a name='35dcae7a582f7ff74bce0ed8e9525aea0adc993a514'></a> Source: [wdg-cpub-test\ndolci1\graphics\composition-brushes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/composition-brushes.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [composition-brushes.d8bf61e4664881f960855585a93daf72b76c2200.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/composition-brushes.d8bf61e4664881f960855585a93daf72b76c2200.zh-cn.xlf)
@@ -7147,7 +7147,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='aa06fa4d0dda5524ace7a2278cd49729c7a14c2e516'></a> Source: [wdg-cpub-test\ndolci1\graphics\composition-native-interop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/composition-native-interop.md)
+##### <a name='aa06fa4d0dda5524ace7a2278cd49729c7a14c2e516'></a> Source: [wdg-cpub-test\ndolci1\graphics\composition-native-interop.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/composition-native-interop.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [composition-native-interop.468bfd5ea66d6537232a89ccef65a33cfe06b4b0.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/composition-native-interop.468bfd5ea66d6537232a89ccef65a33cfe06b4b0.zh-cn.xlf)
@@ -7159,7 +7159,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='0f49dc9a32861d10afe76ff6612d37720725eeee517'></a> Source: [wdg-cpub-test\ndolci1\graphics\composition-visual-tree.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/composition-visual-tree.md)
+##### <a name='0f49dc9a32861d10afe76ff6612d37720725eeee517'></a> Source: [wdg-cpub-test\ndolci1\graphics\composition-visual-tree.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/composition-visual-tree.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [composition-visual-tree.d56c68daf4669f881ce6549a2995ab2bf130fad9.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/composition-visual-tree.d56c68daf4669f881ce6549a2995ab2bf130fad9.zh-cn.xlf)
@@ -7171,7 +7171,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f71dd2fb2f144c3bc1b1a680837f6dfd8c84f925518'></a> Source: [wdg-cpub-test\ndolci1\graphics\drawing-shapes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/drawing-shapes.md)
+##### <a name='f71dd2fb2f144c3bc1b1a680837f6dfd8c84f925518'></a> Source: [wdg-cpub-test\ndolci1\graphics\drawing-shapes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/drawing-shapes.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [drawing-shapes.aaf75572d15f453d5ac47f6efcea673d064403da.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/drawing-shapes.aaf75572d15f453d5ac47f6efcea673d064403da.zh-cn.xlf)
@@ -7183,7 +7183,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141519'></a> Source: [wdg-cpub-test\ndolci1\graphics\images\animation-child-rectangles.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/images/animation-child-rectangles.gif)
+##### <a name='2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141519'></a> Source: [wdg-cpub-test\ndolci1\graphics\images\animation-child-rectangles.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/images/animation-child-rectangles.gif)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
@@ -7196,7 +7196,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='612821e7db46ce0c7c851e32f984408125150829520'></a> Source: [wdg-cpub-test\ndolci1\graphics\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/index.md)
+##### <a name='612821e7db46ce0c7c851e32f984408125150829520'></a> Source: [wdg-cpub-test\ndolci1\graphics\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/index.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.15e4de66a36f7f61d8cbd0d224f61a1b348471b3.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/index.15e4de66a36f7f61d8cbd0d224f61a1b348471b3.zh-cn.xlf)
@@ -7208,7 +7208,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='7eb519c64fd9f0bc8b669c758b6aad0e9d4b4d5f521'></a> Source: [wdg-cpub-test\ndolci1\graphics\key-frame-and-easing-function-animations.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/key-frame-and-easing-function-animations.md)
+##### <a name='7eb519c64fd9f0bc8b669c758b6aad0e9d4b4d5f521'></a> Source: [wdg-cpub-test\ndolci1\graphics\key-frame-and-easing-function-animations.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/key-frame-and-easing-function-animations.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [key-frame-and-easing-function-animations.a81f4a6e62646b9ab1ad6191b389d4f3af97e1e1.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/key-frame-and-easing-function-animations.a81f4a6e62646b9ab1ad6191b389d4f3af97e1e1.zh-cn.xlf)
@@ -7232,7 +7232,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='bd147a56fcb996b5f11ae813c073f70a9c350afd523'></a> Source: [wdg-cpub-test\ndolci1\graphics\transforms-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/transforms-overview.md)
+##### <a name='bd147a56fcb996b5f11ae813c073f70a9c350afd523'></a> Source: [wdg-cpub-test\ndolci1\graphics\transforms-overview.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/transforms-overview.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [transforms-overview.b209aa65028d25d2005f828dd069c8555be5e740.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/transforms-overview.b209aa65028d25d2005f828dd069c8555be5e740.zh-cn.xlf)
@@ -7244,7 +7244,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='01bedffa0a8a7b39869ac46bd788c487bba43903524'></a> Source: [wdg-cpub-test\ndolci1\graphics\using-brushes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/graphics/using-brushes.md)
+##### <a name='01bedffa0a8a7b39869ac46bd788c487bba43903524'></a> Source: [wdg-cpub-test\ndolci1\graphics\using-brushes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/graphics/using-brushes.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [using-brushes.6d2412d54d36dd6a5acd4d0589677916e715cdc6.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/using-brushes.6d2412d54d36dd6a5acd4d0589677916e715cdc6.zh-cn.xlf)
@@ -7520,7 +7520,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='639df51fbe4cbdc8364d8a4c17dc7a5e0f40f3d3547'></a> Source: [wdg-cpub-test\ndolci1\networking\code\backgroundtransfer\download_quickstart\js\main.js](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/networking/code/backgroundtransfer/download_quickstart/js/main.js)
+##### <a name='639df51fbe4cbdc8364d8a4c17dc7a5e0f40f3d3547'></a> Source: [wdg-cpub-test\ndolci1\networking\code\backgroundtransfer\download_quickstart\js\main.js](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/networking/code/backgroundtransfer/download_quickstart/js/main.js)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -7532,7 +7532,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d2f1964af629846416bee9445f7c564660fd72ff548'></a> Source: [wdg-cpub-test\ndolci1\networking\code\backgroundtransfer\download_quickstartcs\cs\main.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/networking/code/backgroundtransfer/download_quickstartcs/cs/main.cs)
+##### <a name='d2f1964af629846416bee9445f7c564660fd72ff548'></a> Source: [wdg-cpub-test\ndolci1\networking\code\backgroundtransfer\download_quickstartcs\cs\main.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/networking/code/backgroundtransfer/download_quickstartcs/cs/main.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -7544,7 +7544,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='4d2b2e0b87673696d9c7fcfb48cc309729099f30549'></a> Source: [wdg-cpub-test\ndolci1\networking\code\backgroundtransfer\download_quickstartcs\cs\main.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/networking/code/backgroundtransfer/download_quickstartcs/cs/main.xaml.cs)
+##### <a name='4d2b2e0b87673696d9c7fcfb48cc309729099f30549'></a> Source: [wdg-cpub-test\ndolci1\networking\code\backgroundtransfer\download_quickstartcs\cs\main.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/networking/code/backgroundtransfer/download_quickstartcs/cs/main.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -7556,7 +7556,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1af01b63e3a1c6178ab3c6f62ae57ea1b9fdb81e550'></a> Source: [wdg-cpub-test\ndolci1\networking\code\backgroundtransfer\upload_quickstart\js\main.js](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/networking/code/backgroundtransfer/upload_quickstart/js/main.js)
+##### <a name='1af01b63e3a1c6178ab3c6f62ae57ea1b9fdb81e550'></a> Source: [wdg-cpub-test\ndolci1\networking\code\backgroundtransfer\upload_quickstart\js\main.js](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/networking/code/backgroundtransfer/upload_quickstart/js/main.js)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -7580,7 +7580,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='a9c0e6deaa76b995a98cbfb4c373065f8c635e4c552'></a> Source: [wdg-cpub-test\ndolci1\networking\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/networking/index.md)
+##### <a name='a9c0e6deaa76b995a98cbfb4c373065f8c635e4c552'></a> Source: [wdg-cpub-test\ndolci1\networking\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/networking/index.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.2532cea4ebda1f2b48ffb73f1a0e448311275d39.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/index.2532cea4ebda1f2b48ffb73f1a0e448311275d39.zh-cn.xlf)
@@ -7604,7 +7604,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c2cb4cffdd8252207df28eab2484bc40c430efc9554'></a> Source: [wdg-cpub-test\ndolci1\networking\networking-basics.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/networking/networking-basics.md)
+##### <a name='c2cb4cffdd8252207df28eab2484bc40c430efc9554'></a> Source: [wdg-cpub-test\ndolci1\networking\networking-basics.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/networking/networking-basics.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [networking-basics.621030e415625f9642ad253d2a9c99aaa22bb2ae.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/networking-basics.621030e415625f9642ad253d2a9c99aaa22bb2ae.zh-cn.xlf)
@@ -7640,7 +7640,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='afdeb64341edcb977dadab00a0dc705e79c60809557'></a> Source: [wdg-cpub-test\ndolci1\networking\websockets.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/networking/websockets.md)
+##### <a name='afdeb64341edcb977dadab00a0dc705e79c60809557'></a> Source: [wdg-cpub-test\ndolci1\networking\websockets.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/networking/websockets.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [websockets.57f992a0037c3f099027384369ee164f6d061cee.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/websockets.57f992a0037c3f099027384369ee164f6d061cee.zh-cn.xlf)
@@ -7652,7 +7652,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='00de660fa7d41a6b9b0698d0857864d25036ace3558'></a> Source: [wdg-cpub-test\ndolci1\networking\which-networking-technology.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/networking/which-networking-technology.md)
+##### <a name='00de660fa7d41a6b9b0698d0857864d25036ace3558'></a> Source: [wdg-cpub-test\ndolci1\networking\which-networking-technology.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/networking/which-networking-technology.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [which-networking-technology.41943ddcd509215ffd99bbcd14b8bcbabc09b774.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/which-networking-technology.41943ddcd509215ffd99bbcd14b8bcbabc09b774.zh-cn.xlf)
@@ -7676,7 +7676,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='6b7e829169a788ec298a8537f4364dc1c20ad5b1560'></a> Source: [wdg-cpub-test\ndolci1\packaging\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/packaging/index.md)
+##### <a name='6b7e829169a788ec298a8537f4364dc1c20ad5b1560'></a> Source: [wdg-cpub-test\ndolci1\packaging\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/packaging/index.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.7181afa742854277c0952a75bb2df86cf4c7cd78.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/index.7181afa742854277c0952a75bb2df86cf4c7cd78.zh-cn.xlf)
@@ -7688,7 +7688,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='896c64a0ad4fc2506a5b2c84bb3d34fc624fb153561'></a> Source: [wdg-cpub-test\ndolci1\packaging\install-universal-windows-apps-with-the-winappdeploycmd-tool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/packaging/install-universal-windows-apps-with-the-winappdeploycmd-tool.md)
+##### <a name='896c64a0ad4fc2506a5b2c84bb3d34fc624fb153561'></a> Source: [wdg-cpub-test\ndolci1\packaging\install-universal-windows-apps-with-the-winappdeploycmd-tool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/packaging/install-universal-windows-apps-with-the-winappdeploycmd-tool.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [install-universal-windows-apps-with-the-winappdeploycmd-tool.593190438ff3e9fa78fab4809b82f0acd91532e5.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/install-universal-windows-apps-with-the-winappdeploycmd-tool.593190438ff3e9fa78fab4809b82f0acd91532e5.zh-cn.xlf)
@@ -7712,7 +7712,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f25e6aa8324bc8d80d6741fde3d3b6b24611a78e563'></a> Source: [wdg-cpub-test\ndolci1\porting\getting-started-animation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/getting-started-animation.md)
+##### <a name='f25e6aa8324bc8d80d6741fde3d3b6b24611a78e563'></a> Source: [wdg-cpub-test\ndolci1\porting\getting-started-animation.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/getting-started-animation.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-animation.ec5196bcf5588482bee2b498ddec4e3199e16deb.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/getting-started-animation.ec5196bcf5588482bee2b498ddec4e3199e16deb.zh-cn.xlf)
@@ -7760,7 +7760,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='53aa1138567bbb0d9d241783157c919df37402ac567'></a> Source: [wdg-cpub-test\ndolci1\porting\getting-started-getting-around-in-visual-studio.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/getting-started-getting-around-in-visual-studio.md)
+##### <a name='53aa1138567bbb0d9d241783157c919df37402ac567'></a> Source: [wdg-cpub-test\ndolci1\porting\getting-started-getting-around-in-visual-studio.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/getting-started-getting-around-in-visual-studio.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [getting-started-getting-around-in-visual-studio.b3510a938584715466be94563a6d75959a73940b.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/getting-started-getting-around-in-visual-studio.b3510a938584715466be94563a6d75959a73940b.zh-cn.xlf)
@@ -7844,7 +7844,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ed8a73be55682e0e0711672d5be289abce7a2a5b574'></a> Source: [wdg-cpub-test\ndolci1\porting\setting-up-your-mac-with-windows-10.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/setting-up-your-mac-with-windows-10.md)
+##### <a name='ed8a73be55682e0e0711672d5be289abce7a2a5b574'></a> Source: [wdg-cpub-test\ndolci1\porting\setting-up-your-mac-with-windows-10.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/setting-up-your-mac-with-windows-10.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [setting-up-your-mac-with-windows-10.35f00e124ecf98ce839a70f78d1e06540f32e2dc.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/setting-up-your-mac-with-windows-10.35f00e124ecf98ce839a70f78d1e06540f32e2dc.zh-cn.xlf)
@@ -7856,7 +7856,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d445a197c7b6eb20441b93a5d875d71fb3185f3d575'></a> Source: [wdg-cpub-test\ndolci1\porting\update-your-visual-studio-2015-rc-project-to-rtm.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/update-your-visual-studio-2015-rc-project-to-rtm.md)
+##### <a name='d445a197c7b6eb20441b93a5d875d71fb3185f3d575'></a> Source: [wdg-cpub-test\ndolci1\porting\update-your-visual-studio-2015-rc-project-to-rtm.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/update-your-visual-studio-2015-rc-project-to-rtm.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [update-your-visual-studio-2015-rc-project-to-rtm.18919c623553d17fe651851e5fde94b7b0d9dcc3.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/update-your-visual-studio-2015-rc-project-to-rtm.18919c623553d17fe651851e5fde94b7b0d9dcc3.zh-cn.xlf)
@@ -7904,7 +7904,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='987e44b081f1d50dac2252a0a72f0ab7c1433b59579'></a> Source: [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-input-and-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-input-and-sensors.md)
+##### <a name='987e44b081f1d50dac2252a0a72f0ab7c1433b59579'></a> Source: [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-input-and-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-input-and-sensors.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [w8x-to-uwp-input-and-sensors.8bb8a84f70ae924fd6f7a9ed8698e4d450018456.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/w8x-to-uwp-input-and-sensors.8bb8a84f70ae924fd6f7a9ed8698e4d450018456.zh-cn.xlf)
@@ -7928,7 +7928,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8958b5d1320d93bb3a4eb45902a845b0132f2c1b581'></a> Source: [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-porting-xaml-and-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-porting-xaml-and-ui.md)
+##### <a name='8958b5d1320d93bb3a4eb45902a845b0132f2c1b581'></a> Source: [wdg-cpub-test\ndolci1\porting\w8x-to-uwp-porting-xaml-and-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/w8x-to-uwp-porting-xaml-and-ui.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [w8x-to-uwp-porting-xaml-and-ui.2c2953d501043745d44d7c541de2162752068564.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/w8x-to-uwp-porting-xaml-and-ui.2c2953d501043745d44d7c541de2162752068564.zh-cn.xlf)
@@ -8000,7 +8000,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b6e33c1df9d6ddb9f45ea6882bdf20f059d6789e587'></a> Source: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-form-factors-and-ux.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-form-factors-and-ux.md)
+##### <a name='b6e33c1df9d6ddb9f45ea6882bdf20f059d6789e587'></a> Source: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-form-factors-and-ux.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-form-factors-and-ux.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-form-factors-and-ux.16dc76ccb9fe2f8bb6e4986bc0ac09affad4c1a0.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/wpsl-to-uwp-form-factors-and-ux.16dc76ccb9fe2f8bb6e4986bc0ac09affad4c1a0.zh-cn.xlf)
@@ -8012,7 +8012,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='643aa46fd5d69ea9d88ac8ee67428337fa4c0164588'></a> Source: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-input-and-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-input-and-sensors.md)
+##### <a name='643aa46fd5d69ea9d88ac8ee67428337fa4c0164588'></a> Source: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-input-and-sensors.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-input-and-sensors.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-input-and-sensors.3c8fa7deca1c548bfc2d8d2530134575ca9ae3ff.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/wpsl-to-uwp-input-and-sensors.3c8fa7deca1c548bfc2d8d2530134575ca9ae3ff.zh-cn.xlf)
@@ -8024,7 +8024,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='7edc8de3b71803be304e8fc376c24dd00bddc9ce589'></a> Source: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-namespace-and-class-mappings.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-namespace-and-class-mappings.md)
+##### <a name='7edc8de3b71803be304e8fc376c24dd00bddc9ce589'></a> Source: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-namespace-and-class-mappings.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-namespace-and-class-mappings.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-namespace-and-class-mappings.d2b68df387e6560b98b489df165e911f958dc8c8.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/wpsl-to-uwp-namespace-and-class-mappings.d2b68df387e6560b98b489df165e911f958dc8c8.zh-cn.xlf)
@@ -8048,7 +8048,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='4a9e71a4ec58278205bb325fd875959ff9948fb5591'></a> Source: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-porting-xaml-and-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-porting-xaml-and-ui.md)
+##### <a name='4a9e71a4ec58278205bb325fd875959ff9948fb5591'></a> Source: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-porting-xaml-and-ui.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-porting-xaml-and-ui.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-porting-xaml-and-ui.db97f2e54f2edb30c7b665d00966c1f044c957e6.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/wpsl-to-uwp-porting-xaml-and-ui.db97f2e54f2edb30c7b665d00966c1f044c957e6.zh-cn.xlf)
@@ -8072,7 +8072,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='cb09ba3c6a44ec7eef1ccb9e80609352582a0e3e593'></a> Source: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-troubleshooting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-troubleshooting.md)
+##### <a name='cb09ba3c6a44ec7eef1ccb9e80609352582a0e3e593'></a> Source: [wdg-cpub-test\ndolci1\porting\wpsl-to-uwp-troubleshooting.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/porting/wpsl-to-uwp-troubleshooting.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [wpsl-to-uwp-troubleshooting.20f7215f3000f1e42b7bb3dc500ded8a139589c7.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/wpsl-to-uwp-troubleshooting.20f7215f3000f1e42b7bb3dc500ded8a139589c7.zh-cn.xlf)
@@ -8972,7 +8972,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='236cce255e2fb88a4730bc835da46f5e2ad88193668'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/App.xaml)
+##### <a name='236cce255e2fb88a4730bc835da46f5e2ad88193668'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -8984,7 +8984,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='5fe4b50b0ecd38d9f54650f315434382e60ebf6c669'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/App.xaml.cs)
+##### <a name='5fe4b50b0ecd38d9f54650f315434382e60ebf6c669'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/App.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -8996,7 +8996,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='06450872e2e7fede582e023139fc3f0acb574892670'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\AsyncSnippets.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/AsyncSnippets.csproj)
+##### <a name='06450872e2e7fede582e023139fc3f0acb574892670'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\AsyncSnippets.csproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/AsyncSnippets.csproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -9008,7 +9008,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='6bfaa5744398733bc3a2e83c3c63868a5b99ae04671'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/MainPage.xaml)
+##### <a name='6bfaa5744398733bc3a2e83c3c63868a5b99ae04671'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -9020,7 +9020,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f7313d3d94cc8671d80fb382873b4e2e3eda22db672'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/MainPage.xaml.cs)
+##### <a name='f7313d3d94cc8671d80fb382873b4e2e3eda22db672'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\MainPage.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/MainPage.xaml.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -9032,7 +9032,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e5545019c7e9c2f161a4aa71b8f528564c9f0703673'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/Package.appxmanifest)
+##### <a name='e5545019c7e9c2f161a4aa71b8f528564c9f0703673'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -9044,7 +9044,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='c640bbe205107539bd36ef191fe4851389555d37674'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/Properties/AssemblyInfo.cs)
+##### <a name='c640bbe205107539bd36ef191fe4851389555d37674'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\csharp\Properties\AssemblyInfo.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/csharp/Properties/AssemblyInfo.cs)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -9056,7 +9056,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b4fb7909aeee49e7608cebf2761746257225f32a675'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\metadata\creator.txt](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/metadata/creator.txt)
+##### <a name='b4fb7909aeee49e7608cebf2761746257225f32a675'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\metadata\creator.txt](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/metadata/creator.txt)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -9068,7 +9068,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f9346c7de440d15fa0cf3ad3ba82a5bec5469bc8676'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/App.xaml)
+##### <a name='f9346c7de440d15fa0cf3ad3ba82a5bec5469bc8676'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/App.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -9080,7 +9080,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='02cf3a4ca633595e2f811c42f87330f0c3e4d873677'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\App.xaml.vb](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/App.xaml.vb)
+##### <a name='02cf3a4ca633595e2f811c42f87330f0c3e4d873677'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\App.xaml.vb](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/App.xaml.vb)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -9092,7 +9092,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='31eaa83bbf34cca201f66a8e6188312bd202cfb3678'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\Common\StandardStyles.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/Common/StandardStyles.xaml)
+##### <a name='31eaa83bbf34cca201f66a8e6188312bd202cfb3678'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\Common\StandardStyles.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/Common/StandardStyles.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -9104,7 +9104,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ead0e9b40271589c6011b4c336c9ae75e7ca1eac679'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/MainPage.xaml)
+##### <a name='ead0e9b40271589c6011b4c336c9ae75e7ca1eac679'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\MainPage.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/MainPage.xaml)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -9116,7 +9116,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f1d809fa946c6053cfcf57b42734a98b8efed193680'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\MainPage.xaml.vb](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/MainPage.xaml.vb)
+##### <a name='f1d809fa946c6053cfcf57b42734a98b8efed193680'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\MainPage.xaml.vb](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/MainPage.xaml.vb)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -9128,7 +9128,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='9330ad5b077989dcfe92b1055480db8ed7212ee7681'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\My Project\AssemblyInfo.vb](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/My Project/AssemblyInfo.vb)
+##### <a name='9330ad5b077989dcfe92b1055480db8ed7212ee7681'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\My Project\AssemblyInfo.vb](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/My Project/AssemblyInfo.vb)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -9140,7 +9140,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='86de7932acf1ad56d65ff8b0c68c4e4a4da2e53a682'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/Package.appxmanifest)
+##### <a name='86de7932acf1ad56d65ff8b0c68c4e4a4da2e53a682'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\Package.appxmanifest](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/Package.appxmanifest)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -9152,7 +9152,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1e9df380bcf03b42e8b6618be85b7686ef61fe7a683'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\VBAsync.vbproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/VBAsync.vbproj)
+##### <a name='1e9df380bcf03b42e8b6618be85b7686ef61fe7a683'></a> Source: [wdg-cpub-test\ndolci1\threading-async\AsyncSnippets\vbnet\VBAsync.vbproj](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/AsyncSnippets/vbnet/VBAsync.vbproj)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -9164,7 +9164,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='93c48f2e8199e10237b148f6a3ea3a08a6703dac684'></a> Source: [wdg-cpub-test\ndolci1\threading-async\best-practices-for-using-the-thread-pool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/best-practices-for-using-the-thread-pool.md)
+##### <a name='93c48f2e8199e10237b148f6a3ea3a08a6703dac684'></a> Source: [wdg-cpub-test\ndolci1\threading-async\best-practices-for-using-the-thread-pool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/best-practices-for-using-the-thread-pool.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [best-practices-for-using-the-thread-pool.f8acc1835bfc400e2e5174574162bb9f32b11d02.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/best-practices-for-using-the-thread-pool.f8acc1835bfc400e2e5174574162bb9f32b11d02.zh-cn.xlf)
@@ -9188,7 +9188,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ecf1ccbba7b55bf5715f78bb72822b83e25272df686'></a> Source: [wdg-cpub-test\ndolci1\threading-async\create-a-periodic-work-item.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/create-a-periodic-work-item.md)
+##### <a name='ecf1ccbba7b55bf5715f78bb72822b83e25272df686'></a> Source: [wdg-cpub-test\ndolci1\threading-async\create-a-periodic-work-item.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/create-a-periodic-work-item.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [create-a-periodic-work-item.23276defc11fae179bea192aebc04bf0783c41f3.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/create-a-periodic-work-item.23276defc11fae179bea192aebc04bf0783c41f3.zh-cn.xlf)
@@ -9200,7 +9200,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='b34d9448dbe2707cb715e47eac11dfe64f74b5dc687'></a> Source: [wdg-cpub-test\ndolci1\threading-async\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/index.md)
+##### <a name='b34d9448dbe2707cb715e47eac11dfe64f74b5dc687'></a> Source: [wdg-cpub-test\ndolci1\threading-async\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/index.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [index.2fb3593b07c5c9610512026910954649c55c8f4f.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/index.2fb3593b07c5c9610512026910954649c55c8f4f.zh-cn.xlf)
@@ -9212,7 +9212,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='2d6bc6d750027e26359e24d4d95ad4c52d9c86e9688'></a> Source: [wdg-cpub-test\ndolci1\threading-async\submit-a-work-item-to-the-thread-pool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/submit-a-work-item-to-the-thread-pool.md)
+##### <a name='2d6bc6d750027e26359e24d4d95ad4c52d9c86e9688'></a> Source: [wdg-cpub-test\ndolci1\threading-async\submit-a-work-item-to-the-thread-pool.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/submit-a-work-item-to-the-thread-pool.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [submit-a-work-item-to-the-thread-pool.e804e1c26df3d9e993c532c2e775b74ea95acf10.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/submit-a-work-item-to-the-thread-pool.e804e1c26df3d9e993c532c2e775b74ea95acf10.zh-cn.xlf)
@@ -9224,7 +9224,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f418ec9cfe9f8f26b6c74e5b5ae42098f0e4f9cf689'></a> Source: [wdg-cpub-test\ndolci1\threading-async\use-a-timer-to-submit-a-work-item.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/threading-async/use-a-timer-to-submit-a-work-item.md)
+##### <a name='f418ec9cfe9f8f26b6c74e5b5ae42098f0e4f9cf689'></a> Source: [wdg-cpub-test\ndolci1\threading-async\use-a-timer-to-submit-a-work-item.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/threading-async/use-a-timer-to-submit-a-work-item.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [use-a-timer-to-submit-a-work-item.b3a64923914d9e123b3c0c9c9ddd339464e765b3.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/use-a-timer-to-submit-a-work-item.b3a64923914d9e123b3c0c9c9ddd339464e765b3.zh-cn.xlf)
@@ -9512,7 +9512,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='08c085ae4e52a249bcaafe839f8baff8ca74c8d9713'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\binding-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/binding-markup-extension.md)
+##### <a name='08c085ae4e52a249bcaafe839f8baff8ca74c8d9713'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\binding-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/binding-markup-extension.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [binding-markup-extension.2d47573f97980097e45a83394f2bc86a25a4eeb4.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/binding-markup-extension.2d47573f97980097e45a83394f2bc86a25a4eeb4.zh-cn.xlf)
@@ -9548,7 +9548,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='fb2d2fcd4b5697c6ebf3f3c7b2123c85104c2939716'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\customresource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/customresource-markup-extension.md)
+##### <a name='fb2d2fcd4b5697c6ebf3f3c7b2123c85104c2939716'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\customresource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/customresource-markup-extension.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [customresource-markup-extension.ce94cb48c2454b7b5cf75e6d3784f8baa1003e6e.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/customresource-markup-extension.ce94cb48c2454b7b5cf75e6d3784f8baa1003e6e.zh-cn.xlf)
@@ -9596,7 +9596,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='f971a8891a41542db8e6fb9b943db052849e8913720'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\move-draw-commands-syntax.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/move-draw-commands-syntax.md)
+##### <a name='f971a8891a41542db8e6fb9b943db052849e8913720'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\move-draw-commands-syntax.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/move-draw-commands-syntax.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [move-draw-commands-syntax.ae1a04ace1618ade0c9478e32ac125350878d9cd.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/move-draw-commands-syntax.ae1a04ace1618ade0c9478e32ac125350878d9cd.zh-cn.xlf)
@@ -9608,7 +9608,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='ae1fb98bf424be747ca3b04696198940836415fa721'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\property-path-syntax.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/property-path-syntax.md)
+##### <a name='ae1fb98bf424be747ca3b04696198940836415fa721'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\property-path-syntax.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/property-path-syntax.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [property-path-syntax.c9c353794e03c183cc02fff47ce45b4695b9cf48.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/property-path-syntax.c9c353794e03c183cc02fff47ce45b4695b9cf48.zh-cn.xlf)
@@ -9620,7 +9620,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='afccd56780f303dd8daf72267928a047385673df722'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\relativesource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/relativesource-markup-extension.md)
+##### <a name='afccd56780f303dd8daf72267928a047385673df722'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\relativesource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/relativesource-markup-extension.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [relativesource-markup-extension.3887d53d4131fdeb6028af66b411d29636fbe765.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/relativesource-markup-extension.3887d53d4131fdeb6028af66b411d29636fbe765.zh-cn.xlf)
@@ -9632,7 +9632,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='3fdf144163d14ae3b0c6b5555ccb69b8c76872ef723'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\staticresource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/staticresource-markup-extension.md)
+##### <a name='3fdf144163d14ae3b0c6b5555ccb69b8c76872ef723'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\staticresource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/staticresource-markup-extension.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [staticresource-markup-extension.e69b526dde18065d3def8701a31bfe6fada47f12.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/staticresource-markup-extension.e69b526dde18065d3def8701a31bfe6fada47f12.zh-cn.xlf)
@@ -9644,7 +9644,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='e6969bf7938c29b34f28c02e0f5c565be2ca2417725'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\templatebinding-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/templatebinding-markup-extension.md)
+##### <a name='e6969bf7938c29b34f28c02e0f5c565be2ca2417725'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\templatebinding-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/templatebinding-markup-extension.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [templatebinding-markup-extension.487113454417c2e1d11ddca703cea2026a64401f.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/templatebinding-markup-extension.487113454417c2e1d11ddca703cea2026a64401f.zh-cn.xlf)
@@ -9656,7 +9656,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='321ba601c83b996d5e9a4edef60a52c3934216e7724'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\template-settings-classes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/template-settings-classes.md)
+##### <a name='321ba601c83b996d5e9a4edef60a52c3934216e7724'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\template-settings-classes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/template-settings-classes.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [template-settings-classes.e3fa6c2e43d1eed15e2cb47c03d8184ee349640b.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/template-settings-classes.e3fa6c2e43d1eed15e2cb47c03d8184ee349640b.zh-cn.xlf)
@@ -9668,7 +9668,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='d872648c0412de391a43d88c1425a9ddea44e6ed726'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\themeresource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/themeresource-markup-extension.md)
+##### <a name='d872648c0412de391a43d88c1425a9ddea44e6ed726'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\themeresource-markup-extension.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/themeresource-markup-extension.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [themeresource-markup-extension.60fe2a7d4500a0a5b74b1d926810a9521c848935.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/themeresource-markup-extension.60fe2a7d4500a0a5b74b1d926810a9521c848935.zh-cn.xlf)
@@ -9680,7 +9680,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='01112910296923a767e3968f35d286e661cf29e5736'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\xaml-and-whitespace.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/xaml-and-whitespace.md)
+##### <a name='01112910296923a767e3968f35d286e661cf29e5736'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\xaml-and-whitespace.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/xaml-and-whitespace.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xaml-and-whitespace.dee91b132cdd33f3f1fdd70d373f1f54c8212a39.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/xaml-and-whitespace.dee91b132cdd33f3f1fdd70d373f1f54c8212a39.zh-cn.xlf)
@@ -9692,7 +9692,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='2c36a6c3b75da75567b5bcd368812c98927b4a85737'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\xaml-intrinsic-data-types.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/xaml-intrinsic-data-types.md)
+##### <a name='2c36a6c3b75da75567b5bcd368812c98927b4a85737'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\xaml-intrinsic-data-types.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/xaml-intrinsic-data-types.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xaml-intrinsic-data-types.2e80a574c307b174da191c6df5bed5359ca6a8fb.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/xaml-intrinsic-data-types.2e80a574c307b174da191c6df5bed5359ca6a8fb.zh-cn.xlf)
@@ -9704,7 +9704,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='67beb04cc87765a4c2edb249a61ba300cd9a7544738'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\xaml-namescopes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/xaml-namescopes.md)
+##### <a name='67beb04cc87765a4c2edb249a61ba300cd9a7544738'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\xaml-namescopes.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/xaml-namescopes.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [xaml-namescopes.5e9dcd37bad291f4d3e9cd9271e646c28e701006.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/xaml-namescopes.5e9dcd37bad291f4d3e9cd9271e646c28e701006.zh-cn.xlf)
@@ -9764,7 +9764,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='daca0d528ae54849d010e3799fa6ee299fe7d3f2728'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\x-class-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/x-class-attribute.md)
+##### <a name='daca0d528ae54849d010e3799fa6ee299fe7d3f2728'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\x-class-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/x-class-attribute.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-class-attribute.f0bbdd99c552db4284ea14f086f274b6c2be0c5e.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/x-class-attribute.f0bbdd99c552db4284ea14f086f274b6c2be0c5e.zh-cn.xlf)
@@ -9776,7 +9776,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='1b4209d74a1dde9a4d5695d3e2f9e3bbec7568c4729'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\x-deferloadstrategy-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/x-deferloadstrategy-attribute.md)
+##### <a name='1b4209d74a1dde9a4d5695d3e2f9e3bbec7568c4729'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\x-deferloadstrategy-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/x-deferloadstrategy-attribute.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-deferloadstrategy-attribute.10a4e1c3cec603b02942a904bb68dfb9a1e8feaa.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/x-deferloadstrategy-attribute.10a4e1c3cec603b02942a904bb68dfb9a1e8feaa.zh-cn.xlf)
@@ -9800,7 +9800,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='5d743d4e47a37b574ce51487cba1481fd322c86a731'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\x-key-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/x-key-attribute.md)
+##### <a name='5d743d4e47a37b574ce51487cba1481fd322c86a731'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\x-key-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/x-key-attribute.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-key-attribute.51359af6a3afe94e4760e0dd67582b9f6eebb77e.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/x-key-attribute.51359af6a3afe94e4760e0dd67582b9f6eebb77e.zh-cn.xlf)
@@ -9812,7 +9812,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='167ae7ee519736967c5163e2c37e3ca1fd507a7d732'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\x-name-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/x-name-attribute.md)
+##### <a name='167ae7ee519736967c5163e2c37e3ca1fd507a7d732'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\x-name-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/x-name-attribute.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-name-attribute.8dd49aee9bb9a5f6ce6082d06f13fea2d007720b.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/x-name-attribute.8dd49aee9bb9a5f6ce6082d06f13fea2d007720b.zh-cn.xlf)
@@ -9836,7 +9836,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='8903c832f313ca522e07331a028d370aee039f58734'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\x-phase-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/x-phase-attribute.md)
+##### <a name='8903c832f313ca522e07331a028d370aee039f58734'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\x-phase-attribute.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/x-phase-attribute.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-phase-attribute.5254cda579b6b2cb8645ffebd1528685155f51eb.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/x-phase-attribute.5254cda579b6b2cb8645ffebd1528685155f51eb.zh-cn.xlf)
@@ -9848,7 +9848,7 @@
 * Handback Datetime: 0001-01-01 00:00:00
 * [Back to Top](#report-top)
 
-##### <a name='5880add499ff902e320c9d594279444f28668da0735'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\x-uid-directive.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/ndolci1/xaml-platform/x-uid-directive.md)
+##### <a name='5880add499ff902e320c9d594279444f28668da0735'></a> Source: [wdg-cpub-test\ndolci1\xaml-platform\x-uid-directive.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/ndolci1/xaml-platform/x-uid-directive.md)
 * Status: HandedOffSuccess
 * Target File: 
 * Handoff File: [x-uid-directive.b5fcb1e73de21e49f2c6a0d92af203df51a51da2.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/fe4e5ab8345caf301f571612772483034b92d29e/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/x-uid-directive.b5fcb1e73de21e49f2c6a0d92af203df51a51da2.zh-cn.xlf)
@@ -10017,7 +10017,7 @@
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#3f3f4f6dc70f65ebea6ecf5d632dd320750c6ee6753handback_type_is_mismatch_with_handoff_type)
 * [Back to Top](#report-top)
 
-##### <a name='cb4c1f48a6689d260b479437f66a250a5bf5d7fd754'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\common\wedge.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/common/wedge.gif)
+##### <a name='cb4c1f48a6689d260b479437f66a250a5bf5d7fd754'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\common\wedge.gif](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/common/wedge.gif)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -10237,7 +10237,7 @@
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#c9bd51c0edbff713f41e18a4320a9258f41790f4770handback_type_is_mismatch_with_handoff_type)
 * [Back to Top](#report-top)
 
-##### <a name='a57e172cf19fe083f68a6586ff8e77a4b9282e16771'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/docfx.json)
+##### <a name='a57e172cf19fe083f68a6586ff8e77a4b9282e16771'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/docfx.json)
 * Status: Ignored
 * Target File: 
 * Handoff File: 
@@ -10751,7 +10751,7 @@
 * Handback Error: [handback_type_is_mismatch_with_handoff_type](#2434c94f583589d368ce55e6c5d26150cec8ce15809handback_type_is_mismatch_with_handoff_type)
 * [Back to Top](#report-top)
 
-##### <a name='2434c94f583589d368ce55e6c5d26150cec8ce15810'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_the_device_fundamental_tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/4e8b5030c38d31887a74b6867b572c7137222c1f/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_the_device_fundamental_tests.md)
+##### <a name='2434c94f583589d368ce55e6c5d26150cec8ce15810'></a> Source: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_the_device_fundamental_tests.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/33ce38f5a2c95adc7462016e19d20134eb669fcc/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_the_device_fundamental_tests.md)
 * Status: InSyncHandedBackSuccess
 * Target File: [wdg-cpub-test\v-paulj\Windows-driver-docs_develop\troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test.zh-cn/blob/b768e43a1929be5bab54a088dbcc75d3742043a5/wdg-cpub-test/v-paulj/Windows-driver-docs_develop/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.md)
 * Handoff File: [troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.zh-cn.xlf](https://github.com/OpenLocalizationOrg/olhandoff/blob/8b3ae149b7398bce1273c82ef5e854e4331c97a9/ol-handoff/OpenLocalizationOrg/wdg-cpub-test.zh-cn/master/troubleshooting_configuration_of_driver_deployment__testing_and_debugging.150387a3e5878072825b5c4de61ed143a92efbe3.zh-cn.xlf)
