@@ -106,6 +106,9 @@
     "wdg-cpub-test\\v-paulj\\Windows-driver-docs_develop\\attestation_signing_a_kernel_driver_for_public_release.md",
     "wdg-cpub-test\\test-xliff-2.md"
   ],
+  "9253ada26608ca2bfc08ec01948862acc8124bc2": [
+    "wdg-cpub-test\\test-xliff-2.md"
+  ],
   "0252b866a2d0c048b6a643cd9e48e006d15cf46c": [
     "wdg-cpub-test\\test-xliff-2.md"
   ],
@@ -311,10 +314,11 @@
   "f1edb548dee0c9f192acedc13d7ba31c1bb4728e": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\live-visual-tree.png"
   ],
-  "737b2a64d7a96bc90c19a10d4e754e2c2f075b98": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\beta-testing.md"
-  ],
   "4304643a25282e02cfca174eb4d4d23576e64f0d": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\beta-testing.md",
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\beta-testing.md"
+  ],
+  "737b2a64d7a96bc90c19a10d4e754e2c2f075b98": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\beta-testing.md"
   ],
   "3e0f69dac4bda8a9f481d74dda8740da2d6fc268": [
@@ -341,10 +345,11 @@
   "ba46c6704901447e6957cfa6c9366dc8fc36b2ea": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\improve-garbage-collection-performance.md"
   ],
-  "61034c9ad90b04e14b6af0cb82151b3dbd833f9c": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\index.md"
-  ],
   "a5ddb41bb030c88f74f4f2bc14cfd9a54f1a9219": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\index.md",
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\index.md"
+  ],
+  "61034c9ad90b04e14b6af0cb82151b3dbd833f9c": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\index.md"
   ],
   "397e9052630e502710429e61453740ab7828f1cf": [
@@ -359,16 +364,18 @@
   "26550a65aa68daf6c0a97975305a20f84733822d": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\listview-and-gridview-data-optimization.md"
   ],
+  "fe8c385a9f94116e69011245b666c706a07ec806": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\mvvm-performance-tips.md",
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\mvvm-performance-tips.md"
+  ],
   "d7ec7fb242eaddc508823a67716860807c7a2ec3": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\mvvm-performance-tips.md"
   ],
-  "fe8c385a9f94116e69011245b666c706a07ec806": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\mvvm-performance-tips.md"
+  "590d41f5e2dba044b0355aa5cf2291f6f2e17a0b": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-animations-and-media.md",
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\optimize-animations-and-media.md"
   ],
   "d490d2a7fb51e7008748809bc4822871e4193cca": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-animations-and-media.md"
-  ],
-  "590d41f5e2dba044b0355aa5cf2291f6f2e17a0b": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-animations-and-media.md"
   ],
   "37eeaaeaec2acf7ee51ab3cfa7b145faae08388f": [
@@ -383,10 +390,11 @@
   "a2d03960d15536a7350bd48d0f37ddcd89a1d9b8": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-file-access.md"
   ],
-  "768b7a3560e479b40655006b006142cd81a6fcab": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-gridview-and-listview.md"
-  ],
   "b4923b2cae33b625fb88fc0c3659b70071406365": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-gridview-and-listview.md",
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\optimize-gridview-and-listview.md"
+  ],
+  "768b7a3560e479b40655006b006142cd81a6fcab": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-gridview-and-listview.md"
   ],
   "e4782444dda3df8c9940f2f2ae6d897b90474738": [
@@ -395,10 +403,11 @@
   "288e8ba1982cd469d5c14ae5f07376325a5531a7": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-suspend-resume.md"
   ],
-  "8af4044cd67c6200c1095ac0ef5b0d96cc8dfc08": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-xaml-loading.md"
-  ],
   "3fa7c0e3360635282968078432798793de8da191": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-xaml-loading.md",
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\optimize-xaml-loading.md"
+  ],
+  "8af4044cd67c6200c1095ac0ef5b0d96cc8dfc08": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-xaml-loading.md"
   ],
   "b8cb5db84b4f8675c88c6f2a68299770f9f2895b": [
@@ -407,10 +416,11 @@
   "294384ee98e324679fafb2b71b289a893394c8b9": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\translucentvenn.png"
   ],
-  "5aed046a3158e54e637895797b325dde6aec44e8": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-your-xaml-layout.md"
-  ],
   "e36152b1446788ffd387cea77fdc64914284366c": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-your-xaml-layout.md",
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\optimize-your-xaml-layout.md"
+  ],
+  "5aed046a3158e54e637895797b325dde6aec44e8": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\optimize-your-xaml-layout.md"
   ],
   "7a21e1ce72a44d286995acbb76a4813054f87533": [
@@ -422,10 +432,11 @@
   "70174df9d165e4b9845ed2300000bf0dd5718905": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\layout-perf-ex3.png"
   ],
-  "214e972e0239ce7feb783fb3447b22e94361cfef": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\performance-and-xaml-ui.md"
-  ],
   "93096acf7e39a74921f1e1424f9efce1c14c830a": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\performance-and-xaml-ui.md",
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\performance-and-xaml-ui.md"
+  ],
+  "214e972e0239ce7feb783fb3447b22e94361cfef": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\performance-and-xaml-ui.md"
   ],
   "3d982bde6c957170d32e27786632ae0c4c239794": [
@@ -479,10 +490,11 @@
   "49d5c6b9b25d3dee65e09aeb7726c3695132bc60": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\em-frameratecounters.png"
   ],
-  "8f40f64f2e00f88fba1ec94593d27a1b67c781d9": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\tools-for-profiling-and-performance.md"
-  ],
   "e619f11107c41b4fe6fe191d96ed719c80a8b84b": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\tools-for-profiling-and-performance.md",
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\tools-for-profiling-and-performance.md"
+  ],
+  "8f40f64f2e00f88fba1ec94593d27a1b67c781d9": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\tools-for-profiling-and-performance.md"
   ],
   "a187a45bfeb3b92d77bf5bab0fccd99e8249cf7d": [
@@ -491,10 +503,11 @@
   "e2cdf2a383a90d8bce8c02a00dac6385fe039b78": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\windows-app-certification-kit-tests.md"
   ],
-  "b3aa1ffc57a489f3a54b8c2d0d629889ec67038d": [
-    "wdg-cpub-test\\ndolci\\debug-test-perf\\windows-app-certification-kit.md"
-  ],
   "393f3a9bd0d8060a440137b8461fb89f68cdb4f5": [
+    "wdg-cpub-test\\ndolci\\debug-test-perf\\windows-app-certification-kit.md",
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\windows-app-certification-kit.md"
+  ],
+  "b3aa1ffc57a489f3a54b8c2d0d629889ec67038d": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\windows-app-certification-kit.md"
   ],
   "57cb81d8450d3d71b421ae77536872d244b3e509": [
@@ -506,73 +519,84 @@
   "68f2e5c1d62a0d70574037395b80f1d0c70fb43a": [
     "wdg-cpub-test\\ndolci\\debug-test-perf\\images\\interop-transitions.png"
   ],
+  "6b693f18c99c31e744497428a8b405204d7c69d3": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\aep-service-class-ids.md",
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\aep-service-class-ids.md"
+  ],
   "c103e66504ab4b9a3756fac36a8f9d98ca9c9cde": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\aep-service-class-ids.md"
   ],
-  "6b693f18c99c31e744497428a8b405204d7c69d3": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\aep-service-class-ids.md"
+  "75d55b591cd207215302b327b520f2eb0ab5fb93": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\bluetooth.md",
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\bluetooth.md"
   ],
   "0b09a8c2db2f5b95c859ebc9fca1836648495317": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\bluetooth.md"
   ],
-  "75d55b591cd207215302b327b520f2eb0ab5fb93": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\bluetooth.md"
+  "fdc5470c3b2e911f370e6f2b26a0c1608f194cab": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\build-a-device-selector.md",
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\build-a-device-selector.md"
   ],
   "c89f6ce329999b80f1db978fcbecaf26ac6581ac": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\build-a-device-selector.md"
   ],
-  "fdc5470c3b2e911f370e6f2b26a0c1608f194cab": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\build-a-device-selector.md"
+  "50b1e94a910d6742ee4a4a4d26bec5a04ef94444": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\calibrate-sensors.md",
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\calibrate-sensors.md"
   ],
   "0874bb83fa13a28a65cb078f1d7d1cfb5ea5babc": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\calibrate-sensors.md"
   ],
-  "50b1e94a910d6742ee4a4a4d26bec5a04ef94444": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\calibrate-sensors.md"
+  "66dc4a7824d767244892ec923b422ced83bfcdf2": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\customize-the-print-preview-ui.md",
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\customize-the-print-preview-ui.md"
   ],
   "0d54435494e25794492314ea2b6b195d57bfba9e": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\customize-the-print-preview-ui.md"
   ],
-  "66dc4a7824d767244892ec923b422ced83bfcdf2": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\customize-the-print-preview-ui.md"
+  "164d63f97a88838b8f43ad501c7bde9f1c60bde6": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\device-information-properties.md",
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\device-information-properties.md"
   ],
   "3472c03607d175eb035af43b5031a58cb710b3ec": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\device-information-properties.md"
   ],
-  "164d63f97a88838b8f43ad501c7bde9f1c60bde6": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\device-information-properties.md"
+  "896d0466b1b60a08e555eea39823c3059284210a": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\enable-device-capabilities.md",
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\enable-device-capabilities.md"
   ],
   "e2ec538c17a3387dfca692ada49aeea5342fbd9a": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\enable-device-capabilities.md"
-  ],
-  "896d0466b1b60a08e555eea39823c3059284210a": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\enable-device-capabilities.md"
   ],
   "1e45b813bb59c1c92dc98602387180ae11d43249": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\images\\ap-tools.png"
   ],
+  "dc14cb7f060fc8b0b65a6a6e744c0ea41448272a": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\enumerate-devices-over-a-network.md",
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\enumerate-devices-over-a-network.md"
+  ],
   "a71c22649f233483aa63e2e2a60277e64c2d007d": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\enumerate-devices-over-a-network.md"
   ],
-  "dc14cb7f060fc8b0b65a6a6e744c0ea41448272a": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\enumerate-devices-over-a-network.md"
+  "5e313a5fe607c19dc894b42153956c9d90ff1f92": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\enumerate-devices.md",
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\enumerate-devices.md"
   ],
   "600056e9d2eaf3f410428f12e7f21e3d00911b57": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\enumerate-devices.md"
   ],
-  "5e313a5fe607c19dc894b42153956c9d90ff1f92": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\enumerate-devices.md"
+  "15046b9b3ce1dd577d4477fc40c0a10aa46f41d1": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\epson-esc-pos-with-formatting.md",
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\epson-esc-pos-with-formatting.md"
   ],
   "c126bac0f54e4623a2c4cad92232fecd526d491e": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\epson-esc-pos-with-formatting.md"
   ],
-  "15046b9b3ce1dd577d4477fc40c0a10aa46f41d1": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\epson-esc-pos-with-formatting.md"
+  "731f10276c48850bda9636fc3f11aa6609cef53b": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\gatt-scenarios.md",
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\gatt-scenarios.md"
   ],
   "6be3595796d13730b7bc1345d85828314d5925a7": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\gatt-scenarios.md"
-  ],
-  "731f10276c48850bda9636fc3f11aa6609cef53b": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\gatt-scenarios.md"
   ],
   "a598d060504de24ed866dba1ce053866d53d495e": [
@@ -599,10 +623,11 @@
   "76fcca2074aabf97e1fd4ec84e0dc02ac71ca242": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\index.md"
   ],
-  "b699966ff42592315712b31af9cb988f1bf491c4": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\pair-devices.md"
-  ],
   "6abdd7d04a0bc87fcd75797baaafcd9c9e07505b": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\pair-devices.md",
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\pair-devices.md"
+  ],
+  "b699966ff42592315712b31af9cb988f1bf491c4": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\pair-devices.md"
   ],
   "1c87aafa49fcda98adb14d3c24547f5f99f2c686": [
@@ -611,16 +636,18 @@
   "37b2884af1267d59858f4ff2535c6b787e27e766": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\print-from-your-app.md"
   ],
+  "1c2c8588bacb03820375344b1c6233f196f50ec5": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\printing-and-scanning.md",
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\printing-and-scanning.md"
+  ],
   "ae20f9950305c6993d40fcb1056b5ba2a6bbb777": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\printing-and-scanning.md"
   ],
-  "1c2c8588bacb03820375344b1c6233f196f50ec5": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\printing-and-scanning.md"
+  "ada98e12d8d2ac555f4d7f785e95a00c1aa8bf9f": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\scan-from-your-app.md",
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\scan-from-your-app.md"
   ],
   "4c3e627e012ab8de22ced3409fbfe90e6874a4c6": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\scan-from-your-app.md"
-  ],
-  "ada98e12d8d2ac555f4d7f785e95a00c1aa8bf9f": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\scan-from-your-app.md"
   ],
   "c0dca85e790f9ee5a341df0a26425eef4f8c2af4": [
@@ -629,10 +656,11 @@
   "aaca69215c43166c76ddc0a1bb50941c39ae8ebd": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\send-or-receive-files-with-rfcomm.md"
   ],
-  "82667297691be83e91bde76fd47c8521e9c572d5": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\sensor-orientation.md"
-  ],
   "9b14f1c2887a3e1178dc7161189f2817e101cce5": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\sensor-orientation.md",
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\sensor-orientation.md"
+  ],
+  "82667297691be83e91bde76fd47c8521e9c572d5": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\sensor-orientation.md"
   ],
   "d1dfac2bf4fd565909a296de37cdcc7d88b2f66c": [
@@ -674,10 +702,11 @@
   "7245ab445177e9240f9294539c5fa108ccf52add": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\images\\orientation-formula.png"
   ],
-  "fd4c27b6fbef674c5c4f63b01083db888cdd1fe6": [
-    "wdg-cpub-test\\ndolci\\devices-sensors\\sensors.md"
-  ],
   "df5d20a4f6d3945bdc94f791003d68576ca3b95e": [
+    "wdg-cpub-test\\ndolci\\devices-sensors\\sensors.md",
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\sensors.md"
+  ],
+  "fd4c27b6fbef674c5c4f63b01083db888cdd1fe6": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\sensors.md"
   ],
   "5f0f8f74ecf3a67cf978683559ec0994695068fe": [
@@ -737,16 +766,47 @@
   "41668fe4b3e74e7e87354a3c0c81e34cf0fdc249": [
     "wdg-cpub-test\\ndolci\\devices-sensors\\use-the-orientation-sensor.md"
   ],
+  "23cb0dafe7afdbe10fbf31094ed6ba7886f7e67e": [
+    "wdg-cpub-test\\ndolci1\\app-to-app\\drag-and-drop.md"
+  ],
+  "0ec2875d4a647b4e1ab96105f0542f67d8d32174": [
+    "wdg-cpub-test\\ndolci1\\app-to-app\\receive-data.md"
+  ],
+  "b34d0b68388aa72abab4f30bf7e41d6707195b19": [
+    "wdg-cpub-test\\ndolci1\\app-to-app\\share-data.md"
+  ],
+  "37acbf3b8bdcf7f3c18f70ec8f9fdde5f986e458": [
+    "wdg-cpub-test\\ndolci1\\contacts-and-calendar\\index.md"
+  ],
+  "007e676257bcd6b11332baf98582703d23f3abd3": [
+    "wdg-cpub-test\\ndolci1\\contacts-and-calendar\\selecting-contacts.md"
+  ],
+  "88704dcaec3f258a8d0eb43b33721d4f31cc0a75": [
+    "wdg-cpub-test\\ndolci1\\contacts-and-calendar\\sending-an-sms-message.md"
+  ],
+  "aace8855fa91c6375887e9837f67f911502e6748": [
+    "wdg-cpub-test\\ndolci1\\contacts-and-calendar\\sending-email.md"
+  ],
+  "76404ac78178634ceb026fe5baace6b730c0dbcb": [
+    "wdg-cpub-test\\ndolci1\\data-access\\index.md"
+  ],
+  "f9a087407671e3d81447777a52531e0663e01d4d": [
+    "wdg-cpub-test\\ndolci1\\data-binding\\displaying-data-in-the-designer.md"
+  ],
+  "05077cfa25a79cdd5edfbe0bbc5d4bbc8025be35": [
+    "wdg-cpub-test\\ndolci1\\data-binding\\index.md"
+  ],
   "254fb7dabe51081c017a674e64e78d9b7401e2a1": [
     "wdg-cpub-test\\ndolci\\files\\access-the-sd-card.md"
   ],
   "f4c841b70be3956963925a6385ecc97a6d1b3237": [
     "wdg-cpub-test\\ndolci\\files\\access-the-sd-card.md"
   ],
-  "2b16e149a84dc1273676164a9e353cb68d99ff56": [
-    "wdg-cpub-test\\ndolci\\files\\file-access-permissions.md"
-  ],
   "b5dfa9fa2c29b79359612f7381669481ed401033": [
+    "wdg-cpub-test\\ndolci\\files\\file-access-permissions.md",
+    "wdg-cpub-test\\ndolci1\\files\\file-access-permissions.md"
+  ],
+  "2b16e149a84dc1273676164a9e353cb68d99ff56": [
     "wdg-cpub-test\\ndolci\\files\\file-access-permissions.md"
   ],
   "cf55c6bafedfced3fe74ddb819446de8f0b3a1ba": [
@@ -755,10 +815,11 @@
   "04bf92c3cf80ae85aeaf6df8e5fef7390d9408da": [
     "wdg-cpub-test\\ndolci\\files\\how-to-track-recently-used-files-and-folders.md"
   ],
-  "393b2ce0f3858fed078d593d0a6c1862c4c90548": [
-    "wdg-cpub-test\\ndolci\\files\\index.md"
-  ],
   "a11b02e4f35de86ccafdf504b5d046146f5e8812": [
+    "wdg-cpub-test\\ndolci\\files\\index.md",
+    "wdg-cpub-test\\ndolci1\\files\\index.md"
+  ],
+  "393b2ce0f3858fed078d593d0a6c1862c4c90548": [
     "wdg-cpub-test\\ndolci\\files\\index.md"
   ],
   "66f54e44cf1292ef6551415dccfec16fe103a799": [
@@ -809,6 +870,177 @@
   "2323799f4960d9bfcfac6f99eb852a8a6568300d": [
     "wdg-cpub-test\\ndolci\\files\\quickstart-using-file-and-folder-pickers.md"
   ],
+  "d0712383af8e62261a0adf84be3a2af8e5941e64": [
+    "wdg-cpub-test\\ndolci1\\get-started\\account-types-locations-and-fees.md"
+  ],
+  "ee2bde728bf1df26366c8e59e3c787effa97c0d5": [
+    "wdg-cpub-test\\ndolci1\\get-started\\enable-your-device-for-development.md"
+  ],
+  "5a92b2591e7157c09dc3c54b1eb271e28f7d60b4": [
+    "wdg-cpub-test\\ndolci1\\get-started\\get-set-up.md"
+  ],
+  "743e8333cf77ef7e2ea8d21a82c53009d750cd85": [
+    "wdg-cpub-test\\ndolci1\\get-started\\learn-more.md"
+  ],
+  "5412c65acbca0604ade4e0a60871e14d0bab775c": [
+    "wdg-cpub-test\\ndolci1\\get-started\\managing-your-profile.md"
+  ],
+  "e1247f7cc6f8c3744d50810c03d8652e8a24a372": [
+    "wdg-cpub-test\\ndolci1\\get-started\\opening-a-developer-account.md"
+  ],
+  "b251660b79f7076f636a9c8c55a60363e07530da": [
+    "wdg-cpub-test\\ndolci1\\get-started\\sign-up.md"
+  ],
+  "ab7be29098105236c45e8990dd0cd36e9b0ba30c": [
+    "wdg-cpub-test\\ndolci1\\graphics\\3-d-perspective-effects.md"
+  ],
+  "2fa0ffa67d6c2903b99534c4726dfde5073a6c1c": [
+    "wdg-cpub-test\\ndolci1\\graphics\\animations-overview.md"
+  ],
+  "35dcae7a582f7ff74bce0ed8e9525aea0adc993a": [
+    "wdg-cpub-test\\ndolci1\\graphics\\composition-brushes.md"
+  ],
+  "aa06fa4d0dda5524ace7a2278cd49729c7a14c2e": [
+    "wdg-cpub-test\\ndolci1\\graphics\\composition-native-interop.md"
+  ],
+  "0f49dc9a32861d10afe76ff6612d37720725eeee": [
+    "wdg-cpub-test\\ndolci1\\graphics\\composition-visual-tree.md"
+  ],
+  "f71dd2fb2f144c3bc1b1a680837f6dfd8c84f925": [
+    "wdg-cpub-test\\ndolci1\\graphics\\drawing-shapes.md"
+  ],
+  "612821e7db46ce0c7c851e32f984408125150829": [
+    "wdg-cpub-test\\ndolci1\\graphics\\index.md"
+  ],
+  "7eb519c64fd9f0bc8b669c758b6aad0e9d4b4d5f": [
+    "wdg-cpub-test\\ndolci1\\graphics\\key-frame-and-easing-function-animations.md"
+  ],
+  "bd147a56fcb996b5f11ae813c073f70a9c350afd": [
+    "wdg-cpub-test\\ndolci1\\graphics\\transforms-overview.md"
+  ],
+  "01bedffa0a8a7b39869ac46bd788c487bba43903": [
+    "wdg-cpub-test\\ndolci1\\graphics\\using-brushes.md"
+  ],
+  "a9c0e6deaa76b995a98cbfb4c373065f8c635e4c": [
+    "wdg-cpub-test\\ndolci1\\networking\\index.md"
+  ],
+  "c2cb4cffdd8252207df28eab2484bc40c430efc9": [
+    "wdg-cpub-test\\ndolci1\\networking\\networking-basics.md"
+  ],
+  "afdeb64341edcb977dadab00a0dc705e79c60809": [
+    "wdg-cpub-test\\ndolci1\\networking\\websockets.md"
+  ],
+  "00de660fa7d41a6b9b0698d0857864d25036ace3": [
+    "wdg-cpub-test\\ndolci1\\networking\\which-networking-technology.md"
+  ],
+  "6b7e829169a788ec298a8537f4364dc1c20ad5b1": [
+    "wdg-cpub-test\\ndolci1\\packaging\\index.md"
+  ],
+  "896c64a0ad4fc2506a5b2c84bb3d34fc624fb153": [
+    "wdg-cpub-test\\ndolci1\\packaging\\install-universal-windows-apps-with-the-winappdeploycmd-tool.md"
+  ],
+  "f25e6aa8324bc8d80d6741fde3d3b6b24611a78e": [
+    "wdg-cpub-test\\ndolci1\\porting\\getting-started-animation.md"
+  ],
+  "53aa1138567bbb0d9d241783157c919df37402ac": [
+    "wdg-cpub-test\\ndolci1\\porting\\getting-started-getting-around-in-visual-studio.md"
+  ],
+  "ed8a73be55682e0e0711672d5be289abce7a2a5b": [
+    "wdg-cpub-test\\ndolci1\\porting\\setting-up-your-mac-with-windows-10.md"
+  ],
+  "d445a197c7b6eb20441b93a5d875d71fb3185f3d": [
+    "wdg-cpub-test\\ndolci1\\porting\\update-your-visual-studio-2015-rc-project-to-rtm.md"
+  ],
+  "987e44b081f1d50dac2252a0a72f0ab7c1433b59": [
+    "wdg-cpub-test\\ndolci1\\porting\\w8x-to-uwp-input-and-sensors.md"
+  ],
+  "8958b5d1320d93bb3a4eb45902a845b0132f2c1b": [
+    "wdg-cpub-test\\ndolci1\\porting\\w8x-to-uwp-porting-xaml-and-ui.md"
+  ],
+  "b6e33c1df9d6ddb9f45ea6882bdf20f059d6789e": [
+    "wdg-cpub-test\\ndolci1\\porting\\wpsl-to-uwp-form-factors-and-ux.md"
+  ],
+  "643aa46fd5d69ea9d88ac8ee67428337fa4c0164": [
+    "wdg-cpub-test\\ndolci1\\porting\\wpsl-to-uwp-input-and-sensors.md"
+  ],
+  "7edc8de3b71803be304e8fc376c24dd00bddc9ce": [
+    "wdg-cpub-test\\ndolci1\\porting\\wpsl-to-uwp-namespace-and-class-mappings.md"
+  ],
+  "4a9e71a4ec58278205bb325fd875959ff9948fb5": [
+    "wdg-cpub-test\\ndolci1\\porting\\wpsl-to-uwp-porting-xaml-and-ui.md"
+  ],
+  "cb09ba3c6a44ec7eef1ccb9e80609352582a0e3e": [
+    "wdg-cpub-test\\ndolci1\\porting\\wpsl-to-uwp-troubleshooting.md"
+  ],
+  "93c48f2e8199e10237b148f6a3ea3a08a6703dac": [
+    "wdg-cpub-test\\ndolci1\\threading-async\\best-practices-for-using-the-thread-pool.md"
+  ],
+  "ecf1ccbba7b55bf5715f78bb72822b83e25272df": [
+    "wdg-cpub-test\\ndolci1\\threading-async\\create-a-periodic-work-item.md"
+  ],
+  "b34d9448dbe2707cb715e47eac11dfe64f74b5dc": [
+    "wdg-cpub-test\\ndolci1\\threading-async\\index.md"
+  ],
+  "2d6bc6d750027e26359e24d4d95ad4c52d9c86e9": [
+    "wdg-cpub-test\\ndolci1\\threading-async\\submit-a-work-item-to-the-thread-pool.md"
+  ],
+  "f418ec9cfe9f8f26b6c74e5b5ae42098f0e4f9cf": [
+    "wdg-cpub-test\\ndolci1\\threading-async\\use-a-timer-to-submit-a-work-item.md"
+  ],
+  "08c085ae4e52a249bcaafe839f8baff8ca74c8d9": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\binding-markup-extension.md"
+  ],
+  "fb2d2fcd4b5697c6ebf3f3c7b2123c85104c2939": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\customresource-markup-extension.md"
+  ],
+  "f971a8891a41542db8e6fb9b943db052849e8913": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\move-draw-commands-syntax.md"
+  ],
+  "ae1fb98bf424be747ca3b04696198940836415fa": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\property-path-syntax.md"
+  ],
+  "afccd56780f303dd8daf72267928a047385673df": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\relativesource-markup-extension.md"
+  ],
+  "3fdf144163d14ae3b0c6b5555ccb69b8c76872ef": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\staticresource-markup-extension.md"
+  ],
+  "321ba601c83b996d5e9a4edef60a52c3934216e7": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\template-settings-classes.md"
+  ],
+  "e6969bf7938c29b34f28c02e0f5c565be2ca2417": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\templatebinding-markup-extension.md"
+  ],
+  "d872648c0412de391a43d88c1425a9ddea44e6ed": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\themeresource-markup-extension.md"
+  ],
+  "daca0d528ae54849d010e3799fa6ee299fe7d3f2": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\x-class-attribute.md"
+  ],
+  "1b4209d74a1dde9a4d5695d3e2f9e3bbec7568c4": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\x-deferloadstrategy-attribute.md"
+  ],
+  "5d743d4e47a37b574ce51487cba1481fd322c86a": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\x-key-attribute.md"
+  ],
+  "167ae7ee519736967c5163e2c37e3ca1fd507a7d": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\x-name-attribute.md"
+  ],
+  "8903c832f313ca522e07331a028d370aee039f58": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\x-phase-attribute.md"
+  ],
+  "5880add499ff902e320c9d594279444f28668da0": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\x-uid-directive.md"
+  ],
+  "01112910296923a767e3968f35d286e661cf29e5": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\xaml-and-whitespace.md"
+  ],
+  "2c36a6c3b75da75567b5bcd368812c98927b4a85": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\xaml-intrinsic-data-types.md"
+  ],
+  "67beb04cc87765a4c2edb249a61ba300cd9a7544": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\xaml-namescopes.md"
+  ],
   "9a5d025932240178a724c75df457cf6e2e3dead6": [
     "wdg-cpub-test\\ndolci\\files\\images\\phone-media-locations.png"
   ],
@@ -820,5 +1052,728 @@
   ],
   "1223021b5904a53a7ae4f06400037d597608eeea": [
     "wdg-cpub-test\\ndolci\\files\\images\\app-to-app-diagram-600px.png"
+  ],
+  "809df2184bbc1de9d0ebe9363e414005a389ad19": [
+    "wdg-cpub-test\\get-app-acquisitions.md"
+  ],
+  "a447cb93cfba0156012f968c7aac99a72b82de0f": [
+    "wdg-cpub-test\\ndolci1\\app-to-app\\copy-and-paste.md"
+  ],
+  "38f2349a274f59376240e301236742d0bd1b44dd": [
+    "wdg-cpub-test\\ndolci1\\app-to-app\\index.md"
+  ],
+  "16e745134da1d9486337ada18f8ccc0b4b16d2ae": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\adaptive-streaming-with-playready.md"
+  ],
+  "4834d6ece9f4b49cc62f2a0cd5eb9983d82f1579": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\adaptive-streaming.md"
+  ],
+  "78a88cfc48d10aa7fe99b85eee7daa1a0984d9eb": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\audio-graphs.md"
+  ],
+  "34d58800e3ae3889589fa4fc264111069e5e0d16": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\background-audio.md"
+  ],
+  "58173f36210197cd5601bb27851a7d2fe7980308": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\bitmapencoder-options-reference.md"
+  ],
+  "b4d5c5c9b0fb1472e9bf25400e8275dbc90e26f7": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\camera-independent-flashlight.md"
+  ],
+  "9eed4623834a93aec1e4e172be8739f48dd5ad42": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\camera-profiles.md"
+  ],
+  "a74e5e1953eb68cb3f74fac6dd2d93fc64964816": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-device-controls-for-photo-and-video-capture.md"
+  ],
+  "e4b7e1cbf07ffa6c5a6b12dd836c264d355081c9": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-device-controls-for-video-capture.md"
+  ],
+  "3bb2b89c2cfa676ab9cce007a1677755b1e438a2": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-photos-and-video-with-cameracaptureui.md"
+  ],
+  "d48ef3c3b2efe745a30c0dd217d81a8c12c4f2c5": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\capture-photos-and-video-with-mediacapture.md"
+  ],
+  "df58c3033a77f6763ef86f7d3ea13320ac805335": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\detect-and-track-faces-in-an-image.md"
+  ],
+  "089b36c1a9a4654d6cb7f0c996ff0153e9ef6db9": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\effects-for-video-capture.md"
+  ],
+  "693217ba775871c5924b3995e049dc1610f1c484": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\get-a-preview-frame.md"
+  ],
+  "b76980657904bdd370cd79ecdde3d10b2823a127": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\hardware-drm.md"
+  ],
+  "4376620885b73a2a96f63fc63e0e1afe88394d2d": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\high-dynamic-range-hdr-photo-capture.md"
+  ],
+  "150a04e5a689e1a6dbc45dc04cb2cc1ba3c7b4e5": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\image-metadata.md"
+  ],
+  "0e69633b69b7e5a7ee4206aaf3c68b3201fd0c16": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\imaging.md"
+  ],
+  "9102a6fa2b3e89d209dc36ddca80dff47694e416": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\index.md"
+  ],
+  "50bf5c1bb012ba7e81d44cbc93d78e2ea2e45520": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\media-casting.md"
+  ],
+  "4787d925eb802060ecdca297db4c28277e4863a9": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\media-compositions-and-editing.md"
+  ],
+  "d1d2ed10c7b8654a95d4cc19ea22fce737ca11cc": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\media-playback-with-mediasource.md"
+  ],
+  "fba2fba93aee7dba649dcc95de8ee3f73f9e3350": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\midi.md"
+  ],
+  "7397c39d9010f1c0802d086e97bd4e5bce0c02dc": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\playready-client-sdk.md"
+  ],
+  "21c0151b9900d8505cd78ecdee4daa69c897caaa": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\playready-encrypted-media-extension.md"
+  ],
+  "c57bfc9b5f878f4700d095e1fdb6b5a60d3f9bdb": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\process-media-files-in-the-background.md"
+  ],
+  "2aa4e60690829dfa6b1df261c803e32c596c9919": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\scene-analysis-for-media-capture.md"
+  ],
+  "66739a9e94aab0b070b09ce8e924853a1b0d8c13": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\set-media-encoding-properties.md"
+  ],
+  "e01946bbd03e7cd2cb2501e09be00ac996c4436f": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\simple-camera-preview-access.md"
+  ],
+  "74fe4c01a1cfca6790dc4d09ae94fef07ee8a1b4": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\supported-codecs.md"
+  ],
+  "37174a3ba249fdfc56e0b646d11c4198792a812a": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\system-media-transport-controls.md"
+  ],
+  "21d6901001698aeb54968399180527f3a5beb240": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\transcode-media-files.md"
+  ],
+  "3618fc4f12f0f91c2e9c97d2eba5169ff86ae2ef": [
+    "wdg-cpub-test\\ndolci1\\audio-video-camera\\variable-photo-sequence.md"
+  ],
+  "c58d97080c330f62e5b3507a3ac2ca069d39fb0e": [
+    "wdg-cpub-test\\ndolci1\\contacts-and-calendar\\managing-appointments.md"
+  ],
+  "6b2c5c9b60ae41f63acfbe4aafc70fa10c3b0d4f": [
+    "wdg-cpub-test\\ndolci1\\data-access\\entity-framework-7-with-sqlite-for-csharp-apps.md"
+  ],
+  "cafcbb7be32538c326fde520c82b151f7d49ddd2": [
+    "wdg-cpub-test\\ndolci1\\data-access\\sqlite-databases.md"
+  ],
+  "a90f434035e360ed2caaadd1452f6cdaf60d4c4a": [
+    "wdg-cpub-test\\ndolci1\\data-binding\\data-binding-in-depth.md"
+  ],
+  "2a843ebbc528590bb4b14be27aa97878f57fb645": [
+    "wdg-cpub-test\\ndolci1\\data-binding\\data-binding-quickstart.md"
+  ],
+  "b4486b0c615a34490b94127597453848d5ccd9cb": [
+    "wdg-cpub-test\\ndolci1\\data-binding\\how-to-bind-to-hierarchical-data-and-create-a-master-details-view.md"
+  ],
+  "b17d11b6904840a2c8b242fa4f3781347ef0bd9c": [
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\best-practices-for-your-app-s-startup-performance.md"
+  ],
+  "af0a0370f2c394221408305103f6fdc0cb80d630": [
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\debugging-and-testing-apps-portal.md"
+  ],
+  "d2694857b5a717ab8247df29ff881631f97a40a0": [
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\deploying-and-debugging-uwp-apps.md"
+  ],
+  "4d48e0a8011192d2d96a9fb9c1cea9801523a15d": [
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\improve-garbage-collection-performance.md"
+  ],
+  "cb177339575201039a47bb32f3d43a05da351a21": [
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\keep-the-ui-thread-responsive.md"
+  ],
+  "2e38cd45843a15226b1456fecd150523c2add6bc": [
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\listview-and-gridview-data-optimization.md"
+  ],
+  "8753f4bcff9dc358f14351c8110176352a22f793": [
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\optimize-file-access.md"
+  ],
+  "d3728b491d6010ffa642b3fbe9ca9033225ba616": [
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\optimize-suspend-resume.md"
+  ],
+  "540b6d68ed9b9f32a6a0ee3211621c896441aaf2": [
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\planning-and-measuring-performance.md"
+  ],
+  "66ab95fb95fc58ac972b664439826d310a3eebfc": [
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\test-with-the-emulator.md"
+  ],
+  "27b66b2e5fbb7dbf18c018334d3a3af1da564bf4": [
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\windows-app-certification-kit-tests.md"
+  ],
+  "faec1058546489c4c8873a13ca46fdb8fcfc2070": [
+    "wdg-cpub-test\\ndolci1\\debug-test-perf\\windows-runtime-components-and-optimizing-interop.md"
+  ],
+  "8a1699fff9632b4975995412bd921a823a7753f8": [
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\get-battery-info.md"
+  ],
+  "0c03f1deae6ac47fcedff4ef9f4c41b896d7114e": [
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\host-card-emulation.md"
+  ],
+  "950b985610d431d6cd0f2f8c50f16a2a264fd065": [
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\index.md"
+  ],
+  "59cb381d33e749b32e8dbd07b7d8f1df3b50b125": [
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\print-from-your-app.md"
+  ],
+  "3e3933b64f9f20b56db9a065d0b6f3e1c398b5e2": [
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\send-or-receive-files-with-rfcomm.md"
+  ],
+  "ca6aa744b47f93202085aeb40acb3f01bf6d00d2": [
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\use-the-accelerometer.md"
+  ],
+  "25300c90f2c9553078ecaf7a9c66a8251b8be23b": [
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\use-the-compass.md"
+  ],
+  "9b272573b49798a062f06f433fdd6c61613cfb83": [
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\use-the-gyrometer.md"
+  ],
+  "47cfca7f54eea7504410f7625211cd46d68ceb59": [
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\use-the-inclinometer.md"
+  ],
+  "e5a76a35af85813e43359df49dab4474bc54a52e": [
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\use-the-light-sensor.md"
+  ],
+  "e082c1eb5460a8b6cbadfd248b6ad43931172130": [
+    "wdg-cpub-test\\ndolci1\\devices-sensors\\use-the-orientation-sensor.md"
+  ],
+  "e46763c012a16f8e80c2dff5fc3bffa6c49c70d7": [
+    "wdg-cpub-test\\ndolci1\\enterprise\\index.md"
+  ],
+  "40dee9bc5bf8f77f3c5e78ff5013b3ed04959884": [
+    "wdg-cpub-test\\ndolci1\\files\\access-the-sd-card.md"
+  ],
+  "c1b88a124f704e345c3c6853b2d0af627931a038": [
+    "wdg-cpub-test\\ndolci1\\files\\how-to-track-recently-used-files-and-folders.md"
+  ],
+  "7eddb8333419d19e490df1e6eb8650de9609c38e": [
+    "wdg-cpub-test\\ndolci1\\files\\quickstart-accessing-homegroup-content.md"
+  ],
+  "c58e0a03339807af945df60e7281fe220865c281": [
+    "wdg-cpub-test\\ndolci1\\files\\quickstart-determining-availability-of-microsoft-onedrive-files.md"
+  ],
+  "db7d61c5fdc1d098c04a3a06c5d7cea6f36ba9b3": [
+    "wdg-cpub-test\\ndolci1\\files\\quickstart-getting-file-properties.md"
+  ],
+  "f6b11500475700ab00ff48c1ba578e4e7c599c61": [
+    "wdg-cpub-test\\ndolci1\\files\\quickstart-listing-files-and-folders.md"
+  ],
+  "250763b6e584767dd9125af98545f86f87fe0ab4": [
+    "wdg-cpub-test\\ndolci1\\files\\quickstart-managing-folders-in-the-music-pictures-and-videos-libraries.md"
+  ],
+  "73d1597e8aa7679ecfea44b667b604ae402d516e": [
+    "wdg-cpub-test\\ndolci1\\files\\quickstart-reading-and-writing-files.md"
+  ],
+  "f8b1c4a57dec3d0a865852e2650a9ccc13fe2240": [
+    "wdg-cpub-test\\ndolci1\\files\\quickstart-save-a-file-with-a-picker.md"
+  ],
+  "b3c59d66a7c582910f33691c31e13863455adf5a": [
+    "wdg-cpub-test\\ndolci1\\files\\quickstart-using-file-and-folder-pickers.md"
+  ],
+  "1dcd35b41e215558005b1056c0384986ab86753b": [
+    "wdg-cpub-test\\ndolci1\\get-started\\create-a-basic-windows-10-app-in-cpp.md"
+  ],
+  "2f9b56da71d2b73859043cc145bf84f1972e92d7": [
+    "wdg-cpub-test\\ndolci1\\get-started\\create-a-hello-world-app-js-universal.md"
+  ],
+  "05358eaace659edd690c939d4c93be9aff6ba023": [
+    "wdg-cpub-test\\ndolci1\\get-started\\create-a-hello-world-app-xaml-universal.md"
+  ],
+  "2be64c2913b1341b945338b4923dba9ff5ad05a1": [
+    "wdg-cpub-test\\ndolci1\\get-started\\whats-a-uwp.md"
+  ],
+  "4adc00dd1386fb0505e21823fce9a0fa4cf223ba": [
+    "wdg-cpub-test\\ndolci1\\get-started\\your-first-app.md"
+  ],
+  "c9abe8937b77fc9bd9d9c3b426c7adec7816fb75": [
+    "wdg-cpub-test\\ndolci1\\graphics\\composition-animation.md"
+  ],
+  "c7ceaf4d2d016619c2a3d1e6ac4cd148352305f6": [
+    "wdg-cpub-test\\ndolci1\\graphics\\composition-effects.md"
+  ],
+  "5b8d2d39befdcbe5845e6fe9327614e6a66632cc": [
+    "wdg-cpub-test\\ndolci1\\graphics\\storyboarded-animations.md"
+  ],
+  "d5f1f92bb1616ffc5aa315e4805b02a8fefb8178": [
+    "wdg-cpub-test\\ndolci1\\graphics\\visual-layer.md"
+  ],
+  "e6d3687946ff667cb2669fe42c72325d3f7dbdbb": [
+    "wdg-cpub-test\\ndolci1\\index.md"
+  ],
+  "46caa280af512498dea823200678398b15e8cb42": [
+    "wdg-cpub-test\\ndolci1\\monetize\\add-ads-to-apps-with-microsoft-advertising.md"
+  ],
+  "9be4a8ed7cc5abdba692d77da58ca61abe18b1c1": [
+    "wdg-cpub-test\\ndolci1\\monetize\\add-and-use-the-ad-mediator-control.md"
+  ],
+  "3a2875a75f0af3ae843206c5c4fa3982ec8dc006": [
+    "wdg-cpub-test\\ndolci1\\monetize\\enable-consumable-in-app-product-purchases.md"
+  ],
+  "7ff7b13cdf97f738e9fdac7cd3c7664e574d5fd0": [
+    "wdg-cpub-test\\ndolci1\\monetize\\enable-in-app-product-purchases.md"
+  ],
+  "957574aa3996dec36380972dd93dbc7a0715fff6": [
+    "wdg-cpub-test\\ndolci1\\monetize\\exclude-or-limit-features-in-a-trial-version-of-your-app.md"
+  ],
+  "fba2083caea35db71705db4181331131d3a99d88": [
+    "wdg-cpub-test\\ndolci1\\monetize\\grant-free-products.md"
+  ],
+  "7aa89bb51e0ecaf3a750c0dea666293f74456374": [
+    "wdg-cpub-test\\ndolci1\\monetize\\index.md"
+  ],
+  "7972f86e242bb19eb2d51fa42f1976b00155c8f4": [
+    "wdg-cpub-test\\ndolci1\\monetize\\install-the-microsoft-universal-ad-client-sdk.md"
+  ],
+  "ccd7c243bded015a888a2e0630819bcb860e9529": [
+    "wdg-cpub-test\\ndolci1\\monetize\\manage-a-large-catalog-of-in-app-products.md"
+  ],
+  "0e4851d290bf2277352e27a9306eaa236b72c9b2": [
+    "wdg-cpub-test\\ndolci1\\monetize\\query-for-products.md"
+  ],
+  "fea2e0a03fffc4900ae60b303ead816b716bff51": [
+    "wdg-cpub-test\\ndolci1\\monetize\\renew-a-windows-store-id-key.md"
+  ],
+  "add9550f6651d21d4099fa3eee9a2164a88c1c30": [
+    "wdg-cpub-test\\ndolci1\\monetize\\report-consumable-products-as-fulfilled.md"
+  ],
+  "d757d01dff9af5b8113d723cbee06e7c97560d67": [
+    "wdg-cpub-test\\ndolci1\\monetize\\select-and-manage-your-ad-networks.md"
+  ],
+  "e3be27d82d178f8662a5e47e0cac3b5a0e6e746e": [
+    "wdg-cpub-test\\ndolci1\\monetize\\submit-your-app-and-configure-ad-mediation.md"
+  ],
+  "8fd7e26f3851ff5f0e86fe8e51a67988be84b1e5": [
+    "wdg-cpub-test\\ndolci1\\monetize\\test-your-ad-mediation-implementation.md"
+  ],
+  "5aecd13a52aa63ca55fb630d07d941fb989cc2ec": [
+    "wdg-cpub-test\\ndolci1\\monetize\\troubleshoot-ad-mediation.md"
+  ],
+  "c906f909f680277b1e12e9fc76e06d73efeb2c91": [
+    "wdg-cpub-test\\ndolci1\\monetize\\use-ad-mediation-to-maximize-revenue.md"
+  ],
+  "a6198986c994e36161e336924d1cebb7883c07db": [
+    "wdg-cpub-test\\ndolci1\\monetize\\use-receipts-to-verify-product-purchases.md"
+  ],
+  "7131f2d748f4c08977ab2060523b1611f57f5e5c": [
+    "wdg-cpub-test\\ndolci1\\monetize\\view-and-grant-products-from-a-service.md"
+  ],
+  "8659075e945c9479119ea2e04bdacd903d89c41f": [
+    "wdg-cpub-test\\ndolci1\\networking\\background-transfers.md"
+  ],
+  "2ba0c22d0dc6d60c19e65fee5b28a74184d1bd06": [
+    "wdg-cpub-test\\ndolci1\\networking\\httpclient.md"
+  ],
+  "98bba1eee21627ee185d0446aeeeba77a7f0bc20": [
+    "wdg-cpub-test\\ndolci1\\networking\\network-communications-in-the-background.md"
+  ],
+  "ed83c7fcbe16c2c01b36f4a906622517e4b52502": [
+    "wdg-cpub-test\\ndolci1\\networking\\sockets.md"
+  ],
+  "c30b559ac044f389c7bdd716ee67d83be59f9039": [
+    "wdg-cpub-test\\ndolci1\\networking\\web-feeds.md"
+  ],
+  "fd15703f573d3bcf8174442f4bfb738293ec9056": [
+    "wdg-cpub-test\\ndolci1\\packaging\\app-capability-declarations.md"
+  ],
+  "1367b398b991652f0db6225470f73f9eaa3796e0": [
+    "wdg-cpub-test\\ndolci1\\packaging\\packaging-uwp-apps.md"
+  ],
+  "8a72c918c2d1e69225e03fd37e3244fd272e39d8": [
+    "wdg-cpub-test\\ndolci1\\porting\\getting-started-choosing-a-programming-language.md"
+  ],
+  "79f3f234966f76e0a7addbeef4e4f7abb530d160": [
+    "wdg-cpub-test\\ndolci1\\porting\\getting-started-common-controls.md"
+  ],
+  "b7a4815162519cce1741ca5807431f28f8e4e99e": [
+    "wdg-cpub-test\\ndolci1\\porting\\getting-started-creating-a-project.md"
+  ],
+  "b29b3a2822da6791ac3de48ff4d3ca714c58366f": [
+    "wdg-cpub-test\\ndolci1\\porting\\getting-started-navigation.md"
+  ],
+  "6bcf2971c169b66561d7199e621fbf751d8cb9fd": [
+    "wdg-cpub-test\\ndolci1\\porting\\getting-started-what-next.md"
+  ],
+  "b5adbbb1bff8b457b0eb968d79d01d518673e709": [
+    "wdg-cpub-test\\ndolci1\\porting\\getting-started-with-uwp-for-ios-developers.md"
+  ],
+  "62a787f6025c3306d22f340c954b58b9d649adc2": [
+    "wdg-cpub-test\\ndolci1\\porting\\index.md"
+  ],
+  "96f64adb8831783f84cc8cb3b4d85e897c414308": [
+    "wdg-cpub-test\\ndolci1\\porting\\ios-to-uwp-root.md"
+  ],
+  "483404efdc87db8da2715a061b33712b8e95f234": [
+    "wdg-cpub-test\\ndolci1\\porting\\selecting-an-approach-to-ios-and-uwp-app-development.md"
+  ],
+  "42a467217a899c25bab315314763b2ba6d7ac77a": [
+    "wdg-cpub-test\\ndolci1\\porting\\w8x-to-uwp-case-study-bookstore1.md"
+  ],
+  "339649bed07b3dee79a9c67ff920d832389c5c60": [
+    "wdg-cpub-test\\ndolci1\\porting\\w8x-to-uwp-case-study-bookstore2.md"
+  ],
+  "4084dab88acb9b3522856321a2571ab5abd12dc6": [
+    "wdg-cpub-test\\ndolci1\\porting\\w8x-to-uwp-case-study-quizgame.md"
+  ],
+  "465c03fa5f7ec302c287a13d39e4a8806fd840c7": [
+    "wdg-cpub-test\\ndolci1\\porting\\w8x-to-uwp-porting-to-a-uwp-project.md"
+  ],
+  "6988cf265ff97e37f2a250e438416fdaeeed568a": [
+    "wdg-cpub-test\\ndolci1\\porting\\w8x-to-uwp-root.md"
+  ],
+  "8c9d7aeec7691cb25c00ce3f6c6cfa077a05efc4": [
+    "wdg-cpub-test\\ndolci1\\porting\\w8x-to-uwp-troubleshooting.md"
+  ],
+  "3d65d8644039235c2dd987cab11dcfa22965815c": [
+    "wdg-cpub-test\\ndolci1\\porting\\wpsl-to-uwp-business-and-data.md"
+  ],
+  "ceece7f2442bfdb00b1a34c90d5947fffbdacb36": [
+    "wdg-cpub-test\\ndolci1\\porting\\wpsl-to-uwp-case-study-bookstore1.md"
+  ],
+  "be53e89322c9bba9adca321d161b3e46618c7dd6": [
+    "wdg-cpub-test\\ndolci1\\porting\\wpsl-to-uwp-case-study-bookstore2.md"
+  ],
+  "88b336f697775addd58d82ca735742d7c521e3b6": [
+    "wdg-cpub-test\\ndolci1\\porting\\wpsl-to-uwp-porting-to-a-uwp-project.md"
+  ],
+  "b55a4f942eb5d8e80d50dcc7a8b418680a8deb88": [
+    "wdg-cpub-test\\ndolci1\\porting\\wpsl-to-uwp-root.md"
+  ],
+  "4732871d80cae8e13c64b8833113ed90252f6878": [
+    "wdg-cpub-test\\ndolci1\\publish\\about-house-ads.md"
+  ],
+  "2d030fc40286b3474252b8f9be0392cb6a4e3d57": [
+    "wdg-cpub-test\\ndolci1\\publish\\acquisitions-report.md"
+  ],
+  "011fa6fb219acefd41dfc58381d58991c0ac61e0": [
+    "wdg-cpub-test\\ndolci1\\publish\\ad-mediation-report.md"
+  ],
+  "6867b6a4d8a92ae39a43c67b772608e09d3f2be5": [
+    "wdg-cpub-test\\ndolci1\\publish\\advertising-performance-report.md"
+  ],
+  "6a6c3e486cfe33652465108784cdbe42ed5bbbce": [
+    "wdg-cpub-test\\ndolci1\\publish\\age-ratings.md"
+  ],
+  "10009eee49ace0da7e96d55c8c88e691f025cd1a": [
+    "wdg-cpub-test\\ndolci1\\publish\\analytics.md"
+  ],
+  "907d4aeaa769da1309eb5c13c932d59f15250551": [
+    "wdg-cpub-test\\ndolci1\\publish\\app-declarations.md"
+  ],
+  "4b1999f6ac582708bf48d3a5065ba14afa97f8e6": [
+    "wdg-cpub-test\\ndolci1\\publish\\app-install-ads-reports.md"
+  ],
+  "f558a0678ad581f0b4d0331f0e7e4b81281cbd27": [
+    "wdg-cpub-test\\ndolci1\\publish\\app-management-and-services.md"
+  ],
+  "6774cdfc299ad622c2df61e0d03cd431fa0a6ab5": [
+    "wdg-cpub-test\\ndolci1\\publish\\app-marketing-guidelines.md"
+  ],
+  "89b31b3f8aa0c36c51c994d88e3fb69db80adfac": [
+    "wdg-cpub-test\\ndolci1\\publish\\app-package-requirements.md"
+  ],
+  "2144a81004f30e6547122f3c80371040b69cebdb": [
+    "wdg-cpub-test\\ndolci1\\publish\\app-promotion-and-customer-engagement.md"
+  ],
+  "d6c28297c900a0f9d64e23e58fc16d183b9963f7": [
+    "wdg-cpub-test\\ndolci1\\publish\\app-screenshots-and-images.md"
+  ],
+  "8141d5c381ef36edf3054a37472282d275bac476": [
+    "wdg-cpub-test\\ndolci1\\publish\\app-submissions.md"
+  ],
+  "019fd5fcd46db709fc15d5948422377848769746": [
+    "wdg-cpub-test\\ndolci1\\publish\\avoid-common-certification-failures.md"
+  ],
+  "b8b8f2faa8210f87dc41344ad55c256507b7afcd": [
+    "wdg-cpub-test\\ndolci1\\publish\\beta-testing-and-targeted-distribution.md"
+  ],
+  "5430af64b6e50d15c1faa225ce802a32c590f2a5": [
+    "wdg-cpub-test\\ndolci1\\publish\\category-and-subcategory-table.md"
+  ],
+  "2b5a973d9d3d3911ba2331cb07b247dad618481d": [
+    "wdg-cpub-test\\ndolci1\\publish\\channels-and-conversions-report.md"
+  ],
+  "727bf03b7d7f8bf7d6412128e95a047be4b2d2fc": [
+    "wdg-cpub-test\\ndolci1\\publish\\common-questions.md"
+  ],
+  "8f53f371ad19bac1929c4a76e59a180730d99831": [
+    "wdg-cpub-test\\ndolci1\\publish\\create-a-custom-app-promotion-campaign.md"
+  ],
+  "fcc14e09e2e6d593c58993bb00f8275906014fa7": [
+    "wdg-cpub-test\\ndolci1\\publish\\create-an-ad-campaign-for-your-app.md"
+  ],
+  "d5a31a3b5699882ebf24935985610385637a307d": [
+    "wdg-cpub-test\\ndolci1\\publish\\create-app-descriptions.md"
+  ],
+  "da53ed420cf05bcafc17984039d5e9a605d2a912": [
+    "wdg-cpub-test\\ndolci1\\publish\\create-iap-descriptions.md"
+  ],
+  "264fe37408c6dad3c5bb3004e5185ef41f82339c": [
+    "wdg-cpub-test\\ndolci1\\publish\\create-platform-specific-descriptions.md"
+  ],
+  "5943fb34526f9ec832ae3105e925ab3f2f46102f": [
+    "wdg-cpub-test\\ndolci1\\publish\\create-your-app-by-reserving-a-name.md"
+  ],
+  "63ab5d05242592dbc6cb6a48251cd7ddd03d34dc": [
+    "wdg-cpub-test\\ndolci1\\publish\\define-pricing-and-market-selection.md"
+  ],
+  "c3086c40d0ff6e49a97ff64f289abb1d133e7152": [
+    "wdg-cpub-test\\ndolci1\\publish\\distribute-lob-apps-to-enterprises.md"
+  ],
+  "089074161e06a60aa8301e025334587288b7a583": [
+    "wdg-cpub-test\\ndolci1\\publish\\download-analytic-reports.md"
+  ],
+  "f2f10b6e34f87e0982e9548d118b2b4dc1b3de4d": [
+    "wdg-cpub-test\\ndolci1\\publish\\enter-app-properties.md"
+  ],
+  "50a09bbaef62ce825801aeaa7716912ab739771e": [
+    "wdg-cpub-test\\ndolci1\\publish\\enter-iap-properties.md"
+  ],
+  "0f87ce167751d27bb8055f79d2a05d5c709f4ec1": [
+    "wdg-cpub-test\\ndolci1\\publish\\generate-preinstall-packages-for-oems.md"
+  ],
+  "cb2facdcd901ef251646505d21d4a5bd33207113": [
+    "wdg-cpub-test\\ndolci1\\publish\\generate-promotional-codes.md"
+  ],
+  "8b97a00f56761bc6ffe55655ad818f6bc4bda6f3": [
+    "wdg-cpub-test\\ndolci1\\publish\\getting-paid-apps.md"
+  ],
+  "d7d2f939ed84e452510b66db77e4a03215a691b3": [
+    "wdg-cpub-test\\ndolci1\\publish\\guidance-for-app-package-management.md"
+  ],
+  "68ad7205134d532716e9e149f3e4d24749c2f4bf": [
+    "wdg-cpub-test\\ndolci1\\publish\\health-report.md"
+  ],
+  "b08b524bd2583e81718d91fb75bb83fb759ca850": [
+    "wdg-cpub-test\\ndolci1\\publish\\how-your-app-appears-in-the-store-for-windows-10-customers.md"
+  ],
+  "ce17120c4fa7e9cb9dd4e2bf414dd399ae361b0f": [
+    "wdg-cpub-test\\ndolci1\\publish\\iap-acquisitions-report.md"
+  ],
+  "b66eae90f8c0ba0943ecffcbbaefdfa67944f7b7": [
+    "wdg-cpub-test\\ndolci1\\publish\\iap-submissions.md"
+  ],
+  "87b93a35307af61332a96519ac6955f07ae8994e": [
+    "wdg-cpub-test\\ndolci1\\publish\\link-to-your-app.md"
+  ],
+  "a146cd95134f8549060c50c1719d20239fc24f70": [
+    "wdg-cpub-test\\ndolci1\\publish\\make-your-app-easier-to-promote.md"
+  ],
+  "483c55503118ef62332018f4bdfa9871c29c3de4": [
+    "wdg-cpub-test\\ndolci1\\publish\\manage-account-users.md"
+  ],
+  "00f1e8c26295493f6bfd325960f1b00705c0cfba": [
+    "wdg-cpub-test\\ndolci1\\publish\\manage-app-names.md"
+  ],
+  "fcf1c5f65e91c364242964cc671602c67d512350": [
+    "wdg-cpub-test\\ndolci1\\publish\\managing-your-ad-campaign.md"
+  ],
+  "4fa9dbbd8a1212ad7826cb58151a1f7927da0fce": [
+    "wdg-cpub-test\\ndolci1\\publish\\mobile-operator-billing.md"
+  ],
+  "9bde3a5ab1dd5cb6faa9db0d4e9aa5f2e7578852": [
+    "wdg-cpub-test\\ndolci1\\publish\\monetize-with-ads.md"
+  ],
+  "cfc4be71bfdb1f540823f88f9e5c69a82e36a0fd": [
+    "wdg-cpub-test\\ndolci1\\publish\\notes-for-certification.md"
+  ],
+  "2cf22ec51ea96dac8522ee6073291a8369c86455": [
+    "wdg-cpub-test\\ndolci1\\publish\\organizational-licensing.md"
+  ],
+  "04cf5b2354ff92382137124d372326a8c362bd48": [
+    "wdg-cpub-test\\ndolci1\\publish\\package-version-numbering.md"
+  ],
+  "835a32b9d5ce021380bad5709d8305b8c68a26cd": [
+    "wdg-cpub-test\\ndolci1\\publish\\payout-summary.md"
+  ],
+  "ac011991ece297770206a19b8c3b5a58fb4d6463": [
+    "wdg-cpub-test\\ndolci1\\publish\\pubcenter-dev-center-integration.md"
+  ],
+  "957fa0572e079bf367aec382dd52937d08e33361": [
+    "wdg-cpub-test\\ndolci1\\publish\\pubcenter-devcenter-payout-account-and-tax-profile-consolidation.md"
+  ],
+  "d4225d944e39d4eb693dd11e34f6c8ad7e4c3d0e": [
+    "wdg-cpub-test\\ndolci1\\publish\\put-apps-and-iaps-on-sale.md"
+  ],
+  "70104d50070cce87ca1daa67dfd14fe3988d2395": [
+    "wdg-cpub-test\\ndolci1\\publish\\ratings-report.md"
+  ],
+  "e9d79561c5ac94fbc2b3de0047eaeaf04be2e3a8": [
+    "wdg-cpub-test\\ndolci1\\publish\\resolve-package-upload-errors.md"
+  ],
+  "6b80d6935e9b563be5d3feacf4a27dca9ab4b837": [
+    "wdg-cpub-test\\ndolci1\\publish\\resolve-submission-errors.md"
+  ],
+  "3a19bf901ddecd28d7a0cbfc1c0a88b6db60ab97": [
+    "wdg-cpub-test\\ndolci1\\publish\\respond-to-customer-reviews.md"
+  ],
+  "52e4b3337daa76334740a9b3dfad2c67bf516b77": [
+    "wdg-cpub-test\\ndolci1\\publish\\reviews-report.md"
+  ],
+  "82a0d006978a0520012254cf9f347e14036bebda": [
+    "wdg-cpub-test\\ndolci1\\publish\\set-app-pricing-and-availability.md"
+  ],
+  "50079c5634641b76eb02220e4c2c504061e7cab2": [
+    "wdg-cpub-test\\ndolci1\\publish\\set-iap-pricing-and-availability.md"
+  ],
+  "1e51baa879f96f02bb777e794973decf5cc7b987": [
+    "wdg-cpub-test\\ndolci1\\publish\\set-your-iap-product-id.md"
+  ],
+  "c926b34ed6faddb37a5da943d8ee15c5b948a87b": [
+    "wdg-cpub-test\\ndolci1\\publish\\setting-up-your-payout-account-and-tax-forms.md"
+  ],
+  "3756521cca82732544a848d5d4712922c56892ff": [
+    "wdg-cpub-test\\ndolci1\\publish\\supported-languages.md"
+  ],
+  "daaac5ee7c065985536d7d349e45e6e97760060e": [
+    "wdg-cpub-test\\ndolci1\\publish\\tax-details-for-paid-apps.md"
+  ],
+  "83c2668a5231f4bd8e58cf4e97ccab58b2372169": [
+    "wdg-cpub-test\\ndolci1\\publish\\the-app-certification-process.md"
+  ],
+  "36b0a10da05f7144aee882324be9f1a246dbb13d": [
+    "wdg-cpub-test\\ndolci1\\publish\\trademark-and-copyright-protection.md"
+  ],
+  "5bfb84ddff116b2ab3b9feea1b2c00fe738c7adb": [
+    "wdg-cpub-test\\ndolci1\\publish\\upload-app-packages.md"
+  ],
+  "9f6443a890309a2992510a0544bfe274357c9fb1": [
+    "wdg-cpub-test\\ndolci1\\publish\\usage-report.md"
+  ],
+  "a2fd3feffdf4f569bff832aaf5ceba0744fa13fd": [
+    "wdg-cpub-test\\ndolci1\\publish\\use-map-services.md"
+  ],
+  "3240076d18f16aacbccc9332027402a143b5243f": [
+    "wdg-cpub-test\\ndolci1\\publish\\using-the-windows-dev-center-dashboard.md"
+  ],
+  "6b4a04adb30b3d6634b59bbc672b10d83813fbeb": [
+    "wdg-cpub-test\\ndolci1\\publish\\vat-info.md"
+  ],
+  "7b8c27401ef2057628e47c2b018fa56db1a496ef": [
+    "wdg-cpub-test\\ndolci1\\publish\\view-app-identity-details.md"
+  ],
+  "5cfa664707c48becb82f95c6ceee9203c44c226a": [
+    "wdg-cpub-test\\ndolci1\\publish\\write-a-great-app-description.md"
+  ],
+  "dfb615b990e140b99a70c4978f7d660fc6d77178": [
+    "wdg-cpub-test\\ndolci1\\threading-async\\asynchronous-programming-in-cpp-universal-windows-platform-apps.md"
+  ],
+  "a8a4e8a0ee85a865b993d3a6ff74c38c7d553587": [
+    "wdg-cpub-test\\ndolci1\\threading-async\\asynchronous-programming-universal-windows-platform-apps.md"
+  ],
+  "8d626d907c089daa2426c2905b269d6ba37f5ae6": [
+    "wdg-cpub-test\\ndolci1\\threading-async\\call-asynchronous-apis-in-csharp-or-visual-basic.md"
+  ],
+  "bae136dc1838614c357e781c47b3ac7ccb3bbd0c": [
+    "wdg-cpub-test\\ndolci1\\TOC.md"
+  ],
+  "d696d06e6634c99824b230a1f7c4a088cbaf2ff2": [
+    "wdg-cpub-test\\ndolci1\\usability\\accessibility\\accessibility-checklist.md"
+  ],
+  "143b4cde23916bcf38a234155bc70332e914aadf": [
+    "wdg-cpub-test\\ndolci1\\usability\\accessibility\\accessibility-in-the-store.md"
+  ],
+  "12f5e0dbf2eaf7a8ea903ed0e7cb7ecd5a6eb0f9": [
+    "wdg-cpub-test\\ndolci1\\usability\\accessibility\\accessibility-overview.md"
+  ],
+  "57a6b3462bc1cbdc06486d7150b67171fd900fb4": [
+    "wdg-cpub-test\\ndolci1\\usability\\accessibility\\accessibility-testing.md"
+  ],
+  "abce6619263c08d0e4be6cd185db18add9b1436c": [
+    "wdg-cpub-test\\ndolci1\\usability\\accessibility\\accessibility.md"
+  ],
+  "9823882a499de121fda16449b1ee2ed55e491b19": [
+    "wdg-cpub-test\\ndolci1\\usability\\accessibility\\accessible-text-requirements.md"
+  ],
+  "81a0a429daa82224e548eaa50393d6be266b23f0": [
+    "wdg-cpub-test\\ndolci1\\usability\\accessibility\\basic-accessibility-information.md"
+  ],
+  "7705d7a4dd1dc693c409d1d3c039feab7ec1030a": [
+    "wdg-cpub-test\\ndolci1\\usability\\accessibility\\control-patterns-and-interfaces.md"
+  ],
+  "b5cb2107a5e635cd0dbf653af5ec7cf785d50e76": [
+    "wdg-cpub-test\\ndolci1\\usability\\accessibility\\custom-automation-peers.md"
+  ],
+  "53d404d52aff3f70ec982ab47f7449bedd70098d": [
+    "wdg-cpub-test\\ndolci1\\usability\\accessibility\\high-contrast-themes.md"
+  ],
+  "3695fe8a5c7f3959986fe70ae1b7c7fcf3781aa0": [
+    "wdg-cpub-test\\ndolci1\\usability\\accessibility\\keyboard-accessibility.md"
+  ],
+  "8453a20805addc41c4d77464bfb0f43f85b5cfa2": [
+    "wdg-cpub-test\\ndolci1\\usability\\accessibility\\practices-to-avoid.md"
+  ],
+  "5238f99add1a9d07702aed83bc6fea04ad6b271d": [
+    "wdg-cpub-test\\ndolci1\\usability\\app-settings\\store-and-retrieve-app-data.md"
+  ],
+  "3ee0b0f4215b4ec4973f6e52849ffff56bd49e48": [
+    "wdg-cpub-test\\ndolci1\\usability\\globalizing\\adjust-layout-and-fonts-and-support-rtl.md"
+  ],
+  "4e93b17129f8c4e84f768ede838af5b473de3258": [
+    "wdg-cpub-test\\ndolci1\\usability\\globalizing\\globalizing-portal.md"
+  ],
+  "8bd1bb3781c5ca3bca069302a4540150057c78a0": [
+    "wdg-cpub-test\\ndolci1\\usability\\globalizing\\guidelines-and-checklist-for-globalizing-your-app.md"
+  ],
+  "ddf148fddc7268fa9918ccba2cd2bf173c48255d": [
+    "wdg-cpub-test\\ndolci1\\usability\\globalizing\\manage-language-and-region.md"
+  ],
+  "c17e96a2180ee7be4fee50e29d607744c706766d": [
+    "wdg-cpub-test\\ndolci1\\usability\\globalizing\\prepare-your-app-for-localization.md"
+  ],
+  "a8248411c086179840065aa2581821a10f3e751b": [
+    "wdg-cpub-test\\ndolci1\\usability\\globalizing\\put-ui-strings-into-resources.md"
+  ],
+  "2c5596d34f93543d1a4069c282b9490423b9ef1e": [
+    "wdg-cpub-test\\ndolci1\\usability\\globalizing\\use-global-ready-formats.md"
+  ],
+  "335d74c9cfda98c9d3b979870a36dbe6c37c06a4": [
+    "wdg-cpub-test\\ndolci1\\usability\\globalizing\\use-patterns-to-format-dates-and-times.md"
+  ],
+  "c20a0d1bcfda3c28c6289b7c745ef2e7f8a612cb": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\attached-properties-overview.md"
+  ],
+  "4433307ce4ea0a0e9f43328bfab0c594e4bbad0d": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\custom-attached-properties.md"
+  ],
+  "f9be158bcfd777c2285ff8865063220fc13ae42c": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\custom-dependency-properties.md"
+  ],
+  "6535ae83d4ff031c9515487fb6201694c3c95745": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\dependency-properties-overview.md"
+  ],
+  "bcc64cfc51aa038349c2de9d8fc6a91ca2560c66": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\events-and-routed-events-overview.md"
+  ],
+  "80ee3b2cfdb64b23169a9c70e89cde5098016334": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\index.md"
+  ],
+  "21a0bb43b644f2edf56d7e7bb8031c5966750121": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\x-bind-markup-extension.md"
+  ],
+  "e0fcec25b7b24654a8a9ceffebca136d5dd7188a": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\x-fieldmodifier-attribute.md"
+  ],
+  "2fa688bcecf98e6ed42858d7523fddb53fbf7ba7": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\x-null-markup-extension.md"
+  ],
+  "1e9d37634964a2859e6f670b3449acfa84564f9b": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\xaml-namespaces-and-namespace-mapping.md"
+  ],
+  "0650191324964593b8b3fc54b757648253b95caa": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\xaml-overview.md"
+  ],
+  "af817df780f291b6367a374e535cce22a84ba4c1": [
+    "wdg-cpub-test\\ndolci1\\xaml-platform\\xaml-syntax-guide.md"
   ]
 }
