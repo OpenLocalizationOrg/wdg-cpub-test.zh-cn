@@ -897,6 +897,9 @@
   "2fa0ffa67d6c2903b99534c4726dfde5073a6c1c": [
     "wdg-cpub-test\\ndolci1\\graphics\\animations-overview.md"
   ],
+  "2c93f2a215aa9b5e0a5b880a0cafaa790fb9b141": [
+    "wdg-cpub-test\\ndolci1\\graphics\\images\\animation-child-rectangles.gif"
+  ],
   "35dcae7a582f7ff74bce0ed8e9525aea0adc993a": [
     "wdg-cpub-test\\ndolci1\\graphics\\composition-brushes.md"
   ],
@@ -1052,6 +1055,9 @@
   ],
   "1223021b5904a53a7ae4f06400037d597608eeea": [
     "wdg-cpub-test\\ndolci\\files\\images\\app-to-app-diagram-600px.png"
+  ],
+  "5c9c55a53d1a92022daeef461cdfc749641daf5a": [
+    "wdg-cpub-test\\get-app-acquisitions.md"
   ],
   "809df2184bbc1de9d0ebe9363e414005a389ad19": [
     "wdg-cpub-test\\get-app-acquisitions.md"
@@ -1775,5 +1781,8 @@
   ],
   "af817df780f291b6367a374e535cce22a84ba4c1": [
     "wdg-cpub-test\\ndolci1\\xaml-platform\\xaml-syntax-guide.md"
+  ],
+  "e416bf85537540262613086313bb91f4f45cd31a": [
+    "wdg-cpub-test\\testhtml.md"
   ]
 }
