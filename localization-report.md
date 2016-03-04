@@ -4,19 +4,18 @@
  Property | Value 
  -------- | ----- 
  Total Files | 818
-[ Handoff Failed Files ](#handoff-failed-list)| 269
+[ Handoff Failed Files ](#handoff-failed-list)| 268
 [ Handoff Success Files ](#handoff-success-list)| 182
 [ Archive Failed Files ](#archive-failed-list)| 0
 [ Archive Success Files ](#archive-success-list)| 0
 [ Handback Failed Files ](#handback-failed-list)| 0
 [ Out Of Sync Handback Files ](#outofsync-handback-success-list)| 1
 [ In Sync Handback Files ](#insync-handback-success-list)| 103
-[ Ignored Files ](#ignored-list)| 263
+[ Ignored Files ](#ignored-list)| 264
 
 ## <a name='handoff-failed-list'></a> Handoff Failed File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [wdg-cpub-test\get-app-acquisitions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/get-app-acquisitions.md) | HandedOffFailed | [Details](#809df2184bbc1de9d0ebe9363e414005a389ad1917)
  [wdg-cpub-test\ndolci1\app-to-app\copy-and-paste.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/app-to-app/copy-and-paste.md) | HandedOffFailed | [Details](#a447cb93cfba0156012f968c7aac99a72b82de0f193)
  [wdg-cpub-test\ndolci1\app-to-app\index.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/app-to-app/index.md) | HandedOffFailed | [Details](#38f2349a274f59376240e301236742d0bd1b44dd195)
  [wdg-cpub-test\ndolci1\audio-video-camera\adaptive-streaming.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/audio-video-camera/adaptive-streaming.md) | HandedOffFailed | [Details](#4834d6ece9f4b49cc62f2a0cd5eb9983d82f1579199)
@@ -603,6 +602,7 @@
  [Tools\NuGet\Nuget.Config](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/Tools/NuGet/Nuget.Config) | Ignored | [Details](#37d5a2d0c8a81313cf7e92800e699f2f86a9f9f97)
  [Tools\NuGet\nuget.exe](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/Tools/NuGet/nuget.exe) | Ignored | [Details](#7469c905e04001f8250137d2da57bbc7bec2d3588)
  [wdg-cpub-test\docfx.json](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/docfx.json) | Ignored | [Details](#ef46e7227eb5de88f180c82961fdc8c6732f6dbf10)
+ [wdg-cpub-test\get-app-acquisitions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/get-app-acquisitions.md) | Ignored | [Details](#f02a8b2e2ceca832cac95f5d3918bfa8327ff5fe17)
  [wdg-cpub-test\iawilt\iawilt_test\Ben test](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/iawilt/iawilt_test/Ben test) | Ignored | [Details](#eff8f567d06e11d393836c1fbf24b220fabbd06118)
  [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\App.xaml](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/App.xaml) | Ignored | [Details](#ba02637e281399d6f7bd6a5a406d990f6070a3a5156)
  [wdg-cpub-test\ndolci1\app-to-app\code\copy_paste\cs\App.xaml.cs](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/ndolci1/app-to-app/code/copy_paste/cs/App.xaml.cs) | Ignored | [Details](#f8d6cc4b4dd300d5e89e1458ffbe42229f6d71ea157)
@@ -1074,13 +1074,12 @@
 * Dependency From: wdg-cpub-test\domars\Directions_To_Update_Existing_Topic_Using_Browser.md
 * [Back to Top](#report-top)
 
-##### <a name='809df2184bbc1de9d0ebe9363e414005a389ad1917'></a> Source: [wdg-cpub-test\get-app-acquisitions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/get-app-acquisitions.md)
-* Status: HandedOffFailed
+##### <a name='f02a8b2e2ceca832cac95f5d3918bfa8327ff5fe17'></a> Source: [wdg-cpub-test\get-app-acquisitions.md](https://github.com/OpenLocalizationOrg/wdg-cpub-test/blob/df786c03b667bd532cc22c158060cb2ec9e51e5c/wdg-cpub-test/get-app-acquisitions.md)
+* Status: Ignored
 * Target File: 
 * Handoff File: 
 * Handoff Datetime: 0001-01-01 00:00:00
 * Handoff Reason: Ignored
-* Handoff Error: [handoff_transform_failed](#809df2184bbc1de9d0ebe9363e414005a389ad1917handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -11167,12 +11166,6 @@
 * Error Message: The handback type archive is not match with handoff type null.
 * Retriable: False
 * Error Details: {"internal_error_code":"handback_type_is_mismatch_with_handoff_type","internal_error_message":"The handback type archive is not match with handoff type null.","internal_error_retriable":false,"exception_message":"The handback type archive is not match with handoff type null.","exception_type":"Microsoft.OpenLocalization.Common.ErrorHandling.OpenLocalizationException","stack_trace":null,"extended_information":null}
-
-##### <a name='809df2184bbc1de9d0ebe9363e414005a389ad1917handoff_transform_failed'></a> Source: [wdg-cpub-test\get-app-acquisitions.md](#809df2184bbc1de9d0ebe9363e414005a389ad1917)
-* Error Code: handoff_transform_failed
-* Error Message: Handoff source file: wdg-cpub-test\get-app-acquisitions.md transformed failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: wdg-cpub-test\\get-app-acquisitions.md transformed failed.","internal_error_retriable":false,"exception_message":"Value cannot be null.\r\nParameter name: stream","exception_type":"System.ArgumentNullException","stack_trace":"   at System.IO.StreamReader..ctor(Stream stream, Encoding encoding, Boolean detectEncodingFromByteOrderMarks, Int32 bufferSize, Boolean leaveOpen)\r\n   at System.IO.StreamReader..ctor(Stream stream, Boolean detectEncodingFromByteOrderMarks)\r\n   at Microsoft.OpenLocalization.Transformer.MarkdownJavascriptTransformer.ReadScript()\r\n   at Microsoft.OpenLocalization.Transformer.MarkdownJavascriptTransformer.Initialize()\r\n   at System.Lazy`1.CreateValue()\r\n--- End of stack trace from previous location where exception was thrown ---\r\n   at Microsoft.OpenLocalization.Transformer.MarkdownJavascriptTransformer.MarkdownToXliffCore(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String contentClass, String locale)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.MarkdownToXliff(IMarkdownTransformer markdownTransformer, Stream sourceStream, Stream xliffStream, Stream skeletonStream, String contentClass, String locale, String xliffVersion)\r\n   at Microsoft.OpenLocalization.Transformer.XliffTransformerExtensions.MarkdownToXliff(IMarkdownTransformer markdownTransformer, String markdownFile, String xliffFile, String skeletonFile, String locale, String xliffVersion)\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.MarkdownToXliff(String mdfile, String xliffFile, String skeletonFile, String targetLocale, String xliffVersion, Boolean useJavascriptTransformer) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 27\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass9_0.<GetHandoffFiles>b__0(Tuple`3 handoff) in C:\\Jenkins\\workspace\\OpenLocalization-Sandbox\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 340","extended_information":null}
 
 ##### <a name='d95b5b3cbef2c509c1ba71b6aa0160e169ca861319handback_type_is_mismatch_with_handoff_type'></a> Source: [wdg-cpub-test\iawilt\iawilt_test\test.md](#d95b5b3cbef2c509c1ba71b6aa0160e169ca861319)
 * Error Code: handback_type_is_mismatch_with_handoff_type
